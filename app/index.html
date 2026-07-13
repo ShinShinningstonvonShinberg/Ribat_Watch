@@ -63,6 +63,18 @@
           <option value="mosque_prayer" selected>モスク＋祈祷室</option>
           <option value="total">すべて（予定地含む）</option>
         </select>
+        <!-- コロプレスの配色段階数（3〜9）と分類法（分位/等間隔） -->
+        <div class="ctl-row">
+          <label class="ctl-label" for="buckets">配色の段階数 <span id="buckets-val" class="ctl-val">6</span></label>
+          <input type="range" id="buckets" autocomplete="off" min="3" max="9" step="1" value="6">
+        </div>
+        <div class="ctl-row">
+          <label class="ctl-label" for="classify">分類法</label>
+          <select id="classify" autocomplete="off">
+            <option value="equal" selected>等間隔</option>
+            <option value="quantile">分位数</option>
+          </select>
+        </div>
         <div id="legend" class="legend"></div>  <!-- app.js が配色段を差し込む -->
       </section>
 
@@ -73,6 +85,26 @@
         <label class="chk"><input type="checkbox" autocomplete="off" id="pt-prayer" checked> <span class="dot dot-prayer"></span> 祈祷室 <em id="n-prayer"></em></label>
         <label class="chk"><input type="checkbox" autocomplete="off" id="pt-planned" checked> <span class="dot dot-planned"></span> 予定地 <em id="n-planned"></em></label>
         <label class="chk"><input type="checkbox" autocomplete="off" id="pt-heat"> 🔥 点ヒートマップ</label>
+        <!-- 点ヒートの詳細設定（🔥 ON のときだけ表示。既定は非表示、JS が syncHeatSection で切替） -->
+        <div id="sec-heat" class="heat-settings" style="display:none">
+          <div class="ctl-row">
+            <label class="ctl-label" for="heat-radius">半径 <span id="heat-radius-val" class="ctl-val">22</span></label>
+            <input type="range" id="heat-radius" autocomplete="off" min="6" max="50" step="1" value="22">
+          </div>
+          <div class="ctl-row">
+            <label class="ctl-label" for="heat-blur">ぼかし <span id="heat-blur-val" class="ctl-val">18</span></label>
+            <input type="range" id="heat-blur" autocomplete="off" min="1" max="40" step="1" value="18">
+          </div>
+          <div class="ctl-row">
+            <label class="ctl-label" for="heat-intensity">強度 <span id="heat-intensity-val" class="ctl-val">0.8</span></label>
+            <input type="range" id="heat-intensity" autocomplete="off" min="0.2" max="2" step="0.1" value="0.8">
+          </div>
+          <div class="ctl-row">
+            <label class="ctl-label" for="heat-steps">階調（段階数） <span id="heat-steps-val" class="ctl-val">6</span></label>
+            <input type="range" id="heat-steps" autocomplete="off" min="2" max="10" step="1" value="6">
+          </div>
+          <button type="button" id="heat-reset" class="mini-btn">既定値に戻す</button>
+        </div>
       </section>
 
       <!-- ホバー中の区の読み取り欄と、データ出典（クレジット表記） -->
@@ -90,6 +122,17 @@
 
   <!-- 地図下部に出るホバー吹き出し（app.js が内容を差し込む） -->
   <div id="hoverbox" class="hoverbox" hidden></div>
+
+  <!-- エリアランキング（右上・並び替え可能）。行クリックで該当区へズーム。中身は app.js が差し込む -->
+  <div id="rank-panel" class="panel rank-panel">
+    <div class="panel-head">
+      <h2 class="rank-title">エリアランキング <span class="rank-level-wrap">（<span id="rank-level">—</span>）</span></h2>
+      <button id="rank-toggle" title="ランキングを畳む">–</button>
+    </div>
+    <div id="rank-body">
+      <div id="rank-body-inner"></div>
+    </div>
+  </div>
 
   <!-- 地図ライブラリ（同梱）→ ヒートマッププラグイン → アプリ本体 の順に読み込む -->
   <script src="vendor/leaflet.js"></script>

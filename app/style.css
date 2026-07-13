@@ -20,7 +20,7 @@ html,body{margin:0;height:100%;font-family:-apple-system,BlinkMacSystemFont,"Seg
 }
 .panel-head{display:flex;align-items:center;justify-content:space-between}
 .panel h1{font-size:18px;margin:0;letter-spacing:.5px;color:var(--accent)}
-#panel-toggle{border:1px solid var(--line);background:#fff;border-radius:6px;width:24px;height:24px;cursor:pointer;font-size:15px;line-height:1}
+#panel-toggle,#rank-toggle{border:1px solid var(--line);background:#fff;border-radius:6px;width:24px;height:24px;cursor:pointer;font-size:15px;line-height:1}
 .panel .sub{margin:2px 0 10px;font-size:11.5px;color:var(--muted)}
 .panel section{padding:10px 0;border-top:1px solid var(--line)}   /* セクション区切り線 */
 .panel h2{font-size:12px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted);margin:0 0 8px}
@@ -42,6 +42,7 @@ section.footer{font-size:11px;color:var(--muted)}
 .legend{margin-top:8px;font-size:11px}
 .legend .row{display:flex;align-items:center;gap:6px;margin:2px 0}
 .legend .swatch{width:16px;height:12px;border-radius:2px;border:1px solid rgba(0,0,0,.15)}   /* 色見本 */
+.legend-note{margin-top:5px;font-size:10.5px;color:var(--muted)}   /* 最大件数・実効段階数の注記 */
 
 /* 地図下部に出るホバー吹き出し */
 .hoverbox{
@@ -60,3 +61,42 @@ section.footer{font-size:11px;color:var(--muted)}
 
 /* パネル折りたたみ時は本文と副題を隠す */
 .panel.collapsed #panel-body,.panel.collapsed .sub{display:none}
+
+/* スライダー等の汎用コントロール行（配色段階数・点ヒート設定で共用） */
+.ctl-row{display:flex;flex-direction:column;gap:3px;margin:8px 0}
+.ctl-label{font-size:11.5px;color:var(--fg);display:flex;justify-content:space-between;align-items:center;gap:8px}
+.ctl-val{color:var(--accent);font-weight:600;font-variant-numeric:tabular-nums}
+input[type=range]{width:100%;accent-color:var(--accent);cursor:pointer;margin:0}
+.mini-btn{margin-top:4px;border:1px solid var(--line);background:#fff;border-radius:6px;padding:4px 9px;font-size:11.5px;cursor:pointer}
+.mini-btn:hover{background:#f3f4f6}
+/* 点ヒートの詳細設定（🔥 ON のときだけ表示） */
+.heat-settings{margin-top:8px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:#fafafa}
+
+/* エリアランキングパネル（右上）。左パネルと同じ .panel を右寄せで再利用 */
+.rank-panel{left:auto;right:12px;width:300px}
+/* .panel h2 より詳細度を上げて（.rank-panel .rank-title）色・サイズの上書きを効かせる */
+.rank-panel .rank-title{font-size:13px;margin:0;color:var(--accent);text-transform:none;letter-spacing:0;font-weight:700}
+.rank-level-wrap{color:var(--muted);font-weight:400;font-size:11.5px}
+#rank-body{margin-top:8px}
+.rank-count{font-size:11px;color:var(--muted);margin-bottom:6px}
+.rank-empty{font-size:12px;color:var(--muted);padding:8px 2px}
+.rank-table{width:100%;border-collapse:collapse;font-size:12px}
+.rank-table thead th{position:sticky;top:0;background:#fff;border-bottom:1px solid var(--line);padding:5px 4px;text-align:right;font-weight:600;color:var(--muted);white-space:nowrap}
+.rank-table th.rk-name{text-align:left}
+.rank-table th.sortable{cursor:pointer;user-select:none}
+.rank-table th.sortable:hover{color:var(--accent)}
+.rank-table td{padding:3px 4px;border-bottom:1px solid #f1f1f3;text-align:right;font-variant-numeric:tabular-nums}
+.rank-table td.rk-name{text-align:left;max-width:130px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rank-table td.rk-num{color:var(--muted)}
+.rank-table td.rk-total{font-weight:700}
+.rank-table tbody tr{cursor:pointer}
+.rank-table tbody tr:hover{background:#fff7ed}   /* 行ホバー（地図側のハイライトと連動） */
+/* ランキング折りたたみ時は中身を隠す */
+.panel.rank-panel.collapsed #rank-body{display:none}
+
+/* 画面が狭い時は左右パネルを細くして重なりを抑える */
+@media (max-width:720px){
+  .panel{width:210px}
+  .rank-panel{width:210px}
+  .rank-table td.rk-name{max-width:78px}
+}

@@ -21,3 +21,6 @@ Export_Mega/
 
 # 資金調達リサーチの作業ファイル（生データ由来・非公開）
 funding_work/
+
+# AIセッションのアーカイブ（作業記録・非公開）
+AI_Sessions/
