@@ -1,0 +1,62 @@
+/* Ribat Watch のスタイル定義。
+   配色や余白などの見た目を集約する。要素の対応は index.html を参照。 */
+
+/* 配色変数（テーマ色）。--mosque/--prayer/--planned は地点種別の色 */
+:root{
+  --bg:#ffffff; --fg:#1a1a1a; --muted:#6b7280; --line:#e5e7eb;
+  --mosque:#d7301f; --prayer:#2166ac; --planned:#238b45;
+  --accent:#7f1d1d;
+}
+*{box-sizing:border-box}
+/* 日本語表示のため Hiragino / Noto Sans JP をフォント候補に含める */
+html,body{margin:0;height:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Hiragino Sans","Noto Sans JP",sans-serif;color:var(--fg)}
+#map{position:absolute;inset:0;background:#eef1f4}   /* 地図を全画面に */
+
+/* 操作パネル（左上・スクロール可） */
+.panel{
+  position:absolute;top:12px;left:12px;z-index:1000;width:288px;max-height:calc(100% - 24px);
+  overflow:auto;background:rgba(255,255,255,.97);border:1px solid var(--line);
+  border-radius:12px;box-shadow:0 6px 24px rgba(0,0,0,.14);padding:14px 16px;
+}
+.panel-head{display:flex;align-items:center;justify-content:space-between}
+.panel h1{font-size:18px;margin:0;letter-spacing:.5px;color:var(--accent)}
+#panel-toggle{border:1px solid var(--line);background:#fff;border-radius:6px;width:24px;height:24px;cursor:pointer;font-size:15px;line-height:1}
+.panel .sub{margin:2px 0 10px;font-size:11.5px;color:var(--muted)}
+.panel section{padding:10px 0;border-top:1px solid var(--line)}   /* セクション区切り線 */
+.panel h2{font-size:12px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted);margin:0 0 8px}
+.panel h3{font-size:11.5px;font-weight:600;color:var(--fg);margin:8px 0 5px}
+.radio-row{display:flex;flex-wrap:wrap;gap:6px 12px}   /* ラジオボタンの横並び */
+.radio-row label,.chk{font-size:12.5px;display:flex;align-items:center;gap:5px;cursor:pointer}
+.chk{margin:5px 0}
+.chk em{color:var(--muted);font-style:normal;margin-left:auto;font-size:11.5px}   /* 件数を右寄せ */
+.hint{font-size:11px;color:var(--muted);margin-top:6px;font-style:italic}
+select{width:100%;padding:6px 8px;border:1px solid var(--line);border-radius:7px;font-size:12.5px;background:#fff}
+/* 凡例やチェックボックスの色マーカー（丸） */
+.dot{width:11px;height:11px;border-radius:50%;display:inline-block;border:1px solid rgba(0,0,0,.25)}
+.dot-mosque{background:var(--mosque)} .dot-prayer{background:var(--prayer)} .dot-planned{background:var(--planned)}
+section.footer{font-size:11px;color:var(--muted)}
+.readout{background:#f7f7f9;border:1px solid var(--line);border-radius:8px;padding:8px;min-height:34px;color:var(--fg);font-size:12px}
+.src{margin-top:8px;line-height:1.4}   /* 出典クレジット */
+
+/* 凡例（配色スケールの各段） */
+.legend{margin-top:8px;font-size:11px}
+.legend .row{display:flex;align-items:center;gap:6px;margin:2px 0}
+.legend .swatch{width:16px;height:12px;border-radius:2px;border:1px solid rgba(0,0,0,.15)}   /* 色見本 */
+
+/* 地図下部に出るホバー吹き出し */
+.hoverbox{
+  position:absolute;bottom:16px;left:50%;transform:translateX(-50%);z-index:1000;
+  background:rgba(20,20,25,.9);color:#fff;padding:7px 13px;border-radius:8px;font-size:13px;
+  pointer-events:none;box-shadow:0 3px 12px rgba(0,0,0,.3);white-space:nowrap;
+}
+.hoverbox b{color:#ffd9a0}
+
+/* ポップアップ（区・地点クリック時） */
+.leaflet-popup-content{font-size:12.5px;line-height:1.45}
+.leaflet-popup-content .pname{font-weight:700;font-size:13.5px;display:block;margin-bottom:3px}
+.leaflet-popup-content .removed{color:var(--mosque);font-weight:600}   /* ★削除済みの強調 */
+.leaflet-popup-content a{color:#1d4ed8}
+.pcounts{margin-top:4px;color:#374151}
+
+/* パネル折りたたみ時は本文と副題を隠す */
+.panel.collapsed #panel-body,.panel.collapsed .sub{display:none}

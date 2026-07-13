@@ -1,0 +1,5914 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.0350487,
+     42.3765086
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "北海01",
+    "seq": "003",
+    "name": "室蘭モスク",
+    "removed_from_gmaps": false,
+    "source_url": "https://www.google.com/maps?cid=11332280779883093832",
+    "description": "GMap情報：https://www.google.com/maps?cid=11332280779883093832"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.9971417,
+     43.2040902
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "北海02",
+    "seq": "004",
+    "name": "マスジド・アル・ヌール小樽",
+    "removed_from_gmaps": false,
+    "source_url": "http://islam.co.jp/sp/masjid/hokkaido/otaru/",
+    "description": "http://islam.co.jp/sp/masjid/hokkaido/otaru/<br>https://www.instagram.com/explore/locations/1026079612/masjid-al-noor-otaru<br>https://www.facebook.com/halalfoodinjapan/posts/masjid-al-noor-otaru-in-hokkaido-japan-officially-registered-as-an-islamic-relig/2782522665352112<br>http://www.asahi.com/area/hokkaido/articles/MTW20180416011580001.html<br>公式ドメイン期限切れのため不明 2018年朝日新聞の記事より"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.3523972,
+     43.7698943
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "北海03",
+    "seq": "005",
+    "name": "★ヌサンタラ文化センター Masjid Asahikawa",
+    "removed_from_gmaps": true,
+    "source_url": "https://www.instagram.com/masjidnusantaraasahikawa",
+    "description": "北海道旭川市3条通2丁目1011-1<br>googleマップ3月に登録削除した模様。<br>インスタ：https://www.instagram.com/masjidnusantaraasahikawa"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.3476462,
+     43.077486
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "北海04",
+    "seq": "007",
+    "name": "札幌マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "https://www.google.com/maps?cid=5650665989971537749",
+    "description": "GMap：https://www.google.com/maps?cid=5650665989971537749<br>宗教法人 北海道イスラミックソサエティ<br>公式HP：https://sapporomasjid.or.jp/<br>インスタ：https://www.instagram.com/sapporomasjid.official/<br>Facebook：https://www.facebook.com/sapporomasjid<br>Wiki https://en.wikipedia.org/wiki/Sapporo_Masjid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.3397141,
+     43.7823851
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "北海05",
+    "seq": "008",
+    "name": "★Asahikawa Masjid (旭川マスジド)",
+    "removed_from_gmaps": true,
+    "source_url": "https://www.google.com/maps?cid=12482844503860688084",
+    "description": "3月中にgoogleマップから登録削除した模様<br>GMap：https://www.google.com/maps?cid=12482844503860688084<br>公式HP：https://asahikawamasjid.com/<br>HP リンク切れ 北洋銀行口座ドネーション"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.495699,
+     43.1266655
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "北海06",
+    "seq": "282",
+    "name": "江別マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy6OBSOt10ySaOkaDzYg4tBhjkpNDgZRilUAijhPi4XUeeRVmUmobbrNG9j6lozk_Epn41nRluYKT0Q26bnFZinTq93uvpGSdP5h4FezOJB3cxG1MLeg5SRGk5llRPdw57VHWrszgEOD7Rxr1yTj-l6KtMTZx6hLfZ1Gx0wDvdtp90KWFQl9DcQbcTpqc6sVNYP_sZKMERPdHZaMT-6yYVIGN49wEDN_WPVVifr7IyuClCeamMeYBsdGCM?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy6OBSOt10ySaOkaDzYg4tBhjkpNDgZRilUAijhPi4XUeeRVmUmobbrNG9j6lozk_Epn41nRluYKT0Q26bnFZinTq93uvpGSdP5h4FezOJB3cxG1MLeg5SRGk5llRPdw57VHWrszgEOD7Rxr1yTj-l6KtMTZx6hLfZ1Gx0wDvdtp90KWFQl9DcQbcTpqc6sVNYP_sZKMERPdHZaMT-6yYVIGN49wEDN_WPVVifr7IyuClCeamMeYBsdGCM?fife=s16383\" height=\"200\" width=\"auto\" /><br>北海道江別市角山１７８−３<br>2026年3月時点で登録はなかったが、6月で登録されていたので登録。"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.3526882,
+     44.34118
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "北海07",
+    "seq": "283",
+    "name": "Masjid Nusantara Mombetsu",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzGPsMwvDzMNckMwOZQtAghcGuzP0omZPf4mS2xQ-CaLvE2LVldJzVeUGNevZnN5XpMz5jKUG8KUUHRzOXoum_aIGYHky1sJ_6Y9Jff5n-TZ-_iRW3wb6spO7C3vz6cg1j85ZpgMM9NzZxupFjzXUg8EJdVpb9UPUgGICSbQBsEI3cZlMQp1ksJF-6eCJSZHs2eku3zxdzvWL3v7jt1K_zuEKC8nqxtTYbF9Rjd0T3-3REG1hvnq8BJ-t4?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzGPsMwvDzMNckMwOZQtAghcGuzP0omZPf4mS2xQ-CaLvE2LVldJzVeUGNevZnN5XpMz5jKUG8KUUHRzOXoum_aIGYHky1sJ_6Y9Jff5n-TZ-_iRW3wb6spO7C3vz6cg1j85ZpgMM9NzZxupFjzXUg8EJdVpb9UPUgGICSbQBsEI3cZlMQp1ksJF-6eCJSZHs2eku3zxdzvWL3v7jt1K_zuEKC8nqxtTYbF9Rjd0T3-3REG1hvnq8BJ-t4?fife=s16383\" height=\"200\" width=\"auto\" /><br>北海道紋別市南が丘町３丁目６−６"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.2999178,
+     40.6396938
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "青森01",
+    "seq": "006",
+    "name": "Madina Mosque মদিনা মসজিদ マディーナモスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.1268061,
+     39.717609
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岩手01",
+    "seq": "002",
+    "name": "Morioka Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.1174019,
+     39.270682
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岩手02",
+    "seq": "015",
+    "name": "TAWHEED MOSQUE KITAKAMI‎‎‎",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": "مسجد التوحيد _كيتاكامي• TAWHEED MOSQUE KITAKAMI‎‎‎‎‎‎"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.670783,
+     38.042287
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "宮城01",
+    "seq": "009",
+    "name": "Shiroishi Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.360862,
+     38.4138168
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "宮城02",
+    "seq": "010",
+    "name": "石巻モスク Ishinomaki Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.9851666,
+     38.3876858
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "宮城03",
+    "seq": "011",
+    "name": "Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.0100445,
+     38.6690247
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "宮城04",
+    "seq": "012",
+    "name": "Kurihara Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.8626943,
+     38.4925167
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "宮城05",
+    "seq": "013",
+    "name": "Ohira mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.8783467,
+     38.2527825
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "宮城06",
+    "seq": "014",
+    "name": "Sendai Central Prayer Room",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.8272883,
+     38.2678262
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "宮城07",
+    "seq": "016",
+    "name": "仙台イスラム文化センター Ｉ．Ｃ．Ｃ．Ｓ",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9065844,
+     38.8497569
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "山形01",
+    "seq": "020",
+    "name": "(Masjid Omar Amarume)マスジド オマル 余目",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.3100072,
+     38.4162899
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "山形02",
+    "seq": "023",
+    "name": "YAMAGATA MUSALLA",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.2039172,
+     37.1346713
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "福島01",
+    "seq": "228",
+    "name": "Al Rehman Shirakawa Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.3793838,
+     37.4405409
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "福島02",
+    "seq": "018",
+    "name": "Koriyama Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.4754487,
+     37.8124782
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "福島03",
+    "seq": "022",
+    "name": "グローバル トレーディング",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.8559184,
+     36.9392114
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "福島04",
+    "seq": "024",
+    "name": "Muhammadi Masjid (Mosque), Iwaki",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.4711016,
+     36.3326758
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城01",
+    "seq": "222",
+    "name": "Masjid Abu Bakar Alsiddique",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.2455145,
+     36.1167592
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城02",
+    "seq": "227",
+    "name": "Masjid Kandatsu",
+    "removed_from_gmaps": false,
+    "source_url": "https://www.tiktok.com/@masjid_kandatsu.j/video/7617099396173270290",
+    "description": "Tiktok https://www.tiktok.com/@masjid_kandatsu.j/video/7617099396173270290"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.6484683,
+     36.5720238
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城03",
+    "seq": "231",
+    "name": "マスジッドアルゴンラーマン",
+    "removed_from_gmaps": false,
+    "source_url": "https://www.facebook.com/hitachi.masjid/?locale=ja_JP",
+    "description": "日本イスラム文化センター 日立マスジド<br>Googleマップ登録なし<br>茨城県日立市東成沢町3-13-10<br>https://www.facebook.com/hitachi.masjid/?locale=ja_JP<br>https://halalmedia.jp/ja/masjid/masjid-ar-rahmanhitachi-mosque/<br>より"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9025255,
+     35.9938459
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城04",
+    "seq": "033",
+    "name": "Yahagi Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9182963,
+     36.132815
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城05",
+    "seq": "034",
+    "name": "マーカズ ムハンマド アライ ムハンマド ジャパン （シーア派モスク）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9729473,
+     36.120663
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城06",
+    "seq": "035",
+    "name": "ISHIGE MASJID JAPAN",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.3072799,
+     36.2411209
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城07",
+    "seq": "036",
+    "name": "Masjid Madina",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.3311124,
+     36.2249666
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城08",
+    "seq": "038",
+    "name": "Anwar-e Madinah Masjid(ishioka,omitama)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8427237,
+     36.1449245
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城09",
+    "seq": "039",
+    "name": "Masjid Umar Bin Khattab",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9707899,
+     36.1066414
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城10",
+    "seq": "040",
+    "name": "MASJID NUR ALAM JOSO",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8581231,
+     36.0734369
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城11",
+    "seq": "041",
+    "name": "Al Mustafa Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0068216,
+     36.1877814
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城12",
+    "seq": "025",
+    "name": "Masjid 125",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7893174,
+     36.1189589
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城13",
+    "seq": "026",
+    "name": "Sakai Machi Jame Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "https://sakaimachijamemasjid.com/",
+    "description": "2026.3<br>googleマップ登録削除<br>茨城県猿島郡境町長井戸1731-2<br>HP:https://sakaimachijamemasjid.com/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8106227,
+     36.1579592
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城14",
+    "seq": "027",
+    "name": "Masjid NU At Taqwa koga",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8870844,
+     36.2967131
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城15",
+    "seq": "028",
+    "name": "ビラールモスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7865956,
+     36.2058047
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城16",
+    "seq": "029",
+    "name": "Islamic Center, Tajweed ul quran, Japan.",
+    "removed_from_gmaps": false,
+    "source_url": "https://www.facebook.com/p/Islamic-center-tajweed-ul-quran-japan-100069199744160/",
+    "description": "茨城県古河市上大野2018<br>https://www.facebook.com/p/Islamic-center-tajweed-ul-quran-japan-100069199744160/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8293794,
+     36.0848685
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城17",
+    "seq": "030",
+    "name": "Jamiya masjid minhaj ul quran sakai japan",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.891192,
+     36.0420088
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城18",
+    "seq": "031",
+    "name": "Iwai Bando Masjid Complex",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9056963,
+     36.1624399
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城19",
+    "seq": "032",
+    "name": "Masjid al-Hussain",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.4902913,
+     36.3820646
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城20",
+    "seq": "017",
+    "name": "Baitul Mukarram Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.319381,
+     35.965206
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城21",
+    "seq": "019",
+    "name": "Baitun Nur Masjid Inashiki",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0761493,
+     36.111544
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城22",
+    "seq": "021",
+    "name": "つくばモスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8178053,
+     36.2116925
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城23",
+    "seq": "263",
+    "name": "Pesantren NU At-Taqwa",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8355927,
+     36.0736057
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城24",
+    "seq": "269",
+    "name": "アフルルバイトセンターとフセイニヤ",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxLW1k3clwePMqeA2x2Uwkovdx07JZSWBnFVsRdYOQ_9N4wII3zZ24A2drcCoonrSeV2Ys7Kgp4NmJ_CVhHnQBdSnIJU6zwiKOK1nht2UASUtodkXii957n_htqEH3tWj5mXz6fgnwYMrgy-bLX3JMxWb_kpFUkfFAGL3C-ewRn_802ksM3NBzZ1xtxVU8PBeimG5oDyq1yRhHKXUeng1KO8Qvc33vZMI7wN2hWI9kayqup2-N0MEneDtU?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxLW1k3clwePMqeA2x2Uwkovdx07JZSWBnFVsRdYOQ_9N4wII3zZ24A2drcCoonrSeV2Ys7Kgp4NmJ_CVhHnQBdSnIJU6zwiKOK1nht2UASUtodkXii957n_htqEH3tWj5mXz6fgnwYMrgy-bLX3JMxWb_kpFUkfFAGL3C-ewRn_802ksM3NBzZ1xtxVU8PBeimG5oDyq1yRhHKXUeng1KO8Qvc33vZMI7wN2hWI9kayqup2-N0MEneDtU?fife=s16383\" height=\"200\" width=\"auto\" /><br>茨城県猿島郡境町若林２１５９<br>FB：https://www.facebook.com/p/مركز-و-حسينية-اهل-البيت-في-ايباراكي-اليابان-61573217585716/‎"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8527109,
+     36.1180563
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城25",
+    "seq": "270",
+    "name": "Mushola merah putih bando",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwiR4qLC4xDWm3pop5Zex5LntqD9tjL9lC7Cdka3lyzRP-MBvai31xuwkuyVZqhECusYt9Fis-pB3ywrZhhA_aze4k_9Dswj1VkNUZkjN9S_ov65S3jW8NfIpRjW-kCwaYtM6_xe3yhbxBJTZVBzUKYQ2h5HXsQSSes8OmmFWGoFa30b8pOuK7bHyvS-fJvePLTX-sN3uxcRyv7s7dKVfVxRh9GIfQPd3OfvabxXJPevZlm_8IxYgAxfdo?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwiR4qLC4xDWm3pop5Zex5LntqD9tjL9lC7Cdka3lyzRP-MBvai31xuwkuyVZqhECusYt9Fis-pB3ywrZhhA_aze4k_9Dswj1VkNUZkjN9S_ov65S3jW8NfIpRjW-kCwaYtM6_xe3yhbxBJTZVBzUKYQ2h5HXsQSSes8OmmFWGoFa30b8pOuK7bHyvS-fJvePLTX-sN3uxcRyv7s7dKVfVxRh9GIfQPd3OfvabxXJPevZlm_8IxYgAxfdo?fife=s16383\" height=\"200\" width=\"auto\" /><br>茨城県坂東市菅谷１１７１−８<br>インスタ：https://www.instagram.com/musholla.bando.ibaraki/<br>https://www.youtube.com/watch?v=_RQwD13b9oA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.2974909,
+     36.196839
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "茨城26",
+    "seq": "278",
+    "name": "茨城県石岡市",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzedgpuex0e3-Xhv5FF9u_6vQYrsmhdjmL0Liqf1lhXdnp4gSlr04S0FG6DIvLNxUhkk1JTu_--i2OeVSrpn9w2XHh8vq6PzP_YJZSFppEjJJwDSekL8-Ec2i46eXqabJaG36nRozGPkn4MI70MhfQr3kCWil-Y5r0xK5zluRdtIwzqQl61qNZYWJ1qXM0B0LYxeLMC5L93OMJIIyhhTnSQ_8cBg891knG72qk-mTqbwWKziamPEoCGAL8?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzedgpuex0e3-Xhv5FF9u_6vQYrsmhdjmL0Liqf1lhXdnp4gSlr04S0FG6DIvLNxUhkk1JTu_--i2OeVSrpn9w2XHh8vq6PzP_YJZSFppEjJJwDSekL8-Ec2i46eXqabJaG36nRozGPkn4MI70MhfQr3kCWil-Y5r0xK5zluRdtIwzqQl61qNZYWJ1qXM0B0LYxeLMC5L93OMJIIyhhTnSQ_8cBg891knG72qk-mTqbwWKziamPEoCGAL8?fife=s16383\" height=\"200\" width=\"auto\" /><br>なぞ。<br>https://www.google.com/maps?cid=18303704963258614445"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7663372,
+     36.2257657
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木01",
+    "seq": "234",
+    "name": "SUFI ISLAMIC CENTER (Masjid Zain-ul-Abideen)NOGI, TOCHIGI.",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.768575,
+     36.3467356
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木02",
+    "seq": "235",
+    "name": "Oyama Mosque Tochigi",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6995734,
+     36.3349501
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木03",
+    "seq": "236",
+    "name": "OHIRA NUR MASJID",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9164801,
+     36.5494643
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木04",
+    "seq": "237",
+    "name": "Utsunomiya Masjid(UICC)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9099298,
+     36.4771157
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木05",
+    "seq": "238",
+    "name": "Kaminokawa Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0764513,
+     36.9537404
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木06",
+    "seq": "042",
+    "name": "リヤードル・ジャンナ・マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8116091,
+     36.5402258
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木07",
+    "seq": "043",
+    "name": "Iqra Mosque (Kanuma Mosque)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5850704,
+     36.3199345
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木08",
+    "seq": "044",
+    "name": "Sano Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4053808,
+     36.3574833
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木09",
+    "seq": "045",
+    "name": "足利マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7883245,
+     36.304938
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木10",
+    "seq": "048",
+    "name": "バーブ・ル・イスラーム・マスジド（小山マスジド）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.1508395,
+     36.6228503
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "栃木11",
+    "seq": "273",
+    "name": "Pak japan masjid",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw78PDsilg6QRYYEReNUg_g5Bkq69rSWTzRUZfqg_zwrOHlDvZCTVGBfp81w-mxdzKQj9Bayv2d95VE-FfDnBgJmQ8q26hGxp0Mhs8gOPNAHGxi2rK8rA2xBnYu6yRNsMxULbQ61V4r66NrznJ6SLScMvPwC7IYGvp-DUpkeFciNOv1Fl8_yQGSFeQwJGlEa3gjVoGQNxwekBH-OLnlc11DvJgPuS-mXE6uuqLpfj8XCnHX4eAZm_13fF8?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw78PDsilg6QRYYEReNUg_g5Bkq69rSWTzRUZfqg_zwrOHlDvZCTVGBfp81w-mxdzKQj9Bayv2d95VE-FfDnBgJmQ8q26hGxp0Mhs8gOPNAHGxi2rK8rA2xBnYu6yRNsMxULbQ61V4r66NrznJ6SLScMvPwC7IYGvp-DUpkeFciNOv1Fl8_yQGSFeQwJGlEa3gjVoGQNxwekBH-OLnlc11DvJgPuS-mXE6uuqLpfj8XCnHX4eAZm_13fF8?fife=s16383\" height=\"200\" width=\"auto\" /><br>栃木県那須烏山市向田１５６０"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2218157,
+     36.4180384
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬01",
+    "seq": "251",
+    "name": "Minhaj-ul-Quran Islamic Center, Maebashi City, Gunma",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.988462,
+     36.4344601
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬02",
+    "seq": "049",
+    "name": "アルファラホ マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3285479,
+     36.2519624
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬03",
+    "seq": "050",
+    "name": "MALIK DINAR MASJID,OTA マリク ディナル マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3508993,
+     36.4252931
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬04",
+    "seq": "051",
+    "name": "桐生マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3765933,
+     36.2953429
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬05",
+    "seq": "052",
+    "name": "太田モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5337366,
+     36.2421283
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬06",
+    "seq": "053",
+    "name": "館林クバマスジド Tatebayashi Quba Musjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5190052,
+     36.2525908
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬07",
+    "seq": "054",
+    "name": "マスジド サラマト",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.069783,
+     36.2931476
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬08",
+    "seq": "055",
+    "name": "Darussalam Kuragano",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.1949772,
+     36.2684885
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬09",
+    "seq": "056",
+    "name": "Yatajima Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2551462,
+     36.2758858
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬10",
+    "seq": "046",
+    "name": "ダルッサラーム マスジッド（境町モスク）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.195464,
+     36.3294812
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬11",
+    "seq": "047",
+    "name": "伊勢崎モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.0089499,
+     36.333807
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬12",
+    "seq": "276",
+    "name": "BERESTA MASJID",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw-FAcT2Ngk1RweJ2jz0UVezkLXwB4RpFdcLZl0iehFTN4Bby6bSC8idoiPlMJ79GYyx59pEN6F3nNgpuC-J7ELfGW3wvnxj9Q9fVFEYvI9cZzBhV0WbeHr1EuKo8auR6_E22ZOThlDuiBXd-uqn6TGM4AcshLBTzoP35OUznjbAr5bEmafBCkwqF-KG8wlTD10vmLqNs8Sl37mR7aoBn6zES25VGR7nVxX4BmUOG_fIsqlm3b33Cux4MY?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw-FAcT2Ngk1RweJ2jz0UVezkLXwB4RpFdcLZl0iehFTN4Bby6bSC8idoiPlMJ79GYyx59pEN6F3nNgpuC-J7ELfGW3wvnxj9Q9fVFEYvI9cZzBhV0WbeHr1EuKo8auR6_E22ZOThlDuiBXd-uqn6TGM4AcshLBTzoP35OUznjbAr5bEmafBCkwqF-KG8wlTD10vmLqNs8Sl37mR7aoBn6zES25VGR7nVxX4BmUOG_fIsqlm3b33Cux4MY?fife=s16383\" height=\"200\" width=\"auto\" /><br>群馬県高崎市高砂町５８"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5059606,
+     36.2530645
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "群馬13",
+    "seq": "277",
+    "name": "Darul Uloom Gunma madrasa and masjid",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxrekhW4e26kRJYxHPvQdNjxPBscJj7Fs_H8aLFJVVxeFYzHdeLSJt61Uk6Q9_56N9Wr7FP0k4vDT-WZNyA7B9Z9hvBsWYeHrBIuQsw4h0wCd-43Y4kp9b5oT60ENauoBBYNsvWVbsBcR7rEFQlBm5sgczT552oZrH5ZKgfDo-Gv8ccmIG7MQ3X0K_7qyJSXFTVuPdLIq6wlbLhxarWWHCMBrPnOTGcqBKqnu8I3cEH74Pw5XZazHZ9uU8?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxrekhW4e26kRJYxHPvQdNjxPBscJj7Fs_H8aLFJVVxeFYzHdeLSJt61Uk6Q9_56N9Wr7FP0k4vDT-WZNyA7B9Z9hvBsWYeHrBIuQsw4h0wCd-43Y4kp9b5oT60ENauoBBYNsvWVbsBcR7rEFQlBm5sgczT552oZrH5ZKgfDo-Gv8ccmIG7MQ3X0K_7qyJSXFTVuPdLIq6wlbLhxarWWHCMBrPnOTGcqBKqnu8I3cEH74Pw5XZazHZ9uU8?fife=s16383\" height=\"200\" width=\"auto\" /><br>群馬県館林市北成島町２７６３−７"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.261187,
+     36.0548446
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉01",
+    "seq": "258",
+    "name": "Mushola alhidayah ogawamachi",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5862724,
+     35.821391
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉02",
+    "seq": "257",
+    "name": "Asaka Musalla",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8823087,
+     35.8129699
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉03",
+    "seq": "256",
+    "name": "三郷モスク（バーブルイルム）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8352676,
+     35.8178811
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉04",
+    "seq": "255",
+    "name": "Yashio Gujarati Masjid ( New_Musalla_Khana ) Mosuku",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6472265,
+     35.9508356
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉05",
+    "seq": "254",
+    "name": "Ansaru Deen Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6881798,
+     35.8283789
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉06",
+    "seq": "253",
+    "name": "Warabi Baitunnoor Musollah",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6989737,
+     35.8170264
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉07",
+    "seq": "252",
+    "name": "バイトゥル アクサ マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3394966,
+     35.9717742
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉08",
+    "seq": "075",
+    "name": "Masjid Hatoyama ( E Usmani Ghani",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8283719,
+     35.7977909
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉09",
+    "seq": "076",
+    "name": "八潮マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7902018,
+     36.0513394
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉10",
+    "seq": "080",
+    "name": "Sugito Masjid & Darul Uloom Japan",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3470791,
+     35.9430549
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉11",
+    "seq": "065",
+    "name": "THE MOROYAMA TABLIG MASJID",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": "THE MOROYAMA TABLIG MASJID مسجد التبليغ مروياما‎‎"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7669417,
+     35.9608783
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉12",
+    "seq": "066",
+    "name": "一ノ割マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5084733,
+     36.1390477
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉13",
+    "seq": "070",
+    "name": "Masjid Hazrat Bilal (RA)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.1230617,
+     36.2065516
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉14",
+    "seq": "068",
+    "name": "Masjid - E - Ayesha Siddiqua",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8639986,
+     35.857544
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉15",
+    "seq": "069",
+    "name": "三郷マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5084894,
+     36.1387879
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉16",
+    "seq": "070",
+    "name": "Bilal Mosque Hanyu",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.340521,
+     35.9508988
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉17",
+    "seq": "071",
+    "name": "MASJID AS-SUNNAH",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4983341,
+     35.9141136
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉18",
+    "seq": "072",
+    "name": "マスジド ファルウケ アアザム",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4643656,
+     35.7855074
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉19",
+    "seq": "073",
+    "name": "Masjid Al Huda ( Tokorozawa Saitama )",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.689941,
+     36.1184577
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉20",
+    "seq": "057",
+    "name": "Kurihashi Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5766274,
+     36.1026557
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉21",
+    "seq": "058",
+    "name": "Kisai Masjid Kazo Saitama",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6081748,
+     35.8679623
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉22",
+    "seq": "059",
+    "name": "Masjid Saitama - Saitama Muslim Cultural Association (SMCA)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5267752,
+     36.1847774
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉23",
+    "seq": "060",
+    "name": "Hanyu Mosque/Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6626474,
+     35.8081543
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉24",
+    "seq": "061",
+    "name": "Toda Madina Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3770996,
+     36.1255711
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉25",
+    "seq": "062",
+    "name": "Kumagaya Musollah",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7855591,
+     35.8636103
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉26",
+    "seq": "063",
+    "name": "バイトル・アマン・マスジド・コンプレックス",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7026393,
+     35.9313925
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉27",
+    "seq": "064",
+    "name": "Iwatuski masjid SAITAMA DAR UL ULOOM",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.467854,
+     35.8600218
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉28",
+    "seq": "262",
+    "name": "KAWAGOE JAME MASJID RAMZAN",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.704946,
+     35.8142285
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "埼玉29",
+    "seq": "274",
+    "name": "バイトル マムル ムサラ",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzvXZ_Am7FWrvw5g1p18BIbRtRYYM8T9WE2csJ4VzuzwFMBFh2JaHEE44p6zn9a5hCgsv3jk-AnCe36S_V6TV1hVvEZuQfOxYwDRRWLQ_wdzPyj9aDBsPoUl18mURTzVIqIxD15oM0_wW2bfj2VctNUxbN8FPZwwkTYZIURbOe0rCbNnbrEzfhQlIaAnpM_2gV_H7PJ9Y_ZZrijUEbhf8kPMuNCVzCfbM_97ttY863-Jt2aDiFCE_BltTE?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzvXZ_Am7FWrvw5g1p18BIbRtRYYM8T9WE2csJ4VzuzwFMBFh2JaHEE44p6zn9a5hCgsv3jk-AnCe36S_V6TV1hVvEZuQfOxYwDRRWLQ_wdzPyj9aDBsPoUl18mURTzVIqIxD15oM0_wW2bfj2VctNUxbN8FPZwwkTYZIURbOe0rCbNnbrEzfhQlIaAnpM_2gV_H7PJ9Y_ZZrijUEbhf8kPMuNCVzCfbM_97ttY863-Jt2aDiFCE_BltTE?fife=s16383\" height=\"200\" width=\"auto\" /><br>埼玉県川口市西川口１丁目４−７<br>https://www.google.com/maps?cid=7928983005442302321"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.827999,
+     35.9984149
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉01",
+    "seq": "091",
+    "name": "Noor Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9693071,
+     35.8596724
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉02",
+    "seq": "093",
+    "name": "Kashiwa Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8440844,
+     36.0164818
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉03",
+    "seq": "094",
+    "name": "New Noor ul Huda masjid Juma 12:30",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8161705,
+     36.0426585
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉04",
+    "seq": "096",
+    "name": "Masjid Abu Bakr",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9404338,
+     35.3873339
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉05",
+    "seq": "083",
+    "name": "Bilal Masjid / Kisarazu Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0293945,
+     35.7722463
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉06",
+    "seq": "084",
+    "name": "FUJI AL-MADANI MASJID",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8213488,
+     36.0338083
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉07",
+    "seq": "085",
+    "name": "Yasin Kyokai Namiki Masjid Noda",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.1041893,
+     35.6221561
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉08",
+    "seq": "086",
+    "name": "NPO法人 千葉イスラーム文化センター Masjid Nishi-Chiba CICC",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.1992012,
+     35.6048596
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉09",
+    "seq": "087",
+    "name": "Aysha Masjid/Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.1344064,
+     35.6651297
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉10",
+    "seq": "088",
+    "name": "Chiba Mosque / Masjid Juma Prayer 12:30",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9184797,
+     35.681515
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉11",
+    "seq": "089",
+    "name": "ヒラ モスク 行徳",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0592194,
+     35.8154146
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉12",
+    "seq": "090",
+    "name": "Shiroi Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.2802421,
+     35.6852827
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉13",
+    "seq": "074",
+    "name": "MASJID AL-KARIMA ENOKIDO",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.4007683,
+     35.6405645
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉14",
+    "seq": "077",
+    "name": "Toda masjid / Toda mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.479182,
+     35.729429
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉15",
+    "seq": "078",
+    "name": "一般社団法人成田イスラーム文化センター",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.3568329,
+     35.6288601
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉16",
+    "seq": "079",
+    "name": "Hyuga Masjid (Marcus)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.6537613,
+     35.7045756
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉17",
+    "seq": "081",
+    "name": "マスジドインドネシア旭 (Future)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.1564756,
+     35.6872005
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉18",
+    "seq": "082",
+    "name": "四街道モスク(Masjid)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9178501,
+     35.8016003
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉19",
+    "seq": "261",
+    "name": "Masjid Al Quds Islamic Circle Of Japan",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": "Masjid Al Quds Islamic Circle Of Japan مسجد القدس اسلامک سرکل آف جاپان‎‎"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9813301,
+     35.7759449
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "千葉20",
+    "seq": "264",
+    "name": "Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7258993,
+     35.7753904
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京01",
+    "seq": "250",
+    "name": "赤羽モスク（Tokyo Central Masjid（proposede)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7037444,
+     35.6949191
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京02",
+    "seq": "225",
+    "name": "Masjid Al Ikhlas Kabukicho",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7036106,
+     35.6328695
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京03",
+    "seq": "122",
+    "name": "東京インドネシアモスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8157236,
+     35.6951926
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京04",
+    "seq": "124",
+    "name": "錦糸町モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4211726,
+     35.5627792
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京05",
+    "seq": "108",
+    "name": "Machida Central Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3234804,
+     35.6647732
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京06",
+    "seq": "109",
+    "name": "八王子マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7282121,
+     35.7291435
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京07",
+    "seq": "110",
+    "name": "マスジド大塚",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.455129,
+     35.5480604
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京08",
+    "seq": "111",
+    "name": "MACHIDA MASJID",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8015514,
+     35.721772
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京09",
+    "seq": "112",
+    "name": "浅草モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.777849,
+     35.7059919
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京10",
+    "seq": "113",
+    "name": "アッサラームファンデーション",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7170964,
+     35.5644404
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京11",
+    "seq": "114",
+    "name": "蒲田マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3437,
+     35.722876
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京12",
+    "seq": "115",
+    "name": "Haijima Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7278137,
+     35.62644
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京13",
+    "seq": "116",
+    "name": "日本ムスリム協会",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7272675,
+     35.765203
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京14",
+    "seq": "117",
+    "name": "マディーナマスジド東京",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8369497,
+     35.7610141
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京15",
+    "seq": "098",
+    "name": "東東京中央MSQ＆文化センター",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8427497,
+     35.7437139
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京16",
+    "seq": "099",
+    "name": "マッキーマスジド東京",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8593161,
+     35.712728
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京17",
+    "seq": "100",
+    "name": "新小岩マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6765535,
+     35.6681609
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京18",
+    "seq": "101",
+    "name": "東京ジャーミイ･ディヤーナト トルコ文化センター",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8520417,
+     35.7488551
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京19",
+    "seq": "102",
+    "name": "Darul Uloom Tokyo Madrasa & Masjid || Aoto Masjid (Aoto Masjid)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7735832,
+     35.6962226
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京20",
+    "seq": "103",
+    "name": "Masjid Nusantara - Akihabara Tokyo",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6645956,
+     35.6687614
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京21",
+    "seq": "104",
+    "name": "イスラミックセンタージャパン",
+    "removed_from_gmaps": false,
+    "source_url": "https://www.google.com/maps?cid=18119827819999585829",
+    "description": "東京都世田谷区大原１丁目１６−１１<br>https://www.google.com/maps?cid=18119827819999585829<br>https://islamcenter.or.jp/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6962265,
+     35.6581418
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京22",
+    "seq": "105",
+    "name": "渋谷Mushalla",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": "渋谷Mushalla مسجد‎‎"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7282285,
+     35.6562041
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京23",
+    "seq": "106",
+    "name": "アラブイスラーム学院",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8623927,
+     35.6571119
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京24",
+    "seq": "107",
+    "name": "東京西葛西モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8427985,
+     35.7534309
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京25",
+    "seq": "095",
+    "name": "Masjid Al Abrar Tokyo",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8389124,
+     35.6905012
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "東京26",
+    "seq": "259",
+    "name": "Dar Al Taqwa Nihon Islamic Bunka Center (Musallah/Masjid)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3592941,
+     35.3782306
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈01",
+    "seq": "131",
+    "name": "カディジャモスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3286844,
+     35.5482565
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈02",
+    "seq": "136",
+    "name": "マスジド トゥバー",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3907919,
+     35.5242577
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈03",
+    "seq": "138",
+    "name": "ムハンマディ・マスジット",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.347786,
+     35.5494078
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈04",
+    "seq": "139",
+    "name": "田名モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4948371,
+     35.5275064
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈05",
+    "seq": "118",
+    "name": "Darut Tauhid Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6088266,
+     35.4659278
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈06",
+    "seq": "119",
+    "name": "YOKOHAMA MUSALAH",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6013119,
+     35.5442244
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈07",
+    "seq": "120",
+    "name": "ジャーメ・マスジド 横浜",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2726926,
+     35.3685285
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈08",
+    "seq": "121",
+    "name": "東海モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3830387,
+     35.4641468
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈09",
+    "seq": "123",
+    "name": "海老名マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6028192,
+     35.4318686
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈10",
+    "seq": "125",
+    "name": "Idogaya Musollah",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2728746,
+     35.5301443
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈11",
+    "seq": "126",
+    "name": "DARUL MUSHAF AL ISLAMIYAH",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4094829,
+     35.4287941
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈12",
+    "seq": "127",
+    "name": "Quba Cultural Center",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4994667,
+     35.5002816
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "神奈13",
+    "seq": "128",
+    "name": "Masjid As-Sholihin",
+    "removed_from_gmaps": false,
+    "source_url": "https://masjidassholihinyokohama.org/",
+    "description": "神奈川県横浜市旭区上川井町684-4<br>https://masjidassholihinyokohama.org/<br>2026年4月完成<br>https://maps.app.goo.gl/VRrvnxXKhXF1PQRk9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.3130522,
+     37.16935
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "新潟01",
+    "seq": "130",
+    "name": "Masjid al khan",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.2092306,
+     37.9794646
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "新潟02",
+    "seq": "132",
+    "name": "★イスラミックセンター 新潟",
+    "removed_from_gmaps": true,
+    "source_url": "",
+    "description": "2026.3<br>googleマップ登録削除"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9550741,
+     37.8727044
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "新潟03",
+    "seq": "135",
+    "name": "アンヌールモスク新潟",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyf8xrSvBc_2R07Vf7ereEN9dvoMsSY_Y04U2D4A9eZIXJ1RaV354zMBVXngQdVI21uqHzddtRu5HlDVyHdk5KJhuPlO9QOaRiYnViy-QHbGxPxJyvpBtHwwIqBH4vJYkuqeGZ2MhmX17IqVHWCEY1unmKHGQ9743M7nh1DQo14RI0tGBpkM5Rmd3gdFJMqg7JeggXV18YUGjjMBXuddbpVCVcfzBhIMlaN3RDP4KuxQFiMmIARipMj5ds?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyf8xrSvBc_2R07Vf7ereEN9dvoMsSY_Y04U2D4A9eZIXJ1RaV354zMBVXngQdVI21uqHzddtRu5HlDVyHdk5KJhuPlO9QOaRiYnViy-QHbGxPxJyvpBtHwwIqBH4vJYkuqeGZ2MhmX17IqVHWCEY1unmKHGQ9743M7nh1DQo14RI0tGBpkM5Rmd3gdFJMqg7JeggXV18YUGjjMBXuddbpVCVcfzBhIMlaN3RDP4KuxQFiMmIARipMj5ds?fife=s16383\" height=\"200\" width=\"auto\" /><br>2026年4月削除、6月新たに登録されたためこちらで登録しなおし。<br>新潟県新潟市西区五十嵐１の町６７７６−４３"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9283513,
+     37.6643609
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "新潟04",
+    "seq": "137",
+    "name": "★Masjid Nusantara Tsubame, Niigata",
+    "removed_from_gmaps": true,
+    "source_url": "",
+    "description": "2026.3<br>googleマップ登録削除"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.1876047,
+     36.7015617
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "富山01",
+    "seq": "129",
+    "name": "Toyama Muslim center TMC",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.1011574,
+     36.7452154
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "富山02",
+    "seq": "134",
+    "name": "富山モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.450552,
+     36.804355
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "富山03",
+    "seq": "281",
+    "name": "魚津モスク UOZU MOSQUE",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz4UndrYlvsHTnZmHN0IUqfvLmIecjMQow7HGcSVYbYRMnGwDXRBDjkIyqrHrFNd0MiSl4z6jObR5TULC6AZsPh9QGojQ3x3qtX6qu1qewQ5ebkXaiu5V5NiiIma5muh_XPjxHRl3HTw1HS6XN4mOOWxXaXXQpbNrglXmGBZz2z0ejkFyY8OMvlVbeXj1pH6GMomHaVeyRDMN6_wr-faoPPrn7dxJuohfOMFr8bgWdEImlsvRmNocFmgOk?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz4UndrYlvsHTnZmHN0IUqfvLmIecjMQow7HGcSVYbYRMnGwDXRBDjkIyqrHrFNd0MiSl4z6jObR5TULC6AZsPh9QGojQ3x3qtX6qu1qewQ5ebkXaiu5V5NiiIma5muh_XPjxHRl3HTw1HS6XN4mOOWxXaXXQpbNrglXmGBZz2z0ejkFyY8OMvlVbeXj1pH6GMomHaVeyRDMN6_wr-faoPPrn7dxJuohfOMFr8bgWdEImlsvRmNocFmgOk?fife=s16383\" height=\"200\" width=\"auto\" /><br>富山県魚津市石垣５６１<br>ドバイオートリサイクル？？？"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.6955859,
+     36.5549286
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "石川01",
+    "seq": "133",
+    "name": "ウマル ビン アルカッタービ モスク（富山モスク金沢支部）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.2101061,
+     36.0769594
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "福井01",
+    "seq": "143",
+    "name": "福井モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.7615801,
+     35.5077183
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "山梨01",
+    "seq": "142",
+    "name": "富士河口湖マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5665705,
+     35.6565019
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "山梨02",
+    "seq": "147",
+    "name": "Kofu mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.1927153,
+     36.4292408
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "長野01",
+    "seq": "140",
+    "name": "Bilal Masjid Nagano",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.281732,
+     36.3744664
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "長野02",
+    "seq": "145",
+    "name": "MASJID INDONESIA UEDA",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.9360487,
+     36.1477484
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "長野03",
+    "seq": "149",
+    "name": "Masjid Jamia Al Iman",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.2917491,
+     36.6459387
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "長野04",
+    "seq": "249",
+    "name": "MASJID E QUBA",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.3712207,
+     36.3662626
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "長野05",
+    "seq": "248",
+    "name": "Sasana shamo tomi",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.3185409,
+     36.363085
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "長野06",
+    "seq": "275",
+    "name": "MASJID Aysha",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": "長野県東御市本海野１５９２"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.0035229,
+     35.4351796
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岐阜01",
+    "seq": "151",
+    "name": "Future Minakamo Islamic Center",
+    "removed_from_gmaps": false,
+    "source_url": "https://dnr5150.net/blog-299/",
+    "description": "https://dnr5150.net/blog-299/<br>岐阜県美濃加茂市深田町3-8-325<br>2025年12月建設予定記事"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.741624,
+     35.458551
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岐阜02",
+    "seq": "141",
+    "name": "岐阜イスラミックコンプレックス",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.6220292,
+     35.3218265
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岐阜03",
+    "seq": "144",
+    "name": "Ogaki Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.188412,
+     35.3527417
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岐阜04",
+    "seq": "146",
+    "name": "トキモスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8389074,
+     35.3929219
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岐阜05",
+    "seq": "148",
+    "name": "岐阜 ファティフ モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5300103,
+     35.576312
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岐阜06",
+    "seq": "150",
+    "name": "NAKATSUGAWA MOSQUE (MASJIDH)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7165457,
+     35.4396215
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岐阜07",
+    "seq": "268",
+    "name": "マスジド木田",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyl19uqJpoF3YylLDn8LmpWKQvZ74yxgP9O4KlA6r7kferbu0fAapJVfxuPWkAtE0W0iPmL2S2z_hSlEXy74NVChuRCgwuHoOH770pjjGRLVbztU5un_mGo_nOJsfp1LYomvLDL4Uu4fxvqWRbERCnF_Hh-AsKEjil8ad6S-exELYzDgDRoG3XmHgMCwE5uL97qLuqq5w0VLcXQ6j3hCLvY1GHG42XLoSn9adk8UTaMYDryMzjSlaVrsWQ?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyl19uqJpoF3YylLDn8LmpWKQvZ74yxgP9O4KlA6r7kferbu0fAapJVfxuPWkAtE0W0iPmL2S2z_hSlEXy74NVChuRCgwuHoOH770pjjGRLVbztU5un_mGo_nOJsfp1LYomvLDL4Uu4fxvqWRbERCnF_Hh-AsKEjil8ad6S-exELYzDgDRoG3XmHgMCwE5uL97qLuqq5w0VLcXQ6j3hCLvY1GHG42XLoSn9adk8UTaMYDryMzjSlaVrsWQ?fife=s16383\" height=\"200\" width=\"auto\" /><br>https://www.google.com/maps?cid=13852185231323034991<br>岐阜県岐阜市尻毛２丁目84−１"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.3702838,
+     34.9240804
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "静岡01",
+    "seq": "156",
+    "name": "静岡マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7487231,
+     34.6719872
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "静岡02",
+    "seq": "157",
+    "name": "Baitul Huda Masjid Hamamatsu",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.744095,
+     34.680031
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "静岡03",
+    "seq": "158",
+    "name": "モハモディモスク浜松",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.7428675,
+     35.1384515
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "静岡04",
+    "seq": "161",
+    "name": "モスク・マスジド・ラスール（富士マスジド）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8711236,
+     35.1774263
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知01",
+    "seq": "172",
+    "name": "名古屋モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.9127356,
+     35.1578667
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知02",
+    "seq": "173",
+    "name": "Keluarga Muslim Indonesia Nagoya Prayer Room",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.9384546,
+     35.1625051
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知03",
+    "seq": "175",
+    "name": "AICA Masjid モスク🕌",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.9577626,
+     35.1532766
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知04",
+    "seq": "178",
+    "name": "Higashi Nagoya Islamic Center (HIC)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8985217,
+     35.1928755
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知05",
+    "seq": "181",
+    "name": "マスジドインドネシア名古屋",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.0955264,
+     35.0477169
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知06",
+    "seq": "162",
+    "name": "ハサナスマスジド トヨタモスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7709841,
+     35.1863248
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知07",
+    "seq": "163",
+    "name": "ICMG津島アヤソフィヤジャーミィ（津島ジャーミ）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.9856112,
+     34.8930492
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知08",
+    "seq": "165",
+    "name": "マスジドアッスンナー碧南",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8529099,
+     35.0966975
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知09",
+    "seq": "166",
+    "name": "名古屋港モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8441033,
+     35.2518202
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知10",
+    "seq": "167",
+    "name": "Mavi Mescit・青マスジド・Blue Masjid・モスク・「 Shirayuri Islamic Centre・白百合協会 」",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.3591815,
+     34.7410194
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知11",
+    "seq": "168",
+    "name": "Masjid Al-Hidayah Toyohashi",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4152337,
+     34.698676
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知12",
+    "seq": "169",
+    "name": "ダル・ウッサラーム 豊橋マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.0251376,
+     34.8707292
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知13",
+    "seq": "170",
+    "name": "Masjid Darussalam Nishio 西尾ダールッサラームマスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.1600021,
+     35.0890817
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知14",
+    "seq": "171",
+    "name": "Toyota city Islamic Center",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8468357,
+     35.2863656
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知15",
+    "seq": "152",
+    "name": "Masjid Ichinomiya",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.8114752,
+     35.0782155
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知16",
+    "seq": "153",
+    "name": "Al Mustafa Masjid 飛島モスク Jamia masjid khatme nabuwat Tobishima mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.9223772,
+     35.3024145
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知17",
+    "seq": "154",
+    "name": "小牧モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.104081,
+     35.1969305
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知18",
+    "seq": "155",
+    "name": "瀬戸マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.0198864,
+     35.300518
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知19",
+    "seq": "159",
+    "name": "春日井イスラミックセンター",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.0852379,
+     34.9854042
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知20",
+    "seq": "160",
+    "name": "イスラム教会 新安城 (Masjid Shin Anjo)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.77297,
+     35.186185
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛知21",
+    "seq": "267",
+    "name": "アハマディア協会",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": "愛知県津島市蛭間町宮重５２６"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5285349,
+     34.7455384
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "三重01",
+    "seq": "176",
+    "name": "三重マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5263308,
+     34.9313827
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "三重02",
+    "seq": "180",
+    "name": "Suzuka Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5439192,
+     34.8758979
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "三重03",
+    "seq": "266",
+    "name": "Masjid UMMI(仮)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": "建設寄付募集中"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.9573957,
+     35.0063471
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "滋賀01",
+    "seq": "179",
+    "name": "Shiga Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.1564519,
+     35.1740848
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "滋賀02",
+    "seq": "182",
+    "name": "MASJID AN-NUR NOTOGAWA アンヌル能登川モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.7877565,
+     34.933393
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "京都01",
+    "seq": "184",
+    "name": "Al-Huda Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.242928,
+     35.319117
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "京都02",
+    "seq": "186",
+    "name": "Ayabe Masjid Zohra Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.7696753,
+     35.0217946
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "京都03",
+    "seq": "187",
+    "name": "京都イスラーム文化センター（Kyoto Islamic Cultural Center） / 京都グランドモスク（Kyoto Grand Mosque）/京都ムスリム協会（Kyoto Muslim Association））",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.7070518,
+     34.8632531
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "京都04",
+    "seq": "188",
+    "name": "イスラミックリサーチセンタージャパン",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.7811676,
+     35.0350126
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "京都05",
+    "seq": "177",
+    "name": "Kyoto Central Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.5325269,
+     34.8332725
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "大阪01",
+    "seq": "183",
+    "name": "大阪茨木モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.502701,
+     34.5934008
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "大阪02",
+    "seq": "185",
+    "name": "ジャパンダワセンター＆アルダワマスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.444932,
+     34.7083329
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "大阪03",
+    "seq": "189",
+    "name": "大阪マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.4786421,
+     34.4172878
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "大阪04",
+    "seq": "190",
+    "name": "Izumi Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.4955536,
+     34.6512841
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "大阪05",
+    "seq": "191",
+    "name": "Masjid Istiqlal Osaka",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.4306783,
+     34.7043128
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "大阪06",
+    "seq": "192",
+    "name": "大阪グランドマスジド 宗教法人大阪イスラミックセンター",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.1879017,
+     34.6961945
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "兵庫01",
+    "seq": "193",
+    "name": "神戸ムスリムモスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.9956977,
+     34.8094364
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "兵庫02",
+    "seq": "195",
+    "name": "Miki Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.2006057,
+     34.703029
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "兵庫03",
+    "seq": "200",
+    "name": "兵庫マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.6920685,
+     34.8309988
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "兵庫04",
+    "seq": "271",
+    "name": "Himeji Central Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz4CI2oI6uwxNX60xXEOJmKDNUvYz9DWzL5HLRtn22eaYRzOUUud0oY0n2Pt9dI-QfZI-4_ITZrAUGZVvtEw853iIYKeKfR5jzOeDjwi73bPtgwGL-g-lJR_UKvKWdJmzppb_DK7KsrZaRd-fT9K_048YYdKPLuUR-SVEpkjGCcFE7waZ82MPG_Qd5ZbsblfiPV7CoSPkKzcxj23eaF8JB5no8o8hLHMFmFv9FhUL-ah2DxYWOznfm6wNY?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz4CI2oI6uwxNX60xXEOJmKDNUvYz9DWzL5HLRtn22eaYRzOUUud0oY0n2Pt9dI-QfZI-4_ITZrAUGZVvtEw853iIYKeKfR5jzOeDjwi73bPtgwGL-g-lJR_UKvKWdJmzppb_DK7KsrZaRd-fT9K_048YYdKPLuUR-SVEpkjGCcFE7waZ82MPG_Qd5ZbsblfiPV7CoSPkKzcxj23eaF8JB5no8o8hLHMFmFv9FhUL-ah2DxYWOznfm6wNY?fife=s16383\" height=\"200\" width=\"auto\" /><br>兵庫県姫路市呉服町 3-4階兵, ４１<br>https://www.google.com/maps?cid=13764131424853613885"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.8226727,
+     34.668298
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "奈良01",
+    "seq": "196",
+    "name": "奈良マスジドNara Masjid Jan Academy",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.1767453,
+     34.2356218
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "和歌01",
+    "seq": "199",
+    "name": "Masjid Al Da’wah & Japan Da’wah Centre Wakayama",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx-JgQsGgOxLYmDN5xiEAPeOGOJ68Jx8fewFa_O9-9aN1zNg_9lfulvhaVlVa59_aZqcnjh14tr8LDMBocQ3rDUGNFHXZShTIpNCivaa1bfx4Hx-gLbMu_x58zGOJPrnsmoEnIKP7p-GYcwdvNAlHXQJdqEzi7NHBKzbjWMCj6S61AFNdpbQIkggIf3aDsnSORIuboyhkdKXcx5zQ7ioWNCuBEvKNrxJ0x6ieFqFvxJpmC1VOipKsQav0A?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx-JgQsGgOxLYmDN5xiEAPeOGOJ68Jx8fewFa_O9-9aN1zNg_9lfulvhaVlVa59_aZqcnjh14tr8LDMBocQ3rDUGNFHXZShTIpNCivaa1bfx4Hx-gLbMu_x58zGOJPrnsmoEnIKP7p-GYcwdvNAlHXQJdqEzi7NHBKzbjWMCj6S61AFNdpbQIkggIf3aDsnSORIuboyhkdKXcx5zQ7ioWNCuBEvKNrxJ0x6ieFqFvxJpmC1VOipKsQav0A?fife=s16383\" height=\"200\" width=\"auto\" /><br>2026年6月改装。ミナレット等建造中"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.3092999,
+     34.2595322
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "和歌02",
+    "seq": "279",
+    "name": "Masjid Baiturrahman & Halal Resto",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwaSCzqA6MImPL-pEz17RRHwlyK0SBTdd28D6wrMUlvUUBGZjl_c-tN_q-KOSWhd2Px36GLgIr23PwGkI367e9HMdQkOnb_NXk2hwkK77ds8WeE5oz5845ld_psMQhVhxGK8DjTMDHqgr_uqvav2D1Pk7LbC4mk4wMrnrZLzOg_2pHxTAf05jGx9Bo7DGyN8OBXYZoL2ZEvte5RK26yLYVw16hGjbWtgpp-xB4cq470rXmD4Rf7f8SdtxI?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwaSCzqA6MImPL-pEz17RRHwlyK0SBTdd28D6wrMUlvUUBGZjl_c-tN_q-KOSWhd2Px36GLgIr23PwGkI367e9HMdQkOnb_NXk2hwkK77ds8WeE5oz5845ld_psMQhVhxGK8DjTMDHqgr_uqvav2D1Pk7LbC4mk4wMrnrZLzOg_2pHxTAf05jGx9Bo7DGyN8OBXYZoL2ZEvte5RK26yLYVw16hGjbWtgpp-xB4cq470rXmD4Rf7f8SdtxI?fife=s16383\" height=\"200\" width=\"auto\" />"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.6399894,
+     34.2911395
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "和歌03",
+    "seq": "280",
+    "name": "大阪イスラミックセンター 橋本（霊園）",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx7zsi7imtwOdcAvdR7UEPm_zVl5hi-RKM6ZvO5mkOlrg_HIXA2KKeJSbpu4KS9V3eUe5YSiUTp4h9en-WaJiOs8v9EuFXmw7Z1pw0J8jUlasohCvQCtlqPGhXvD9hS6hfATl8CsR2l37w3P1J2IiDvTaDr_ZApT4ONDpAcc-jlAb0CuQYTnQBhmUtjzj6mVxw1ePZjeYmLMOJa8dKmT9Emnlu1Bsx0D_GMqt40nc7IWRqJxPwB0gpOUDs?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx7zsi7imtwOdcAvdR7UEPm_zVl5hi-RKM6ZvO5mkOlrg_HIXA2KKeJSbpu4KS9V3eUe5YSiUTp4h9en-WaJiOs8v9EuFXmw7Z1pw0J8jUlasohCvQCtlqPGhXvD9hS6hfATl8CsR2l37w3P1J2IiDvTaDr_ZApT4ONDpAcc-jlAb0CuQYTnQBhmUtjzj6mVxw1ePZjeYmLMOJa8dKmT9Emnlu1Bsx0D_GMqt40nc7IWRqJxPwB0gpOUDs?fife=s16383\" height=\"200\" width=\"auto\" /><br>霊園"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.1686108,
+     35.5196697
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "鳥取01",
+    "seq": "197",
+    "name": "Tottori Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.0678406,
+     35.4843669
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "島根01",
+    "seq": "194",
+    "name": "島根モスク・イスラーム文化センター",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.7589453,
+     35.3468931
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "島根02",
+    "seq": "201",
+    "name": "Izumo Mosque (Izumo Muslim Welfare Association) ইযুমো মসজিদ (Izumo, Shimane, Japan)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.8520306,
+     34.6491686
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岡山01",
+    "seq": "246",
+    "name": "ｲｽﾗﾑｾﾝﾀｰ",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.8055488,
+     35.0685827
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岡山02",
+    "seq": "203",
+    "name": "Maniwa Islamic Centre",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.9271619,
+     34.6881253
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岡山03",
+    "seq": "205",
+    "name": "岡山ｲｽﾗﾑｾﾝﾀｰ 岡山マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "https://www.google.com/maps?cid=5439402208168652661",
+    "description": "岡山県岡山市北区津島東２丁目１−７<br>https://www.google.com/maps?cid=5439402208168652661<br>HP：https://www.okayamamasjid.org/<br>FB：FB：https://www.facebook.com/okayama.masjid/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.7427465,
+     34.5432927
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岡山04",
+    "seq": "209",
+    "name": "MASJID INDONESIA KURASHIKI",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.9259799,
+     34.6572521
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "岡山05",
+    "seq": "198",
+    "name": "岡山ｾﾝﾄﾗﾙﾓｽｸ",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.4813087,
+     34.3789397
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "広島01",
+    "seq": "206",
+    "name": "Masjid Kasumi Hiroshima",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.0673923,
+     34.3503529
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "広島02",
+    "seq": "208",
+    "name": "Mihara Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.738345,
+     34.3911756
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "広島03",
+    "seq": "210",
+    "name": "広島イスラーム文化センター",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.5124336,
+     34.0817787
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "徳島01",
+    "seq": "207",
+    "name": "徳島マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.3133195,
+     34.0580957
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "徳島02",
+    "seq": "265",
+    "name": "masjid indnesia Tokushima(仮)",
+    "removed_from_gmaps": false,
+    "source_url": "https://www.instagram.com/masjidindonesiatokushima/",
+    "description": "日用品店隣<br>map登録なし(3/27)<br>https://www.instagram.com/masjidindonesiatokushima/<br>日本法人：一般社団法人 Masjid Indonesia Tokushima<br>モスク建設寄付募集中<br>支援団体<br>Human Initiative Japan<br>Mito Jepang"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.0475161,
+     34.3374085
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "香川01",
+    "seq": "202",
+    "name": "Mushola Al-Falah (ムショラアルファラー)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.8763697,
+     34.3153182
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "香川02",
+    "seq": "204",
+    "name": "Masjid Kagawa",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.7822292,
+     33.8365598
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛媛01",
+    "seq": "215",
+    "name": "Matsuyama Masjid (MICC)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.2778654,
+     33.9595589
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "愛媛02",
+    "seq": "221",
+    "name": "新居浜マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.540313,
+     33.5576585
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "高知01",
+    "seq": "218",
+    "name": "Masjid Al-Fatih Prefektur Kochi",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.7569742,
+     33.8899978
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "福岡01",
+    "seq": "211",
+    "name": "カルチャーセンター",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.4271005,
+     33.6199858
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "福岡02",
+    "seq": "214",
+    "name": "福岡マスジド アンヌールイスラム文化センター",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.1833118,
+     33.5812239
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "福岡03",
+    "seq": "216",
+    "name": "Ito Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": "2026年6月"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.6272738,
+     33.3972891
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "福岡04",
+    "seq": "272",
+    "name": "Mushola tsuruta🕌",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy8JY8VAHxdEKb4KMnZmdfS6M2mz5zGeaI-_QvdGuke0vQ9QZA9QrN9CuJwp6WqB_eLrS3kOJE6GAYE5CU1ZPBMIRziqIODtuHwlUuek4KlboNdLfTs66Lc2Qb65x-NawfMg7rQW_7nm3vUxlyAKc1yIIzlHyG2SNTmUZeSlsppuuOerlIAfXGE-9BGTwTUIXVRr85DzE6303Esgb9fY-27Wa8g7uftqzy0Ub7tMPu7Vz4ndkra8If9jSA?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy8JY8VAHxdEKb4KMnZmdfS6M2mz5zGeaI-_QvdGuke0vQ9QZA9QrN9CuJwp6WqB_eLrS3kOJE6GAYE5CU1ZPBMIRziqIODtuHwlUuek4KlboNdLfTs66Lc2Qb65x-NawfMg7rQW_7nm3vUxlyAKc1yIIzlHyG2SNTmUZeSlsppuuOerlIAfXGE-9BGTwTUIXVRr85DzE6303Esgb9fY-27Wa8g7uftqzy0Ub7tMPu7Vz4ndkra8If9jSA?fife=s16383\" height=\"200\" width=\"auto\" /><br>福岡県朝倉市下浦２０８６<br>多分、寮？内の簡易礼拝所。<br>googleマップに登録があったので掲載。<br>様子見"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.2999565,
+     33.2387568
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "佐賀01",
+    "seq": "220",
+    "name": "佐賀マスジド",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.8629823,
+     32.7685658
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "長崎01",
+    "seq": "212",
+    "name": "長崎中央モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.7311818,
+     32.8144972
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "熊本01",
+    "seq": "219",
+    "name": "熊本イスラミックセンター(KIC)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.5030348,
+     33.2916173
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "大分01",
+    "seq": "226",
+    "name": "別府モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.2432968,
+     33.564205
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "大分02",
+    "seq": "217",
+    "name": "中津モスク [Nakatsu Masjid]",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.4229893,
+     31.8300879
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "宮崎01",
+    "seq": "223",
+    "name": "宮崎モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.0902852,
+     31.8419838
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "宮崎02",
+    "seq": "233",
+    "name": "都城モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.5495762,
+     31.5590424
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "鹿児01",
+    "seq": "224",
+    "name": "鹿児島モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.8049099,
+     31.722849
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "鹿児02",
+    "seq": "230",
+    "name": "Kirishima Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.7610301,
+     26.2433806
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "沖縄01",
+    "seq": "245",
+    "name": "Nishihara Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.8273809,
+     26.4328211
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "沖縄02",
+    "seq": "244",
+    "name": "Ishikawa Masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.7634164,
+     26.2445395
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "沖縄03",
+    "seq": "229",
+    "name": "Okinawa Masjid, Okinawa Islamic Culture Center (OICC)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7763901,
+     35.6293234
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Odaiba Prayer room (お台場モスク)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9496762,
+     37.1472575
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Friday prayer room (Muslim community at the International University of Japan)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6259764,
+     35.2022661
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "HARAPAN（礼拝所を併設したインドネシア・カフェ HALAL）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6615849,
+     35.5029975
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "KEDAI NENEK",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0311723,
+     35.6542936
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.3875478,
+     35.7735065
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "礼拝室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7678372,
+     35.5455836
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "東京国際空港 祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7949623,
+     35.6299795
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "東京ビッグサイト祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7667554,
+     35.6722187
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "松屋銀座屋上 礼拝室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7662036,
+     35.6820816
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "JR東日本 東京駅 祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.8493658,
+     38.2600561
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "川内モスク",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.761095,
+     35.710486
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7608704,
+     35.7147631
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "東京大学イスラーミック文化社会(TUICS) 祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.496093,
+     34.7012806
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.429998,
+     34.6554126
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "礼拝所",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.5014276,
+     34.663159
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.496093,
+     34.7012806
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.4917562,
+     34.7030406
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.501209,
+     34.6725356
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Prayer Room in Daimaru South Bldg. 7th floor",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.4988674,
+     34.702685
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Prayer Room",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.3634815,
+     43.0657095
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Prayer room (ムスリム礼拝室)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.6765701,
+     42.7869554
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Prayer room Chitose Airport",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.2433981,
+     34.4345376
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "ムスリム向け礼拝室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7299648,
+     35.6659105
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "礼拝スペース 東京ミッドタウン",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7606699,
+     35.6552143
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Takeshiba Prayer Room",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.762362,
+     35.7020709
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "順天堂医院 礼拝室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6380548,
+     35.4541133
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "礼拝室（Prayer Room）横浜ワールドポーターズ",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0311723,
+     35.6542936
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "祈祷室",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.1210169,
+     35.116325
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Kamogawa Sea World Prayer Room",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9340791,
+     35.4374766
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Prayer room",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4582847,
+     35.8081774
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "KEBABUP Tokorozawa (イスラムお祈り室)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8122211,
+     35.6695485
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Muslim Prayer Space",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.776677,
+     35.6910818
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Prayer Room in Hostel DEN",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.0042134,
+     43.1956489
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Prayer Room (inside donburi chaya)",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.6883686,
+     40.7380379
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Aomori Airport Prayer Room",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.5807535,
+     38.8992941
+    ]
+   },
+   "properties": {
+    "layer": "prayer_room",
+    "code": "",
+    "seq": "",
+    "name": "Warung Mahal（ワルーンマハール）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.519232,
+     33.6398575
+    ]
+   },
+   "properties": {
+    "layer": "planned",
+    "code": "",
+    "seq": "",
+    "name": "FURO & SAUNA THE VANISH",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.3134075,
+     34.0580192
+    ]
+   },
+   "properties": {
+    "layer": "planned",
+    "code": "",
+    "seq": "",
+    "name": "Serba Aci JP店",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.828412,
+     33.359878
+    ]
+   },
+   "properties": {
+    "layer": "planned",
+    "code": "",
+    "seq": "",
+    "name": "朝倉モスク masjid",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": "福岡県朝倉市杷木林田1398-3<br>建設予定地"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4100177,
+     35.4002098
+    ]
+   },
+   "properties": {
+    "layer": "planned",
+    "code": "",
+    "seq": "",
+    "name": "モスク（FUJISAWA MASJID）",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.6338223,
+     35.9277144
+    ]
+   },
+   "properties": {
+    "layer": "planned",
+    "code": "",
+    "seq": "",
+    "name": "Kashima Mosque",
+    "removed_from_gmaps": false,
+    "source_url": "",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9687442,
+     35.7967709
+    ]
+   },
+   "properties": {
+    "layer": "planned",
+    "code": "",
+    "seq": "",
+    "name": "MASJID AL-MUTTAQIN CHIBA",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwmcev0GhmLYXYE-GdPin9p9_V4Z_pbWJRD4EZ7dszUjNa-JfeSjQTLSRs2GV-cpbPQjlbmI1ARTDgrINCeoCIZEx-cvJxd2XlPZYE3WQt4RyD1TRIFZ8cuScTQIhFkCAIRYFTEs2cjKknmvj9He7pdetXlUl26-P7ZBg4ykpa-PKAmZ0hgx8rEa8jgOGORepwiF5iR9OLyxheUkJD88Y7pjpbDXWmkLjnmm9k_CKQJUxzkvo2YrjAU6CI?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwmcev0GhmLYXYE-GdPin9p9_V4Z_pbWJRD4EZ7dszUjNa-JfeSjQTLSRs2GV-cpbPQjlbmI1ARTDgrINCeoCIZEx-cvJxd2XlPZYE3WQt4RyD1TRIFZ8cuScTQIhFkCAIRYFTEs2cjKknmvj9He7pdetXlUl26-P7ZBg4ykpa-PKAmZ0hgx8rEa8jgOGORepwiF5iR9OLyxheUkJD88Y7pjpbDXWmkLjnmm9k_CKQJUxzkvo2YrjAU6CI?fife=s16383\" height=\"200\" width=\"auto\" /><br>2026年5月土地取得済み？<br>千葉県松戸市五香２丁目１−１ ＲＭビル"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5030322,
+     35.7013732
+    ]
+   },
+   "properties": {
+    "layer": "planned",
+    "code": "",
+    "seq": "",
+    "name": "Mesjid Koganei",
+    "removed_from_gmaps": false,
+    "source_url": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz05vidQNaJWM883Odljpurckzup-0c7EDHliC76wAxVerKP9v5VKOBu9CxPOyKwdYwawzPbsWXPU3zly6l4VTPaWNZPtTbQAxffn6L6iiYCIcjJG2QBWf8uBjSfj5UYZlLfzs1RuDqu_Zz7yoM4RtRaMJMXRKDGGsJTVkEZbvEkzB0KO6SUp9UgNHnjWjOjNqD74y5zojCoMu6126YUUQs5ZABnCEJFx2O-cS9SECdV0l1MeOThCXIVPg?fife=s16383",
+    "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz05vidQNaJWM883Odljpurckzup-0c7EDHliC76wAxVerKP9v5VKOBu9CxPOyKwdYwawzPbsWXPU3zly6l4VTPaWNZPtTbQAxffn6L6iiYCIcjJG2QBWf8uBjSfj5UYZlLfzs1RuDqu_Zz7yoM4RtRaMJMXRKDGGsJTVkEZbvEkzB0KO6SUp9UgNHnjWjOjNqD74y5zojCoMu6126YUUQs5ZABnCEJFx2O-cS9SECdV0l1MeOThCXIVPg?fife=s16383\" height=\"200\" width=\"auto\" /><br>東京都小金井市本町５丁目８−３"
+   }
+  }
+ ]
+}

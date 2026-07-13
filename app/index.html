@@ -1,0 +1,99 @@
+<!doctype html>
+<!-- Ribat Watch — 日本のモスク × 政治的区割り の地図アプリ（画面本体）
+     地図は #map に描画し、左上の操作パネル（#panel）で表示を切り替える。
+     実データの描画ロジックは app.js を参照。 -->
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ribat Watch — 日本のモスク × 政治的区割り</title>
+  <!-- 地図ライブラリ（ローカル同梱）とアプリ独自スタイル -->
+  <link rel="stylesheet" href="vendor/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- 地図の描画先。全画面に広げる（style.css 参照） -->
+  <div id="map"></div>
+
+  <!-- 操作パネル -->
+  <div id="panel" class="panel">
+    <div class="panel-head">
+      <h1>Ribat&nbsp;Watch</h1>
+      <button id="panel-toggle" title="パネルを畳む">–</button>  <!-- パネル折りたたみ -->
+    </div>
+    <p class="sub">日本のモスクを政治的区割りに重ねた地図</p>
+
+    <div id="panel-body">
+      <!-- 区分レベルの切替：自治体 / 選挙区 / 両方 / 非表示 -->
+      <section>
+        <h2>区分レベル</h2>
+        <div class="radio-row" data-group="level">
+          <label><input type="radio" autocomplete="off" name="level" value="local" checked> 自治体</label>
+          <label><input type="radio" autocomplete="off" name="level" value="electoral"> 選挙区</label>
+          <label><input type="radio" autocomplete="off" name="level" value="both"> 両方</label>
+          <label><input type="radio" autocomplete="off" name="level" value="off"> 非表示</label>
+        </div>
+        <!-- 両方のときの説明（自治体＝塗り, 選挙区＝輪郭）。両方選択時のみ表示 -->
+        <div class="hint" id="both-hint" hidden>自治体＝塗り ・ 選挙区＝輪郭</div>
+      </section>
+
+      <!-- 自治体の下位単位：市区町村 / 都道府県（自治体・両方のとき表示） -->
+      <section id="sec-local">
+        <h3>自治体の単位</h3>
+        <div class="radio-row" data-group="localUnit">
+          <label><input type="radio" autocomplete="off" name="localUnit" value="muni" checked> 市区町村</label>
+          <label><input type="radio" autocomplete="off" name="localUnit" value="pref"> 都道府県</label>
+        </div>
+      </section>
+
+      <!-- 選挙区の下位単位：衆院小選挙区(289) / 参院選挙区(45)（選挙区・両方のとき表示） -->
+      <section id="sec-electoral">
+        <h3>選挙区の単位</h3>
+        <div class="radio-row" data-group="electoralUnit">
+          <label><input type="radio" autocomplete="off" name="electoralUnit" value="hr" checked> 衆院小選挙区 (289)</label>
+          <label><input type="radio" autocomplete="off" name="electoralUnit" value="hc"> 参院選挙区 (45)</label>
+        </div>
+      </section>
+
+      <!-- 塗り分けに使う集計指標の選択と、その配色凡例 -->
+      <section>
+        <h2>集計指標</h2>
+        <select id="metric" autocomplete="off">
+          <option value="mosque">モスクのみ</option>
+          <option value="mosque_prayer" selected>モスク＋祈祷室</option>
+          <option value="total">すべて（予定地含む）</option>
+        </select>
+        <div id="legend" class="legend"></div>  <!-- app.js が配色段を差し込む -->
+      </section>
+
+      <!-- 地点の表示切替（種別ごと）と点ヒートマップ。<em> の件数は app.js が埋める -->
+      <section>
+        <h2>地点</h2>
+        <label class="chk"><input type="checkbox" autocomplete="off" id="pt-mosque" checked> <span class="dot dot-mosque"></span> モスク <em id="n-mosque"></em></label>
+        <label class="chk"><input type="checkbox" autocomplete="off" id="pt-prayer" checked> <span class="dot dot-prayer"></span> 祈祷室 <em id="n-prayer"></em></label>
+        <label class="chk"><input type="checkbox" autocomplete="off" id="pt-planned" checked> <span class="dot dot-planned"></span> 予定地 <em id="n-planned"></em></label>
+        <label class="chk"><input type="checkbox" autocomplete="off" id="pt-heat"> 🔥 点ヒートマップ</label>
+      </section>
+
+      <!-- ホバー中の区の読み取り欄と、データ出典（クレジット表記） -->
+      <section class="footer">
+        <div id="readout" class="readout">区にカーソルを合わせると詳細が出ます…</div>
+        <div class="src">
+          <b>モスク:</b> 全国モスクリスト (Google マイマップ, 2026-06-23)<br>
+          <b>市区町村/都道府県/参院:</b> 国土数値情報 行政区域 N03（国土交通省）<br>
+          <b>衆院小選挙区 (289, 2022–):</b> 東大CSIS 西澤明 / gtfs-gis.jp (CC0)<br>
+          <b>背景地図:</b> © OpenStreetMap contributors © CARTO · <span id="src-boundaries">—</span>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <!-- 地図下部に出るホバー吹き出し（app.js が内容を差し込む） -->
+  <div id="hoverbox" class="hoverbox" hidden></div>
+
+  <!-- 地図ライブラリ（同梱）→ ヒートマッププラグイン → アプリ本体 の順に読み込む -->
+  <script src="vendor/leaflet.js"></script>
+  <script src="vendor/leaflet-heat.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
