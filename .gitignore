@@ -13,5 +13,11 @@ mosques_raw.kml
 # 個人情報スクラブ規則（除去対象の語そのものが個人情報のため公開しない）
 scripts/scrub_rules.json
 
+# Notion エクスポート（生データ・個人情報を含む可能性・サイズ大。公開しない）
+Export_Mega/
+
 # OS が生成するファイル
 .DS_Store
+
+# 資金調達リサーチの作業ファイル（生データ由来・非公開）
+funding_work/
