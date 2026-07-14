@@ -194,7 +194,7 @@ function styleOutline(){
 // ---------- 議員（政治的代表）情報 ----------
 // reps_*.json（{level, office, asOf, records:{code:…}}）を読み込んでポップアップに表示する。
 // 公職者のみ（知事・衆院・参院議員）を扱う。個人（モスク関係者）の名は一切載せない。
-const REPS = { pref:null, hr:null, hc:null };   // レベル → reps データ
+const REPS = { pref:null, hr:null, hc:null, muni:null };   // レベル → reps データ
 let PARTIES = {};                                // 政党名 → {short, color, note}
 
 // 政党名を色付きの小さなタグにする（色は reps_parties.json から引く）
@@ -234,7 +234,20 @@ function repsBlock(p){
     return `<div class="reps"><div class="rep-office">${REPS.hc.office} <span class="rep-mag">（${r.members.length}名）</span></div>`+
            `${rows}<div class="rep-src">${REPS.hc.asOf||''}現在</div></div>`;
   }
-  return '';   // muni（首長）は Phase 3 で追加予定
+  if(p.level==='muni' && REPS.muni){
+    const r=REPS.muni.records[p.code]; if(!r) return '';
+    // 首長不在（北方領土など）は「—」と注記のみ
+    if(r.noHead) return `<div class="reps"><div class="rep-office">${r.office||'首長'}</div>`+
+      `<div class="rep-name">—</div><div class="rep-src">${r.note||''}</div></div>`;
+    const term = r.termEnd ? `<span class="rep-cls">任期満了 ${r.termEnd}</span>` : '';
+    // 政令市の行政区は親市の市長を表示し、任命職である旨を注記
+    const inh = r.inherited ? `<div class="rep-endorse">${r.parentCity}長（行政区長は任命職）</div>` : '';
+    const src = r.sourceUrl ? ` <a href="${r.sourceUrl}" target="_blank" rel="noopener">出典↗</a>` : '';
+    return `<div class="reps"><div class="rep-office">${r.office||'首長'}</div>`+
+           `<div class="rep-name">${r.name} ${term}</div>${inh}`+
+           `<div class="rep-src">${REPS.muni.asOf||''}現在${src}</div></div>`;
+  }
+  return '';
 }
 
 // 区クリック時のポップアップ HTML（種別内訳の件数 ＋ 議員情報）
@@ -558,11 +571,12 @@ async function init(){
   srcEl.textContent = Object.values(DISTRICTS).some(Boolean) ? '読込済み' : '（未生成）';
 
   // 議員（政治的代表）データを読み込む（Phase 1&2: 知事・衆院・参院。首長は Phase 3）
-  const [rp,rh,rc,pp] = await Promise.all([
+  const [rp,rh,rc,rm,pp] = await Promise.all([
     fetchJSON('data/reps_pref.json'), fetchJSON('data/reps_hr.json'),
-    fetchJSON('data/reps_hc.json'),   fetchJSON('data/reps_parties.json'),
+    fetchJSON('data/reps_hc.json'),   fetchJSON('data/reps_muni.json'),
+    fetchJSON('data/reps_parties.json'),
   ]);
-  REPS.pref=rp; REPS.hr=rh; REPS.hc=rc; PARTIES=pp||{};
+  REPS.pref=rp; REPS.hr=rh; REPS.hc=rc; REPS.muni=rm; PARTIES=pp||{};
   const repsAsOf = (rp&&rp.asOf) || (rh&&rh.asOf) || '';
   const repEl=document.getElementById('src-reps');
   if(repEl) repEl.textContent = repsAsOf ? `${repsAsOf}現在` : '（未生成）';
