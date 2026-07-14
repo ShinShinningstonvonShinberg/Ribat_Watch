@@ -191,12 +191,59 @@ function styleFilled(f){
 function styleOutline(){
   return { renderer:canvasRenderer, color:'#4a148c', weight:1.6, opacity:0.9, fill:false, dashArray:'4 3' };
 }
-// 区クリック時のポップアップ HTML（種別内訳の件数）
+// ---------- 議員（政治的代表）情報 ----------
+// reps_*.json（{level, office, asOf, records:{code:…}}）を読み込んでポップアップに表示する。
+// 公職者のみ（知事・衆院・参院議員）を扱う。個人（モスク関係者）の名は一切載せない。
+const REPS = { pref:null, hr:null, hc:null };   // レベル → reps データ
+let PARTIES = {};                                // 政党名 → {short, color, note}
+
+// 政党名を色付きの小さなタグにする（色は reps_parties.json から引く）
+function partyTag(name){
+  if(!name) return '';
+  const p = PARTIES[name] || {};
+  return `<span class="ptag" style="background:${p.color||'#9aa0a6'}">${p.short||name}</span>`;
+}
+const shortParty = n => (PARTIES[n]||{}).short || n;
+
+// 単一議員（知事・衆院）用の共通ラッパ
+function repWrap(office, body, sourceUrl, asOf){
+  const src = sourceUrl ? ` <a href="${sourceUrl}" target="_blank" rel="noopener">出典↗</a>` : '';
+  return `<div class="reps"><div class="rep-office">${office}</div>`+
+         `<div class="rep-name">${body}</div>`+
+         `<div class="rep-src">${asOf||''}現在${src}</div></div>`;
+}
+// 区の議員情報ブロック（レベルに応じて 知事／衆院議員／参院議員一覧）
+function repsBlock(p){
+  if(p.level==='pref' && REPS.pref){
+    const r=REPS.pref.records[p.code]; if(!r) return '';
+    const win = r.winCount ? `（${r.winCount}期）` : '';
+    const endorse = (r.endorsers && r.endorsers.length)
+      ? `<span class="rep-endorse">${r.endorsers.map(shortParty).join('・')} 推薦</span>` : '';
+    return repWrap(REPS.pref.office, `${r.name}${win} ${partyTag(r.affiliation)}${endorse}`, r.sourceUrl, REPS.pref.asOf);
+  }
+  if(p.level==='hr' && REPS.hr){
+    const r=REPS.hr.records[p.code]; if(!r) return '';
+    const win = r.winCount ? `（${r.winCount}期）` : '';
+    const kaiha = (r.kaiha && r.kaiha!==r.party) ? `<span class="rep-endorse">会派: ${shortParty(r.kaiha)}</span>` : '';
+    return repWrap(REPS.hr.office, `${r.name}${win} ${partyTag(r.party)}${kaiha}`, r.sourceUrl, REPS.hr.asOf);
+  }
+  if(p.level==='hc' && REPS.hc){
+    const r=REPS.hc.records[p.code]; if(!r || !r.members) return '';
+    const rows = r.members.map(m=>
+      `<div class="rep-mem">${m.name} ${partyTag(m.party)}<span class="rep-cls">${m.cls?`任期~${m.cls}`:''}</span></div>`).join('');
+    return `<div class="reps"><div class="rep-office">${REPS.hc.office} <span class="rep-mag">（${r.members.length}名）</span></div>`+
+           `${rows}<div class="rep-src">${REPS.hc.asOf||''}現在</div></div>`;
+  }
+  return '';   // muni（首長）は Phase 3 で追加予定
+}
+
+// 区クリック時のポップアップ HTML（種別内訳の件数 ＋ 議員情報）
 function districtPopup(p){
   const total=p.total||0;
   return `<span class="pname">${p.name||'（名称不明）'}</span>`+
     `<div class="pcounts">${LEVEL_LABEL[p.level]||p.level}${p.code?` · ${p.code}`:''}<br>`+
-    `🕌 ${p.mosque||0} モスク · 🧎 ${p.prayer||0} 祈祷室 · 🏗️ ${p.planned||0} 予定地 · <b>合計 ${total}</b></div>`;
+    `🕌 ${p.mosque||0} モスク · 🧎 ${p.prayer||0} 祈祷室 · 🏗️ ${p.planned||0} 予定地 · <b>合計 ${total}</b></div>`+
+    repsBlock(p);
 }
 // 区レイヤーにホバー・クリックのイベントを付ける
 function attachDistrictHandlers(layer, isFilled){
@@ -509,6 +556,16 @@ async function init(){
   loaded.forEach(([k,g])=>{ DISTRICTS[k]=g; });
   const srcEl=document.getElementById('src-boundaries');
   srcEl.textContent = Object.values(DISTRICTS).some(Boolean) ? '読込済み' : '（未生成）';
+
+  // 議員（政治的代表）データを読み込む（Phase 1&2: 知事・衆院・参院。首長は Phase 3）
+  const [rp,rh,rc,pp] = await Promise.all([
+    fetchJSON('data/reps_pref.json'), fetchJSON('data/reps_hr.json'),
+    fetchJSON('data/reps_hc.json'),   fetchJSON('data/reps_parties.json'),
+  ]);
+  REPS.pref=rp; REPS.hr=rh; REPS.hc=rc; PARTIES=pp||{};
+  const repsAsOf = (rp&&rp.asOf) || (rh&&rh.asOf) || '';
+  const repEl=document.getElementById('src-reps');
+  if(repEl) repEl.textContent = repsAsOf ? `${repsAsOf}現在` : '（未生成）';
 
   // UI 配線 → 初期状態を DOM から取得 → 現在値ラベルとヒートを同期 → 各レイヤーを初回描画
   wireUI(); readStateFromDOM(); refreshControlLabels(); syncSections(); syncHeatSection();

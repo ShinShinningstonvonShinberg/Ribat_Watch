@@ -59,6 +59,19 @@ section.footer{font-size:11px;color:var(--muted)}
 .leaflet-popup-content a{color:#1d4ed8}
 .pcounts{margin-top:4px;color:#374151}
 
+/* 議員（政治的代表）ブロック（ポップアップ内） */
+.reps{margin-top:6px;padding-top:6px;border-top:1px solid var(--line);max-height:220px;overflow:auto}
+.rep-office{font-size:11px;color:var(--muted);font-weight:600}
+.rep-name{font-size:12.5px;margin-top:2px;line-height:1.7}
+.rep-mem{font-size:12px;margin:3px 0;display:flex;align-items:center;gap:5px;flex-wrap:wrap}
+.rep-mag{color:var(--muted);font-weight:400}
+.rep-cls{color:var(--muted);font-size:10px}
+.rep-endorse{color:var(--muted);font-size:10.5px;margin-left:5px}
+.rep-src{font-size:10px;color:var(--muted);margin-top:5px}
+/* 政党タグ（色は reps_parties.json） */
+.ptag{display:inline-block;color:#fff;font-size:10px;line-height:1.6;padding:0 6px;border-radius:9px;
+  vertical-align:middle;white-space:nowrap;text-shadow:0 0 1px rgba(0,0,0,.4)}
+
 /* パネル折りたたみ時は本文と副題を隠す */
 .panel.collapsed #panel-body,.panel.collapsed .sub{display:none}
 

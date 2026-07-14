@@ -1,0 +1,1996 @@
+{
+ "level": "hr",
+ "office": "衆議院議員（小選挙区）",
+ "asOf": "2026-07-13",
+ "election": "第51回衆議院議員総選挙（2026-02-08）",
+ "records": {
+  "101": {
+   "name": "加藤貴弘",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01",
+   "note": "第51回衆院選（2026-02-08）当選。"
+  },
+  "102": {
+   "name": "高橋祐介",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01"
+  },
+  "103": {
+   "name": "高木宏寿",
+   "kana": "たかぎ ひろひさ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01"
+  },
+  "104": {
+   "name": "中村裕之",
+   "kana": "なかむら ひろゆき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01"
+  },
+  "105": {
+   "name": "和田義明",
+   "kana": "わだ よしあき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01"
+  },
+  "106": {
+   "name": "東国幹",
+   "kana": "あずま くによし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01"
+  },
+  "107": {
+   "name": "鈴木貴子",
+   "kana": "すずき たかこ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01"
+  },
+  "108": {
+   "name": "向山淳",
+   "kana": "むこうやま じゅん",
+   "party": "自由民主党",
+   "winCount": "2",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01",
+   "note": "当選2回（自民・前職）。jimin.jp/member/203683.html および Yahoo!ニュース速報で確認。"
+  },
+  "109": {
+   "name": "松下英樹",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01"
+  },
+  "110": {
+   "name": "神谷裕",
+   "kana": "かみや ひろし",
+   "party": "中道改革連合",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01",
+   "note": "中道改革連合＝立憲民主党と公明党が2026-01-16に合流して結成した新党。"
+  },
+  "111": {
+   "name": "中川紘一",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01"
+  },
+  "112": {
+   "name": "武部新",
+   "kana": "たけべ あらた",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_01"
+  },
+  "201": {
+   "name": "津島淳",
+   "kana": "つしま じゅん",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_02"
+  },
+  "202": {
+   "name": "神田潤一",
+   "kana": "かんだ じゅんいち",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_02"
+  },
+  "203": {
+   "name": "木村次郎",
+   "kana": "きむら じろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_02"
+  },
+  "301": {
+   "name": "階猛",
+   "kana": "しな たけし",
+   "party": "中道改革連合",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_03",
+   "note": "前職。中道改革連合＝立憲民主党と公明党の合流新党（2026-01-16結成）。"
+  },
+  "302": {
+   "name": "鈴木俊一",
+   "kana": "すずき しゅんいち",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_03",
+   "note": "前職。"
+  },
+  "303": {
+   "name": "藤原崇",
+   "kana": "ふじわら たかし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_03",
+   "note": "元職。"
+  },
+  "401": {
+   "name": "土井亨",
+   "kana": "どい とおる",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_04"
+  },
+  "402": {
+   "name": "渡辺勝幸",
+   "kana": "わたなべ かつゆき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_04"
+  },
+  "403": {
+   "name": "西村明宏",
+   "kana": "にしむら あきひろ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_04"
+  },
+  "404": {
+   "name": "森下千里",
+   "kana": "もりした ちさと",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_04"
+  },
+  "405": {
+   "name": "小野寺五典",
+   "kana": "おのでら いつのり",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_04"
+  },
+  "501": {
+   "name": "冨樫博之",
+   "kana": "とがし ひろゆき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_05"
+  },
+  "502": {
+   "name": "福原淳嗣",
+   "kana": "ふくはら じゅんじ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_05"
+  },
+  "503": {
+   "name": "村岡敏英",
+   "kana": "むらおか としひで",
+   "party": "国民民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_05"
+  },
+  "601": {
+   "name": "遠藤寛明",
+   "kana": "えんどう ひろあき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_06"
+  },
+  "602": {
+   "name": "鈴木憲和",
+   "kana": "すずき のりかず",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_06",
+   "note": "日本維新の会の推薦。"
+  },
+  "603": {
+   "name": "加藤鮎子",
+   "kana": "かとう あゆこ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_06",
+   "note": "日本維新の会の推薦。"
+  },
+  "701": {
+   "name": "西山尚利",
+   "kana": "にしやま なおとし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_07"
+  },
+  "702": {
+   "name": "根本拓",
+   "kana": "ねもと たく",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_07"
+  },
+  "703": {
+   "name": "上杉謙太郎",
+   "kana": "うえすぎ けんたろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_07"
+  },
+  "704": {
+   "name": "坂本竜太郎",
+   "kana": "さかもと りゅうたろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_07"
+  },
+  "801": {
+   "name": "田所嘉徳",
+   "kana": "たどころよしのり",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_08",
+   "note": "前職。"
+  },
+  "802": {
+   "name": "額賀福志郎",
+   "kana": "ぬかがふくしろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_08",
+   "note": "前職。"
+  },
+  "803": {
+   "name": "葉梨康弘",
+   "kana": "はなしやすひろ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_08",
+   "note": "前職。"
+  },
+  "804": {
+   "name": "梶山弘志",
+   "kana": "かじやまひろし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_08",
+   "note": "前職。"
+  },
+  "805": {
+   "name": "浅野哲",
+   "kana": "あさのさとし",
+   "party": "国民民主党",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOEZ09502_Y6A200C2000000/",
+   "note": "前職。国民民主党。立憲・枝野系を破り当選。日本経済新聞で当選確実報道。"
+  },
+  "806": {
+   "name": "国光文乃",
+   "kana": "くにみつあやの",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_08",
+   "note": "前職。"
+  },
+  "807": {
+   "name": "中村勇太",
+   "kana": "なかむらゆうた",
+   "party": "無所属",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_08",
+   "note": "無所属。永岡桂子(自民)との接戦を制する。時事ドットコム開票結果では前職・無所属と表記。"
+  },
+  "901": {
+   "name": "船田元",
+   "kana": "ふなだはじめ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_09",
+   "note": "85,199票で当選。"
+  },
+  "902": {
+   "name": "五十嵐清",
+   "kana": "いがらしきよし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_09",
+   "note": "66,681票で当選。"
+  },
+  "903": {
+   "name": "渡辺真太朗",
+   "kana": "わたなべしんたろう",
+   "party": "無所属",
+   "winCount": "1",
+   "sourceUrl": "https://www.shimotsuke.co.jp/articles/-/1283000",
+   "note": "無所属新人(自民党籍)、初当選。6選を狙った自民前職・簗和生を保守分裂の激戦で破る(58,483票)。簗は比例復活。"
+  },
+  "904": {
+   "name": "石坂太",
+   "kana": "いしざかまさる",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.shimotsuke.co.jp/articles/-/1284577",
+   "note": "自民新人、初当選。引退した佐藤勉元総務相の後継。87,743票。"
+  },
+  "905": {
+   "name": "茂木敏充",
+   "kana": "もてぎとしみつ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_09",
+   "note": "110,743票で当選。"
+  },
+  "1001": {
+   "name": "中曽根康隆",
+   "kana": "なかそねやすたか",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_10",
+   "note": "前職。"
+  },
+  "1002": {
+   "name": "井野俊郎",
+   "kana": "いのとしろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_10",
+   "note": "前職。"
+  },
+  "1003": {
+   "name": "笹川博義",
+   "kana": "ささがわひろよし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_10",
+   "note": "前職。"
+  },
+  "1004": {
+   "name": "福田達夫",
+   "kana": "ふくだたつお",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_10",
+   "note": "前職。"
+  },
+  "1005": {
+   "name": "小渕優子",
+   "kana": "おぶちゆうこ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_10",
+   "note": "前職。"
+  },
+  "1101": {
+   "name": "村井英樹",
+   "kana": "むらいひでき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1102": {
+   "name": "新藤義孝",
+   "kana": "しんどうよしたか",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1103": {
+   "name": "黄川田仁志",
+   "kana": "きかわだひとし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1104": {
+   "name": "穂坂泰",
+   "kana": "ほさかやすし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1105": {
+   "name": "井原隆",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?d=22491",
+   "note": "自民新人、初当選。立憲・枝野幸男を破る(NHK報道)。"
+  },
+  "1106": {
+   "name": "尾花瑛仁",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "自民新人、初当選。"
+  },
+  "1107": {
+   "name": "中野英幸",
+   "kana": "なかのひでゆき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1108": {
+   "name": "柴山昌彦",
+   "kana": "しばやままさひこ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1109": {
+   "name": "大塚拓",
+   "kana": "おおつかたく",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1110": {
+   "name": "山口晋",
+   "kana": "やまぐちすすむ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1111": {
+   "name": "小泉龍司",
+   "kana": "こいずみりゅうじ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1112": {
+   "name": "野中厚",
+   "kana": "のなかあつし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1113": {
+   "name": "三ツ林裕巳",
+   "kana": "みつばやしひろみ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1114": {
+   "name": "藤田誠",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "自民新人、初当選。"
+  },
+  "1115": {
+   "name": "田中良生",
+   "kana": "たなかりょうせい",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1116": {
+   "name": "土屋品子",
+   "kana": "つちやしなこ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_11",
+   "note": "前職。"
+  },
+  "1201": {
+   "name": "門山宏哲",
+   "kana": "カドヤマ ヒロアキ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/門山宏哲",
+   "note": "51回小選挙区当選（得票109771・得票率46.8%）／元職。当選回数は出典に記載なし。"
+  },
+  "1202": {
+   "name": "小林鷹之",
+   "kana": "コバヤシ タカユキ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/小林鷹之",
+   "note": "51回小選挙区当選（得票107933・得票率67.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1203": {
+   "name": "松野博一",
+   "kana": "マツノ ヒロカズ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/松野博一",
+   "note": "51回小選挙区当選（得票86687・得票率52%）／前職。当選回数は出典に記載なし。"
+  },
+  "1204": {
+   "name": "鹿嶋祐介",
+   "kana": "カシマ ユウスケ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/鹿嶋祐介",
+   "note": "51回小選挙区当選（得票106236・得票率48.2%）／新人。当選回数は出典に記載なし。"
+  },
+  "1205": {
+   "name": "英利アルフィヤ",
+   "kana": "エリ アルフィヤ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/英利アルフィヤ",
+   "note": "51回小選挙区当選（得票85073・得票率36.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1206": {
+   "name": "渡辺博道",
+   "kana": "ワタナベ ヒロミチ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/渡辺博道",
+   "note": "51回小選挙区当選（得票89662・得票率40.5%）／元職。当選回数は出典に記載なし。"
+  },
+  "1207": {
+   "name": "齋藤健",
+   "kana": "サイトウ ケン",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/齋藤健",
+   "note": "51回小選挙区当選（得票100339・得票率64%）／前職。当選回数は出典に記載なし。"
+  },
+  "1208": {
+   "name": "松本泉",
+   "kana": "マツモト イズミ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/松本泉",
+   "note": "51回小選挙区当選（得票95279・得票率49.1%）／新人。当選回数は出典に記載なし。"
+  },
+  "1209": {
+   "name": "田宮寿人",
+   "kana": "タミヤ ヒサト",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOEZ16901_Z00C26A2000000/",
+   "note": "51回小選挙区当選（得票89146・得票率44.2%）／新人。当選回数は出典に記載なし。"
+  },
+  "1210": {
+   "name": "小池正昭",
+   "kana": "コイケ マサアキ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jimin.jp/news/information/209330.html",
+   "note": "51回小選挙区当選（得票95358・得票率61.1%）／前職。当選回数は出典に記載なし。"
+  },
+  "1211": {
+   "name": "森英介",
+   "kana": "モリ エイスケ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/森英介",
+   "note": "51回小選挙区当選（得票102843・得票率61.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1212": {
+   "name": "浜田靖一",
+   "kana": "ハマダ ヤスカズ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/浜田靖一",
+   "note": "51回小選挙区当選（得票129997・得票率71.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1213": {
+   "name": "松本尚",
+   "kana": "マツモト ヒサシ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/松本尚",
+   "note": "51回小選挙区当選（得票121796・得票率53.9%）／前職。当選回数は出典に記載なし。"
+  },
+  "1214": {
+   "name": "野田佳彦",
+   "kana": "ノダ ヨシヒコ",
+   "party": "中道改革連合",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/野田佳彦",
+   "note": "51回小選挙区当選（得票99324・得票率45%）／前職。首都圏80小選挙区で唯一の非自民当選（中道改革連合共同代表）。旧立憲民主党系で2026年に公明党と合同し中道改革連合を結成。自民・長野春信が比例復活。当選回数は出典に記載なし。"
+  },
+  "1301": {
+   "name": "山田美樹",
+   "kana": "ヤマダ ミキ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/山田美樹",
+   "note": "51回小選挙区当選（得票82622・得票率43%）／元職。当選回数は出典に記載なし。"
+  },
+  "1302": {
+   "name": "辻清人",
+   "kana": "ツジ キヨト",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/辻清人",
+   "note": "51回小選挙区当選（得票84690・得票率43.3%）／前職。当選回数は出典に記載なし。"
+  },
+  "1303": {
+   "name": "石原宏高",
+   "kana": "イシハラ ヒロタカ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/石原宏高",
+   "note": "51回小選挙区当選（得票93158・得票率42.6%）／前職。当選回数は出典に記載なし。"
+  },
+  "1304": {
+   "name": "平将明",
+   "kana": "タイラ マサアキ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/平将明",
+   "note": "51回小選挙区当選（得票114054・得票率49.4%）／前職。当選回数は出典に記載なし。"
+  },
+  "1305": {
+   "name": "若宮健嗣",
+   "kana": "ワカミヤ ケンジ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/若宮健嗣",
+   "note": "51回小選挙区当選（得票89078・得票率39.1%）／元職。当選回数は出典に記載なし。"
+  },
+  "1306": {
+   "name": "畦元将吾",
+   "kana": "アゼモト ショウゴ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/畦元将吾",
+   "note": "51回小選挙区当選（得票90077・得票率37.7%）／元職。当選回数は出典に記載なし。"
+  },
+  "1307": {
+   "name": "丸川珠代",
+   "kana": "マルカワ タマヨ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/丸川珠代",
+   "note": "51回小選挙区当選（得票80421・得票率34.5%）／新人。当選回数は出典に記載なし。"
+  },
+  "1308": {
+   "name": "門寛子",
+   "kana": "カド ヒロコ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/門寛子",
+   "note": "51回小選挙区当選（得票108020・得票率44.3%）／新人。前回の立憲・吉田はるみを破り初当選（Wikipedia東京都第8区で確認）。当選回数は出典に記載なし。"
+  },
+  "1309": {
+   "name": "菅原一秀",
+   "kana": "スガワラ イッシュウ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/菅原一秀",
+   "note": "51回小選挙区当選（得票78927・得票率43%）／元職。当選回数は出典に記載なし。"
+  },
+  "1310": {
+   "name": "鈴木隼人",
+   "kana": "スズキ ハヤト",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/鈴木隼人_(政治家)",
+   "note": "51回小選挙区当選（得票126044・得票率49.1%）／前職。当選回数は出典に記載なし。"
+  },
+  "1311": {
+   "name": "下村博文",
+   "kana": "シモムラ ハクブン",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/下村博文",
+   "note": "51回小選挙区当選（得票69077・得票率31.5%）／元職。当選回数は出典に記載なし。"
+  },
+  "1312": {
+   "name": "高木啓",
+   "kana": "タカギ ケイ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/高木啓",
+   "note": "51回小選挙区当選（得票78774・得票率35%）／前職。当選回数は出典に記載なし。"
+  },
+  "1313": {
+   "name": "土田慎",
+   "kana": "ツチダ シン",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/土田慎",
+   "note": "51回小選挙区当選（得票94680・得票率46.6%）／前職。当選回数は出典に記載なし。"
+  },
+  "1314": {
+   "name": "松島みどり",
+   "kana": "マツシマ ミドリ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/松島みどり",
+   "note": "51回小選挙区当選（得票109892・得票率50.2%）／前職。当選回数は出典に記載なし。"
+  },
+  "1315": {
+   "name": "大空幸星",
+   "kana": "オオゾラ コウキ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/大空幸星",
+   "note": "51回小選挙区当選（得票109489・得票率42.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1316": {
+   "name": "大西洋平",
+   "kana": "オオニシ ヨウヘイ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/大西洋平_(政治家)",
+   "note": "51回小選挙区当選（得票92858・得票率44.6%）／前職。当選回数は出典に記載なし。"
+  },
+  "1317": {
+   "name": "平沢勝栄",
+   "kana": "ヒラサワ カツエイ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/平沢勝栄",
+   "note": "51回小選挙区当選（得票73234・得票率36.2%）／前職。前回は無所属、今回は自民公認。当選回数は出典に記載なし。"
+  },
+  "1318": {
+   "name": "福田かおる",
+   "kana": "フクダ カオル",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/福田かおる",
+   "note": "51回小選挙区当選（得票117383・得票率47.7%）／前職。当選回数は出典に記載なし。"
+  },
+  "1319": {
+   "name": "松本洋平",
+   "kana": "マツモト ヨウヘイ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/松本洋平",
+   "note": "51回小選挙区当選（得票93697・得票率45.9%）／前職。当選回数は出典に記載なし。"
+  },
+  "1320": {
+   "name": "木原誠二",
+   "kana": "キハラ セイジ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/木原誠二",
+   "note": "51回小選挙区当選（得票108985・得票率48.6%）／前職。当選回数は出典に記載なし。"
+  },
+  "1321": {
+   "name": "小田原潔",
+   "kana": "オダワラ キヨシ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/小田原潔",
+   "note": "51回小選挙区当選（得票97494・得票率42.6%）／元職。当選回数は出典に記載なし。"
+  },
+  "1322": {
+   "name": "伊藤達也",
+   "kana": "イトウ タツヤ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/伊藤達也",
+   "note": "51回小選挙区当選（得票132689・得票率51.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1323": {
+   "name": "川松真一朗",
+   "kana": "カワマツ シンイチロウ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/川松真一朗",
+   "note": "51回小選挙区当選（得票92171・得票率45.3%）／新人。当選回数は出典に記載なし。"
+  },
+  "1324": {
+   "name": "萩生田光一",
+   "kana": "ハギウダ コウイチ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/萩生田光一",
+   "note": "51回小選挙区当選（得票85806・得票率41.1%）／前職。当選回数は出典に記載なし。"
+  },
+  "1325": {
+   "name": "井上信治",
+   "kana": "イノウエ シンジ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/井上信治",
+   "note": "51回小選挙区当選（得票109606・得票率50.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1326": {
+   "name": "今岡植",
+   "kana": "イマオカ ウエキ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/今岡植",
+   "note": "51回小選挙区当選（得票92329・得票率34.7%）／新人。当選回数は出典に記載なし。"
+  },
+  "1327": {
+   "name": "黒崎祐一",
+   "kana": "クロサキ ユウイチ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/黒崎祐一",
+   "note": "51回小選挙区当選（得票85249・得票率38.1%）／新人。当選回数は出典に記載なし。"
+  },
+  "1328": {
+   "name": "安藤高夫",
+   "kana": "アンドウ タカオ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/安藤高夫",
+   "note": "51回小選挙区当選（得票69037・得票率36.6%）／前職。当選回数は出典に記載なし。"
+  },
+  "1329": {
+   "name": "長澤興祐",
+   "kana": "ナガサワ コウスケ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jimin.jp/member/212414.html",
+   "note": "51回小選挙区当選（得票80538・得票率41.4%）／新人。当選回数は出典に記載なし。"
+  },
+  "1330": {
+   "name": "長島昭久",
+   "kana": "ナガシマ アキヒサ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/長島昭久",
+   "note": "51回小選挙区当選（得票110453・得票率45.2%）／前職。当選回数は出典に記載なし。"
+  },
+  "1401": {
+   "name": "丸尾南都子",
+   "kana": "マルオ ナツコ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/丸尾南都子",
+   "note": "51回小選挙区当選（得票121899・得票率53.1%）／新人。当選回数は出典に記載なし。"
+  },
+  "1402": {
+   "name": "新田章文",
+   "kana": "ニッタ ショウブン",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/新田章文",
+   "note": "51回小選挙区当選（得票112930・得票率47.9%）／新人。当選回数は出典に記載なし。"
+  },
+  "1403": {
+   "name": "中西健治",
+   "kana": "ナカニシ ケンジ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/中西健治",
+   "note": "51回小選挙区当選（得票114485・得票率47.7%）／前職。当選回数は出典に記載なし。"
+  },
+  "1404": {
+   "name": "永田磨梨奈",
+   "kana": "ナガタ マリナ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/永田磨梨奈",
+   "note": "51回小選挙区当選（得票93954・得票率47.6%）／新人。前回の立憲・早稲田ゆきに競り勝つ（Wikipedia神奈川県第4区で当落確認）。当選回数は出典に記載なし。"
+  },
+  "1405": {
+   "name": "坂井学",
+   "kana": "サカイ マナブ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/坂井学",
+   "note": "51回小選挙区当選（得票99726・得票率49.7%）／前職。当選回数は出典に記載なし。"
+  },
+  "1406": {
+   "name": "古川直季",
+   "kana": "フルカワ ナオキ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/古川直季",
+   "note": "51回小選挙区当選（得票120667・得票率60.7%）／前職。当選回数は出典に記載なし。"
+  },
+  "1407": {
+   "name": "鈴木馨祐",
+   "kana": "スズキ ケイスケ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/鈴木馨祐",
+   "note": "51回小選挙区当選（得票107464・得票率62.1%）／前職。当選回数は出典に記載なし。"
+  },
+  "1408": {
+   "name": "三谷英弘",
+   "kana": "ミタニ ヒデヒロ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/三谷英弘",
+   "note": "51回小選挙区当選（得票140717・得票率59%）／前職。当選回数は出典に記載なし。"
+  },
+  "1409": {
+   "name": "上原正裕",
+   "kana": "ウエハラ マサヒロ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.kanaloco.jp/news/government/electiondata/article-1245870.html",
+   "note": "51回小選挙区当選（得票87531・得票率46.6%）／新人。当選回数は出典に記載なし。"
+  },
+  "1410": {
+   "name": "田中和徳",
+   "kana": "タナカ カズノリ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/田中和徳",
+   "note": "51回小選挙区当選（得票59967・得票率36.1%）／前職。当選回数は出典に記載なし。"
+  },
+  "1411": {
+   "name": "小泉進次郎",
+   "kana": "コイズミ シンジロウ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/小泉進次郎",
+   "note": "51回小選挙区当選（得票149029・得票率79.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1412": {
+   "name": "星野剛士",
+   "kana": "ホシノ ツヨシ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/星野剛士",
+   "note": "51回小選挙区当選（得票108343・得票率49.4%）／前職。当選回数は出典に記載なし。"
+  },
+  "1413": {
+   "name": "丸田康一郎",
+   "kana": "マルタ コウイチロウ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.kanaloco.jp/news/government/electiondata/article-1245875.html",
+   "note": "51回小選挙区当選（得票95453・得票率48.6%）／新人。当選回数は出典に記載なし。"
+  },
+  "1414": {
+   "name": "赤間二郎",
+   "kana": "アカマ ジロウ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/赤間二郎",
+   "note": "51回小選挙区当選（得票108352・得票率52.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1415": {
+   "name": "河野太郎",
+   "kana": "コウノ タロウ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/河野太郎",
+   "note": "51回小選挙区当選（得票141580・得票率62.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "1416": {
+   "name": "佐藤主迪",
+   "kana": "サトウ マサシ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.kanaloco.jp/news/government/electiondata/article-1245878.html",
+   "note": "51回小選挙区当選（得票105984・得票率52.9%）／新人。当選回数は出典に記載なし。"
+  },
+  "1417": {
+   "name": "牧島かれん",
+   "kana": "マキシマ カレン",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/牧島かれん",
+   "note": "51回小選挙区当選（得票106966・得票率48.4%）／前職。当選回数は出典に記載なし。"
+  },
+  "1418": {
+   "name": "山際大志郎",
+   "kana": "ヤマギワ ダイシロウ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/山際大志郎",
+   "note": "51回小選挙区当選（得票76615・得票率32.4%）／前職。当選回数は出典に記載なし。"
+  },
+  "1419": {
+   "name": "草間剛",
+   "kana": "クサマ ツヨシ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/草間剛",
+   "note": "51回小選挙区当選（得票83450・得票率40.7%）／前職。当選回数は出典に記載なし。"
+  },
+  "1420": {
+   "name": "金澤結衣",
+   "kana": "カナザワ ユイ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/金澤結衣",
+   "note": "51回小選挙区当選（得票91240・得票率49.5%）／新人。当選回数は出典に記載なし。"
+  },
+  "1501": {
+   "name": "内山航",
+   "kana": "うちやま こう",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/15",
+   "note": "第51回衆院選(2026-02-08)小選挙区当選。初当選。"
+  },
+  "1502": {
+   "name": "国定勇人",
+   "kana": "くにさだ いさと",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://shugiin.go2senkyo.com/51/senkyoku/51268",
+   "note": "第51回衆院選小選挙区当選。得票111,803(49.0%)。"
+  },
+  "1503": {
+   "name": "斎藤洋明",
+   "kana": "さいとう ひろあき",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/15",
+   "note": "第51回衆院選小選挙区当選。"
+  },
+  "1504": {
+   "name": "鷲尾英一郎",
+   "kana": "わしお えいいちろう",
+   "party": "自由民主党",
+   "winCount": "7",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/15",
+   "note": "第51回衆院選小選挙区当選。"
+  },
+  "1505": {
+   "name": "高鳥修一",
+   "kana": "たかとり しゅういち",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/15",
+   "note": "第51回衆院選小選挙区当選。"
+  },
+  "1601": {
+   "name": "中田宏",
+   "kana": "なかだ ひろし",
+   "party": "自由民主党",
+   "winCount": "5",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/16",
+   "note": "第51回衆院選小選挙区当選。得票81,875。"
+  },
+  "1602": {
+   "name": "上田英俊",
+   "kana": "うえだ えいしゅん",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/16",
+   "note": "第51回衆院選小選挙区当選。得票88,839。"
+  },
+  "1603": {
+   "name": "橘慶一郎",
+   "kana": "たちばな けいいちろう",
+   "party": "自由民主党",
+   "winCount": "7",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/16",
+   "note": "第51回衆院選小選挙区当選。得票126,981。"
+  },
+  "1701": {
+   "name": "小森卓郎",
+   "kana": "こもり たくお",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/17",
+   "note": "第51回衆院選小選挙区当選。"
+  },
+  "1702": {
+   "name": "佐々木紀",
+   "kana": "ささき はじめ",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/17",
+   "note": "第51回衆院選小選挙区当選。"
+  },
+  "1703": {
+   "name": "西田昭二",
+   "kana": "にしだ しょうじ",
+   "party": "自由民主党",
+   "winCount": "4",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/17",
+   "note": "第51回衆院選小選挙区当選。次点は近藤和也(中道改革連合)で比例復活。"
+  },
+  "1801": {
+   "name": "稲田朋美",
+   "kana": "いなだ ともみ",
+   "party": "自由民主党",
+   "winCount": "8",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/18",
+   "note": "第51回衆院選小選挙区当選。"
+  },
+  "1802": {
+   "name": "斉木武志",
+   "kana": "さいき たけし",
+   "party": "無所属",
+   "winCount": "4",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/18",
+   "note": "自民推薦・支持の無所属として辻英之を破り当選(小選挙区初勝利、当選4回目)。自民は2026-02-08に追加公認したため現会派は自由民主党。",
+   "kaiha": "自由民主党"
+  },
+  "1901": {
+   "name": "中谷真一",
+   "kana": "ナカタニ シンイチ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/中谷真一",
+   "note": "51回小選挙区当選（得票128168・得票率52.3%）／前職。当選回数は出典に記載なし。"
+  },
+  "1902": {
+   "name": "堀内詔子",
+   "kana": "ホリウチ ノリコ",
+   "party": "自由民主党",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/堀内詔子",
+   "note": "51回小選挙区当選（得票108477・得票率81.5%）／前職。当選回数は出典に記載なし。"
+  },
+  "2001": {
+   "name": "若林健太",
+   "kana": "わかばやし けんた",
+   "party": "自由民主党",
+   "winCount": "2",
+   "sourceUrl": "https://shugiin.go2senkyo.com/51/senkyoku/51210",
+   "note": "第51回衆院選小選挙区当選。得票119,101(50.7%)。"
+  },
+  "2002": {
+   "name": "藤田ひかる",
+   "kana": "ふじた ひかる",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/20",
+   "note": "第51回衆院選小選挙区当選。初当選。"
+  },
+  "2003": {
+   "name": "井出庸生",
+   "kana": "いで ようせい",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/20",
+   "note": "第51回衆院選小選挙区当選。"
+  },
+  "2004": {
+   "name": "後藤茂之",
+   "kana": "ごとう しげゆき",
+   "party": "自由民主党",
+   "winCount": "9",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/20",
+   "note": "第51回衆院選小選挙区当選。"
+  },
+  "2005": {
+   "name": "宮下一郎",
+   "kana": "みやした いちろう",
+   "party": "自由民主党",
+   "winCount": "8",
+   "sourceUrl": "https://www.nikkei.com/special/election/candidates/pref/20",
+   "note": "第51回衆院選小選挙区当選。"
+  },
+  "2101": {
+   "name": "野田聖子",
+   "kana": "のだせいこ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_21"
+  },
+  "2102": {
+   "name": "棚橋泰文",
+   "kana": "たなはしやすふみ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_21"
+  },
+  "2103": {
+   "name": "武藤容治",
+   "kana": "むとうようじ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_21"
+  },
+  "2104": {
+   "name": "加藤大博",
+   "kana": "かとうともひろ",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://go2senkyo.com/shugiin/28030/senkyoku/51204",
+   "note": "新人。go2senkyo表記は『加藤ともひろ』。前職・今井雅人らを破り初当選。"
+  },
+  "2105": {
+   "name": "古屋圭司",
+   "kana": "ふるやけいじ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_21"
+  },
+  "2201": {
+   "name": "上川陽子",
+   "kana": "かみかわようこ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_22"
+  },
+  "2202": {
+   "name": "井林辰憲",
+   "kana": "いばやしたつのり",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_22"
+  },
+  "2203": {
+   "name": "山本裕三",
+   "kana": "やまもとゆうぞう",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://news.yahoo.co.jp/articles/88bb43ded45d2847c7b53ff65ab06dc120a64c63",
+   "note": "自民新人。中道(前)・小山展弘を破り初当選。"
+  },
+  "2204": {
+   "name": "深澤陽一",
+   "kana": "ふかざわよういち",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_22"
+  },
+  "2205": {
+   "name": "細野豪志",
+   "kana": "ほそのごうし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jimin.jp/election/sen_shu51/candidate/detail/hosono-goushi.html",
+   "note": "元は野党だったが安全保障政策の違いで自民党入り。"
+  },
+  "2206": {
+   "name": "勝俣孝明",
+   "kana": "かつまたたかあき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.tokyo-np.co.jp/article/467803",
+   "note": "中道(前)・渡辺周を破り議席奪還。"
+  },
+  "2207": {
+   "name": "城内実",
+   "kana": "きうちみのる",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_22"
+  },
+  "2208": {
+   "name": "稲葉大介",
+   "kana": "いなばだいすけ",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://go2senkyo.com/shugiin/28030/senkyoku/50982",
+   "note": "新人。中道(前)・源馬謙太郎を破り初当選。自民が静岡8小選挙区を全独占。"
+  },
+  "2301": {
+   "name": "河村たかし",
+   "kana": "かわむらたかし",
+   "party": "減税日本・ゆうこく連合",
+   "winCount": "7",
+   "sourceUrl": "https://www.nagoyatv.com/news/?id=034159",
+   "note": "減税日本・ゆうこく連合の共同代表として当選。自民・熊田裕通は比例復活。"
+  },
+  "2302": {
+   "name": "古川元久",
+   "kana": "ふるかわもとひさ",
+   "party": "国民民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_23"
+  },
+  "2303": {
+   "name": "水野良彦",
+   "kana": "みずのよしひこ",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.chunichi.co.jp/article/1204457",
+   "note": "自民新人。中道(前)・近藤昭一を破り初当選。"
+  },
+  "2304": {
+   "name": "工藤彰三",
+   "kana": "くどうしょうぞう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_23"
+  },
+  "2305": {
+   "name": "岡本安寛",
+   "kana": "おかもとやすひろ",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://shugiin.go2senkyo.com/51/senkyoku/51008",
+   "note": "自民新人。"
+  },
+  "2306": {
+   "name": "丹羽秀樹",
+   "kana": "にわひでき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_23"
+  },
+  "2307": {
+   "name": "日野紗里亜",
+   "kana": "ひのさりあ",
+   "party": "国民民主党",
+   "winCount": "2",
+   "sourceUrl": "https://www.nagoyatv.com/news/?id=034150",
+   "note": "再選。自民・鈴木淳司は比例復活。"
+  },
+  "2308": {
+   "name": "伊藤忠彦",
+   "kana": "いとうただひこ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_23"
+  },
+  "2309": {
+   "name": "長坂康正",
+   "kana": "ながさかやすまさ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_23"
+  },
+  "2310": {
+   "name": "若山慎司",
+   "kana": "わかやましんじ",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://go2senkyo.com/shugiin/28030/senkyoku/51015",
+   "note": "自民新人。内閣府大臣政務官。go2senkyo表記は『若山しんじ』。"
+  },
+  "2311": {
+   "name": "丹野みどり",
+   "kana": "たんのみどり",
+   "party": "国民民主党",
+   "winCount": "2",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_23"
+  },
+  "2312": {
+   "name": "青山周平",
+   "kana": "あおやましゅうへい",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_23"
+  },
+  "2313": {
+   "name": "石井拓",
+   "kana": "いしいたく",
+   "party": "自由民主党",
+   "winCount": "2",
+   "sourceUrl": "https://www.nagoyatv.com/news/?id=034137",
+   "note": "元職が返り咲き。中道(前)・大西健介に雪辱。"
+  },
+  "2314": {
+   "name": "今枝宗一郎",
+   "kana": "いまえだそういちろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_23"
+  },
+  "2315": {
+   "name": "根本幸典",
+   "kana": "ねもとゆきのり",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_23"
+  },
+  "2316": {
+   "name": "山下史守朗",
+   "kana": "やましたしずお",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.jimin.jp/election/results/sen_shu51/candidate/detail/yamashita-shizuo.html",
+   "note": "自民新人。元小牧市長(4期)。"
+  },
+  "2401": {
+   "name": "田村憲久",
+   "kana": "たむらのりひさ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_24"
+  },
+  "2402": {
+   "name": "川崎秀人",
+   "kana": "かわさきひでと",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_24"
+  },
+  "2403": {
+   "name": "石原正敬",
+   "kana": "いしはらまさたか",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_24"
+  },
+  "2404": {
+   "name": "鈴木英敬",
+   "kana": "すずきえいけい",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_24",
+   "note": "元職。"
+  },
+  "2501": {
+   "name": "大岡敏孝",
+   "kana": "おおおかとしたか",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_25"
+  },
+  "2502": {
+   "name": "上野賢一郎",
+   "kana": "うえのけんいちろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_25"
+  },
+  "2503": {
+   "name": "武村展英",
+   "kana": "たけむらのぶひで",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_25"
+  },
+  "2601": {
+   "name": "勝目康",
+   "kana": "かつめやすし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_26"
+  },
+  "2602": {
+   "name": "前原誠司",
+   "kana": "まえはらせいじ",
+   "party": "日本維新の会",
+   "winCount": "12",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/前原誠司",
+   "note": "12選。旧民主党系から維新に合流。"
+  },
+  "2603": {
+   "name": "泉健太",
+   "kana": "いずみけんた",
+   "party": "中道改革連合",
+   "winCount": "10",
+   "sourceUrl": "https://www.kyoto-np.co.jp/articles/-/1652601",
+   "note": "10選。元立憲民主党代表。2026-01-20に中道改革連合（立憲民主党＋公明党の合流新党）へ参加し同党公認で当選。"
+  },
+  "2604": {
+   "name": "北神圭朗",
+   "kana": "きたがみけいろう",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://news.yahoo.co.jp/articles/ec07f3f1aa71ed61a9a43b323a21fc8d6ae3c005",
+   "note": "6選。2026-01-21に会派『有志の会』を退会し翌日に自民党公認。"
+  },
+  "2605": {
+   "name": "本田太郎",
+   "kana": "ほんだたろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_26"
+  },
+  "2606": {
+   "name": "園崎弘道",
+   "kana": "そのざきひろみち",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.kyoto-np.co.jp/articles/-/1652598",
+   "note": "新人・初当選。日本維新の会が推薦（endorser: 日本維新の会）。"
+  },
+  "2701": {
+   "name": "井上英孝",
+   "kana": "いのうえひでたか",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2702": {
+   "name": "高見亮",
+   "kana": "たかみりょう",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2703": {
+   "name": "東徹",
+   "kana": "あずまとおる",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2704": {
+   "name": "美延映夫",
+   "kana": "みのべてるお",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2705": {
+   "name": "梅村聡",
+   "kana": "うめむらさとし",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2706": {
+   "name": "西田薫",
+   "kana": "にしだかおる",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2707": {
+   "name": "奥下剛光",
+   "kana": "おくしたたけみつ",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2708": {
+   "name": "漆間譲司",
+   "kana": "うるまじょうじ",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2709": {
+   "name": "萩原佳",
+   "kana": "はぎわらけい",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2710": {
+   "name": "池下卓",
+   "kana": "いけしたたく",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2711": {
+   "name": "中司宏",
+   "kana": "なかつかさひろし",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2712": {
+   "name": "藤田文武",
+   "kana": "ふじたふみたけ",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2713": {
+   "name": "岩谷良平",
+   "kana": "いわたにりょうへい",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2714": {
+   "name": "青柳仁士",
+   "kana": "あおやぎひとし",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2715": {
+   "name": "浦野靖人",
+   "kana": "うらのやすと",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2716": {
+   "name": "黒田征樹",
+   "kana": "くろだまさき",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2717": {
+   "name": "馬場伸幸",
+   "kana": "ばばのぶゆき",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2718": {
+   "name": "遠藤敬",
+   "kana": "えんどうたかし",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_27"
+  },
+  "2719": {
+   "name": "谷川とむ",
+   "kana": "たにがわとむ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?d=13427",
+   "note": "大阪府内で維新以外が小選挙区を制した唯一の区。維新・伊東信久を約700票差で破る（伊東は比例復活）。"
+  },
+  "2801": {
+   "name": "盛山正仁",
+   "kana": "もりやままさひと",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_28"
+  },
+  "2802": {
+   "name": "阿部圭史",
+   "kana": "あべけいし",
+   "party": "日本維新の会",
+   "sourceUrl": "https://www.nikkei.com/person?election_id=30&candidate_code=010832"
+  },
+  "2803": {
+   "name": "関芳弘",
+   "kana": "せきよしひろ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_28"
+  },
+  "2804": {
+   "name": "藤井比早之",
+   "kana": "ふじいひさゆき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_28"
+  },
+  "2805": {
+   "name": "谷公一",
+   "kana": "たにこういち",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_28"
+  },
+  "2806": {
+   "name": "大串正樹",
+   "kana": "おおぐしまさき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_28"
+  },
+  "2807": {
+   "name": "山田賢司",
+   "kana": "やまだけんじ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_28"
+  },
+  "2808": {
+   "name": "青山繁晴",
+   "kana": "あおやましげはる",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://go2senkyo.com/shugiin/28030/senkyoku/51098?sort=o",
+   "note": "新人・初当選（元参議院議員）。前職は公明党・中野洋昌が保持していた区。85,970票で当選。"
+  },
+  "2809": {
+   "name": "西村康稔",
+   "kana": "にしむらやすとし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_28"
+  },
+  "2810": {
+   "name": "渡海紀三朗",
+   "kana": "とかいきさぶろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_28"
+  },
+  "2811": {
+   "name": "山田基靖",
+   "kana": "やまだもとやす",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://shugiin.go2senkyo.com/51/senkyoku/51101",
+   "note": "新人。現職・松本剛明が健康上の理由で不出馬となり、自民党本部が擁立した公認候補。氏名の読みは要確認。"
+  },
+  "2812": {
+   "name": "山口壮",
+   "kana": "やまぐちつよし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_28"
+  },
+  "2901": {
+   "name": "小林茂樹",
+   "kana": "こばやししげき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_29"
+  },
+  "2902": {
+   "name": "高市早苗",
+   "kana": "たかいちさなえ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_29",
+   "note": "内閣総理大臣。"
+  },
+  "2903": {
+   "name": "田野瀬太道",
+   "kana": "たのせたいどう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_29"
+  },
+  "3001": {
+   "name": "山本大地",
+   "kana": "やまもとだいち",
+   "party": "自由民主党",
+   "winCount": "2",
+   "sourceUrl": "https://wakayamashimpo.co.jp/2026/02/20260208_136223.html",
+   "note": "再選（2期目）。95,836票。前回当選者の林佑美は国民民主党へ移籍し出馬。"
+  },
+  "3002": {
+   "name": "世耕弘成",
+   "kana": "せこうひろしげ",
+   "party": "無所属",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_30",
+   "note": "無所属で当選。162,257票。"
+  },
+  "3101": {
+   "name": "石破茂",
+   "kana": "いしば しげる",
+   "party": "自由民主党",
+   "winCount": "14",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_31"
+  },
+  "3102": {
+   "name": "赤沢亮正",
+   "kana": "あかざわ りょうせい",
+   "party": "自由民主党",
+   "winCount": "8",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_31"
+  },
+  "3201": {
+   "name": "高階恵美子",
+   "kana": "たかがい えみこ",
+   "party": "自由民主党",
+   "winCount": "2",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_32"
+  },
+  "3202": {
+   "name": "高見康裕",
+   "kana": "たかみ やすひろ",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_32"
+  },
+  "3301": {
+   "name": "逢沢一郎",
+   "kana": "あいさわ いちろう",
+   "party": "自由民主党",
+   "winCount": "14",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_33",
+   "note": "日本維新の会推薦"
+  },
+  "3302": {
+   "name": "山下貴司",
+   "kana": "やました たかし",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_33",
+   "note": "日本維新の会推薦"
+  },
+  "3303": {
+   "name": "加藤勝信",
+   "kana": "かとう かつのぶ",
+   "party": "自由民主党",
+   "winCount": "9",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_33",
+   "note": "日本維新の会推薦"
+  },
+  "3304": {
+   "name": "橋本岳",
+   "kana": "はしもと がく",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_33",
+   "note": "日本維新の会推薦"
+  },
+  "3401": {
+   "name": "岸田文雄",
+   "kana": "きしだ ふみお",
+   "party": "自由民主党",
+   "winCount": "12",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_34"
+  },
+  "3402": {
+   "name": "平口洋",
+   "kana": "ひらぐち ひろし",
+   "party": "自由民主党",
+   "winCount": "7",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_34"
+  },
+  "3403": {
+   "name": "石橋林太郎",
+   "kana": "いしばし りんたろう",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_34"
+  },
+  "3404": {
+   "name": "新谷正義",
+   "kana": "しんたに まさよし",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_34"
+  },
+  "3405": {
+   "name": "山本深",
+   "kana": "やまもと しん",
+   "party": "自由民主党",
+   "winCount": "1",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_34",
+   "note": "初当選"
+  },
+  "3406": {
+   "name": "小林史明",
+   "kana": "こばやし ふみあき",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_34"
+  },
+  "3501": {
+   "name": "高村正大",
+   "kana": "こうむら まさひろ",
+   "party": "自由民主党",
+   "winCount": "4",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_35"
+  },
+  "3502": {
+   "name": "岸信千世",
+   "kana": "きし のぶちよ",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_35"
+  },
+  "3503": {
+   "name": "林芳正",
+   "kana": "はやし よしまさ",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_35"
+  },
+  "3601": {
+   "name": "仁木博文",
+   "kana": "にき ひろぶみ",
+   "party": "自由民主党",
+   "winCount": "4",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_36"
+  },
+  "3602": {
+   "name": "山口俊一",
+   "kana": "やまぐち しゅんいち",
+   "party": "自由民主党",
+   "winCount": "13",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_36",
+   "note": "日本維新の会推薦"
+  },
+  "3701": {
+   "name": "小川淳也",
+   "kana": "おがわ じゅんや",
+   "party": "中道改革連合",
+   "winCount": "8",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_37",
+   "note": "略称『中道』。選挙後2026-02-13に中道改革連合の新代表に就任。"
+  },
+  "3702": {
+   "name": "玉木雄一郎",
+   "kana": "たまき ゆういちろう",
+   "party": "国民民主党",
+   "winCount": "7",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_37"
+  },
+  "3703": {
+   "name": "大野敬太郎",
+   "kana": "おおの けいたろう",
+   "party": "自由民主党",
+   "winCount": "6",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_37"
+  },
+  "3801": {
+   "name": "塩崎彰久",
+   "kana": "しおざき あきひさ",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_38"
+  },
+  "3802": {
+   "name": "井原巧",
+   "kana": "いはら たくみ",
+   "party": "自由民主党",
+   "winCount": "2",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_38"
+  },
+  "3803": {
+   "name": "長谷川淳二",
+   "kana": "はせがわ じゅんじ",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_38"
+  },
+  "3901": {
+   "name": "中谷元",
+   "kana": "なかたに げん",
+   "party": "自由民主党",
+   "winCount": "13",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_39",
+   "note": "日本維新の会推薦"
+  },
+  "3902": {
+   "name": "尾崎正直",
+   "kana": "おざき まさなお",
+   "party": "自由民主党",
+   "winCount": "3",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_39",
+   "note": "日本維新の会推薦"
+  },
+  "4001": {
+   "name": "井上貴博",
+   "kana": "いのうえたかひろ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "前職。時事ドットコム開票結果より。"
+  },
+  "4002": {
+   "name": "鬼木誠",
+   "kana": "おにきまこと",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "前職。"
+  },
+  "4003": {
+   "name": "古賀篤",
+   "kana": "こがあつし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "前職。"
+  },
+  "4004": {
+   "name": "宮内秀樹",
+   "kana": "みやうちひでき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "前職。"
+  },
+  "4005": {
+   "name": "栗原渉",
+   "kana": "くりはらわたる",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "前職。"
+  },
+  "4006": {
+   "name": "鳩山二郎",
+   "kana": "はとやまじろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "前職。"
+  },
+  "4007": {
+   "name": "藤丸敏",
+   "kana": "ふじまるさとし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "前職。"
+  },
+  "4008": {
+   "name": "麻生太郎",
+   "kana": "あそうたろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "前職。"
+  },
+  "4009": {
+   "name": "緒方林太郎",
+   "kana": "おがたりんたろう",
+   "party": "無所属",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "前職。無所属で当選。"
+  },
+  "4010": {
+   "name": "吉村悠",
+   "kana": "よしむらはるか",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "新人当選。"
+  },
+  "4011": {
+   "name": "武田良太",
+   "kana": "たけだりょうた",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_40",
+   "note": "元職。"
+  },
+  "4101": {
+   "name": "岩田和親",
+   "kana": "いわたかずちか",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_41",
+   "note": "前職。日本維新の会推薦。"
+  },
+  "4102": {
+   "name": "古川康",
+   "kana": "ふるかわやすし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_41",
+   "note": "前職。日本維新の会推薦。"
+  },
+  "4201": {
+   "name": "西岡秀子",
+   "kana": "にしおかひでこ",
+   "party": "国民民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_42",
+   "note": "長崎1区。"
+  },
+  "4202": {
+   "name": "加藤竜祥",
+   "kana": "かとうりゅうしょう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_42",
+   "note": "長崎2区。"
+  },
+  "4203": {
+   "name": "金子容三",
+   "kana": "かねこようぞう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_42",
+   "note": "長崎3区。"
+  },
+  "4301": {
+   "name": "木原稔",
+   "kana": "きはらみのる",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_43",
+   "note": "熊本1区。"
+  },
+  "4302": {
+   "name": "西野太亮",
+   "kana": "にしのだいすけ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_43",
+   "note": "熊本2区。"
+  },
+  "4303": {
+   "name": "坂本哲志",
+   "kana": "さかもとてつし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_43",
+   "note": "熊本3区。"
+  },
+  "4304": {
+   "name": "金子恭之",
+   "kana": "かねこやすし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_43",
+   "note": "熊本4区。"
+  },
+  "4401": {
+   "name": "衛藤博昭",
+   "kana": "えとうひろあき",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_44",
+   "note": "新人当選。日本維新の会推薦。得票95,484票。"
+  },
+  "4402": {
+   "name": "広瀬建",
+   "kana": "ひろせけん",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_44",
+   "note": "大分2区。"
+  },
+  "4403": {
+   "name": "岩屋毅",
+   "kana": "いわやたけし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_44",
+   "note": "大分3区。日本維新の会推薦。"
+  },
+  "4501": {
+   "name": "渡辺創",
+   "kana": "わたなべそう",
+   "party": "中道改革連合",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_45",
+   "note": "前職。政党名は時事ドットコム開票結果の表記どおり「中道改革連合」。"
+  },
+  "4502": {
+   "name": "長友慎治",
+   "kana": "ながともしんじ",
+   "party": "国民民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_45",
+   "note": "前職。宮崎2区。"
+  },
+  "4503": {
+   "name": "古川禎久",
+   "kana": "ふるかわよしひさ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_45",
+   "note": "前職。宮崎3区。"
+  },
+  "4601": {
+   "name": "宮路拓馬",
+   "kana": "みやじたくま",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_46",
+   "note": "前職。鹿児島1区。"
+  },
+  "4602": {
+   "name": "三反園訓",
+   "kana": "みたぞのさとし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_46",
+   "note": "前職。日本維新の会推薦。"
+  },
+  "4603": {
+   "name": "野間健",
+   "kana": "のまたけし",
+   "party": "中道改革連合",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_46",
+   "note": "前職。政党名は時事ドットコム開票結果の表記どおり「中道改革連合」。"
+  },
+  "4604": {
+   "name": "森山裕",
+   "kana": "もりやまひろし",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_46",
+   "note": "前職。日本維新の会推薦。"
+  },
+  "4701": {
+   "name": "国場幸之助",
+   "kana": "こくばこうのすけ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_47",
+   "note": "沖縄1区。"
+  },
+  "4702": {
+   "name": "宮崎政久",
+   "kana": "みやざきまさひさ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_47",
+   "note": "沖縄2区。"
+  },
+  "4703": {
+   "name": "島尻安伊子",
+   "kana": "しまじりあいこ",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_47",
+   "note": "沖縄3区。"
+  },
+  "4704": {
+   "name": "西銘恒三郎",
+   "kana": "にしめこうさぶろう",
+   "party": "自由民主党",
+   "sourceUrl": "https://www.jiji.com/jc/2026syu?l=senkyoku_47",
+   "note": "沖縄4区。"
+  }
+ }
+}

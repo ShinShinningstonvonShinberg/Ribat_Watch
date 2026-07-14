@@ -1,0 +1,1416 @@
+{
+ "level": "hc",
+ "office": "参議院議員（選挙区）",
+ "asOf": "2026-07-13",
+ "records": {
+  "10": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "中曽根弘文",
+     "kana": "なかそねひろふみ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/10"
+    },
+    {
+     "name": "清水真人",
+     "kana": "しみずまさと",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/10"
+    }
+   ]
+  },
+  "11": {
+   "magnitude": 8,
+   "members": [
+    {
+     "name": "関口昌一",
+     "kana": "せきぐちまさかず",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/11"
+    },
+    {
+     "name": "上田清司",
+     "kana": "うえだきよし",
+     "party": "無所属",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/11"
+    },
+    {
+     "name": "西田実仁",
+     "kana": "にしだまこと",
+     "party": "公明党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/11"
+    },
+    {
+     "name": "高木真理",
+     "kana": "たかぎまり",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/11"
+    },
+    {
+     "name": "古川俊治",
+     "kana": "ふるかわとしはる",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/11"
+    },
+    {
+     "name": "江原くみ子",
+     "kana": "えはらくみこ",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/11"
+    },
+    {
+     "name": "熊谷裕人",
+     "kana": "くまがいひろと",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/11"
+    },
+    {
+     "name": "大津力",
+     "kana": "おおつつとむ",
+     "party": "参政党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/11"
+    }
+   ]
+  },
+  "12": {
+   "magnitude": 6,
+   "members": [
+    {
+     "name": "臼井正一",
+     "kana": "うすいしょういち",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/12"
+    },
+    {
+     "name": "猪口邦子",
+     "kana": "いのぐちくにこ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/12"
+    },
+    {
+     "name": "小西洋之",
+     "kana": "こにしひろゆき",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/12"
+    },
+    {
+     "name": "小林さやか",
+     "kana": "こばやしさやか",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/12"
+    },
+    {
+     "name": "長浜博行",
+     "kana": "ながはまひろゆき",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/12"
+    },
+    {
+     "name": "石井準一",
+     "kana": "いしいじゅんいち",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/12"
+    }
+   ]
+  },
+  "13": {
+   "magnitude": 12,
+   "members": [
+    {
+     "name": "朝日健太郎",
+     "kana": "あさひけんたろう",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/13"
+    },
+    {
+     "name": "竹谷とし子",
+     "kana": "たけやとしこ",
+     "party": "公明党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/13"
+    },
+    {
+     "name": "山添拓",
+     "kana": "やまぞえたく",
+     "party": "日本共産党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/13"
+    },
+    {
+     "name": "生稲晃子",
+     "kana": "いくいなあきこ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/13"
+    },
+    {
+     "name": "山本太郎",
+     "kana": "やまもとたろう",
+     "party": "れいわ新選組",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/13"
+    },
+    {
+     "name": "塩村あやか",
+     "kana": "しおむらあやか",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/13"
+    },
+    {
+     "name": "鈴木大地",
+     "kana": "すずきだいち",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/13"
+    },
+    {
+     "name": "さや",
+     "kana": "さや",
+     "party": "参政党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/13"
+    },
+    {
+     "name": "牛田茉友",
+     "kana": "うしだまゆ",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/13"
+    },
+    {
+     "name": "川村ゆうだい",
+     "kana": "かわむらゆうだい",
+     "party": "公明党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/13"
+    },
+    {
+     "name": "奥村祥大",
+     "kana": "おくむらよしひろ",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/13"
+    },
+    {
+     "name": "吉良よし子",
+     "kana": "きらよしこ",
+     "party": "日本共産党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/13"
+    }
+   ]
+  },
+  "14": {
+   "magnitude": 8,
+   "members": [
+    {
+     "name": "三原じゅん子",
+     "kana": "みはらじゅんこ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/14"
+    },
+    {
+     "name": "松沢成文",
+     "kana": "まつざわしげふみ",
+     "party": "日本維新の会",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/14"
+    },
+    {
+     "name": "三浦信祐",
+     "kana": "みうらのぶひろ",
+     "party": "公明党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/14"
+    },
+    {
+     "name": "浅尾慶一郎",
+     "kana": "あさおけいいちろう",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/14"
+    },
+    {
+     "name": "牧山ひろえ",
+     "kana": "まきやまひろえ",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/14"
+    },
+    {
+     "name": "籠島彰宏",
+     "kana": "かごしまあきひろ",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/14"
+    },
+    {
+     "name": "脇雅昭",
+     "kana": "わきまさあき",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/14"
+    },
+    {
+     "name": "初鹿野裕樹",
+     "kana": "はじかのひろき",
+     "party": "参政党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/14"
+    }
+   ]
+  },
+  "15": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "小林一大",
+     "kana": "こばやしかずひろ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/15"
+    },
+    {
+     "name": "打越さく良",
+     "kana": "うちこしさくら",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/15"
+    }
+   ]
+  },
+  "16": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "野上浩太郎",
+     "kana": "のがみこうたろう",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/富山県選挙区"
+    },
+    {
+     "name": "庭田幸恵",
+     "kana": "にわたさちえ",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/富山県選挙区"
+    }
+   ]
+  },
+  "17": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "岡田直樹",
+     "kana": "おかだなおき",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/石川県選挙区"
+    },
+    {
+     "name": "宮本周司",
+     "kana": "みやもとしゅうじ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/石川県選挙区"
+    }
+   ]
+  },
+  "18": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "山崎正昭",
+     "kana": "やまさきまさあき",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/福井県選挙区"
+    },
+    {
+     "name": "滝波宏文",
+     "kana": "たきなみひろふみ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/福井県選挙区"
+    }
+   ]
+  },
+  "19": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "永井学",
+     "kana": "ながいまなぶ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/山梨県選挙区"
+    },
+    {
+     "name": "後藤斎",
+     "kana": "ごとうひとし",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/山梨県選挙区"
+    }
+   ]
+  },
+  "20": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "杉尾秀哉",
+     "kana": "すぎおひでや",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/長野県選挙区"
+    },
+    {
+     "name": "羽田次郎",
+     "kana": "はたじろう",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/長野県選挙区"
+    }
+   ]
+  },
+  "21": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "渡辺猛之",
+     "kana": "わたなべたけゆき",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/岐阜県選挙区"
+    },
+    {
+     "name": "若井敦子",
+     "kana": "わかいあつこ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/岐阜県選挙区"
+    }
+   ]
+  },
+  "22": {
+   "magnitude": 4,
+   "members": [
+    {
+     "name": "若林洋平",
+     "kana": "わかばやしようへい",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/静岡県選挙区"
+    },
+    {
+     "name": "平山佐知子",
+     "kana": "ひらやまさちこ",
+     "party": "無所属",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/静岡県選挙区"
+    },
+    {
+     "name": "榛葉賀津也",
+     "kana": "しんばかづや",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/静岡県選挙区"
+    },
+    {
+     "name": "牧野京夫",
+     "kana": "まきのたかお",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/静岡県選挙区"
+    }
+   ]
+  },
+  "23": {
+   "magnitude": 8,
+   "members": [
+    {
+     "name": "藤川政人",
+     "kana": "ふじかわまさひと",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県選挙区"
+    },
+    {
+     "name": "里見隆治",
+     "kana": "さとみりゅうじ",
+     "party": "公明党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県選挙区"
+    },
+    {
+     "name": "斎藤嘉隆",
+     "kana": "さいとうよしたか",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県選挙区"
+    },
+    {
+     "name": "伊藤孝恵",
+     "kana": "いとうたかえ",
+     "party": "国民民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県選挙区"
+    },
+    {
+     "name": "水野孝一",
+     "kana": "みずのこういち",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県選挙区"
+    },
+    {
+     "name": "田島麻衣子",
+     "kana": "たじままいこ",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県選挙区"
+    },
+    {
+     "name": "杉本純子",
+     "kana": "すぎもとじゅんこ",
+     "party": "参政党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県選挙区"
+    },
+    {
+     "name": "酒井庸行",
+     "kana": "さかいつねゆき",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県選挙区"
+    }
+   ]
+  },
+  "24": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "山本佐知子",
+     "kana": "やまもとさちこ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/三重県選挙区"
+    },
+    {
+     "name": "小島智子",
+     "kana": "こじまともこ",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/三重県選挙区"
+    }
+   ]
+  },
+  "25": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "小鑓隆史",
+     "kana": "こやりたかし",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/滋賀県選挙区"
+    },
+    {
+     "name": "宮本和宏",
+     "kana": "みやもとかずひろ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/滋賀県選挙区"
+    }
+   ]
+  },
+  "26": {
+   "magnitude": 4,
+   "members": [
+    {
+     "name": "吉井章",
+     "kana": "よしいあきら",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/京都府選挙区"
+    },
+    {
+     "name": "福山哲郎",
+     "kana": "ふくやまてつろう",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/京都府選挙区"
+    },
+    {
+     "name": "新実彰平",
+     "kana": "にいみしょうへい",
+     "party": "日本維新の会",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/京都府選挙区"
+    },
+    {
+     "name": "西田昌司",
+     "kana": "にしだしょうじ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/京都府選挙区"
+    }
+   ]
+  },
+  "27": {
+   "magnitude": 8,
+   "members": [
+    {
+     "name": "高木佳保里",
+     "kana": "たかぎかおり",
+     "party": "日本維新の会",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/大阪府選挙区"
+    },
+    {
+     "name": "松川るい",
+     "kana": "まつかわるい",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/大阪府選挙区"
+    },
+    {
+     "name": "浅田均",
+     "kana": "あさだひとし",
+     "party": "日本維新の会",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/大阪府選挙区"
+    },
+    {
+     "name": "石川博崇",
+     "kana": "いしかわひろたか",
+     "party": "公明党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/大阪府選挙区"
+    },
+    {
+     "name": "佐々木理江",
+     "kana": "ささきりえ",
+     "party": "日本維新の会",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/大阪府選挙区"
+    },
+    {
+     "name": "岡崎太",
+     "kana": "おかざきふとし",
+     "party": "日本維新の会",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/大阪府選挙区"
+    },
+    {
+     "name": "宮出千慧",
+     "kana": "みやでちさと",
+     "party": "参政党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/大阪府選挙区"
+    },
+    {
+     "name": "杉久武",
+     "kana": "すぎひさたけ",
+     "party": "公明党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/大阪府選挙区"
+    }
+   ]
+  },
+  "28": {
+   "magnitude": 6,
+   "members": [
+    {
+     "name": "片山大介",
+     "kana": "かたやまだいすけ",
+     "party": "日本維新の会",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/兵庫県選挙区"
+    },
+    {
+     "name": "末松信介",
+     "kana": "すえまつしんすけ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/兵庫県選挙区"
+    },
+    {
+     "name": "伊藤孝江",
+     "kana": "いとうたかえ",
+     "party": "公明党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/兵庫県選挙区"
+    },
+    {
+     "name": "泉房穂",
+     "kana": "いずみふさほ",
+     "party": "無所属",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/兵庫県選挙区"
+    },
+    {
+     "name": "高橋光男",
+     "kana": "たかはしみつお",
+     "party": "公明党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/兵庫県選挙区"
+    },
+    {
+     "name": "加田裕之",
+     "kana": "かだひろゆき",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/兵庫県選挙区"
+    }
+   ]
+  },
+  "29": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "佐藤啓",
+     "kana": "さとうけい",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/奈良県選挙区"
+    },
+    {
+     "name": "堀井巌",
+     "kana": "ほりいいわお",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/奈良県選挙区"
+    }
+   ]
+  },
+  "30": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "鶴保庸介",
+     "kana": "つるほようすけ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/5998036.htm"
+    },
+    {
+     "name": "望月良男",
+     "kana": "もちづきよしお",
+     "party": "無所属",
+     "cls": "2031",
+     "termEnd": "2031",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/和歌山県選挙区"
+    }
+   ]
+  },
+  "33": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "小野田紀美",
+     "kana": "おのだきみ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "小林孝一郎",
+     "kana": "こばやしこういちろう",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "34": {
+   "magnitude": 4,
+   "members": [
+    {
+     "name": "三上えり",
+     "kana": "みかみえり",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "宮沢洋一",
+     "kana": "みやざわよういち",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "西田英範",
+     "kana": "にしだひでのり",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "森本真治",
+     "kana": "もりもとしんじ",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "35": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "江島潔",
+     "kana": "えじまきよし",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "北村経夫",
+     "kana": "きたむらつねお",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "37": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "磯崎仁彦",
+     "kana": "いそざきよしひこ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "原田秀一",
+     "kana": "はらだしゅういち",
+     "party": "国民民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "38": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "山本順三",
+     "kana": "やまもとじゅんぞう",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "ながえ孝子",
+     "kana": "ながえたかこ",
+     "party": "無所属",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "40": {
+   "magnitude": 6,
+   "members": [
+    {
+     "name": "秋野公造",
+     "kana": "あきのこうぞう",
+     "party": "公明党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "大家敏志",
+     "kana": "おおいえさとし",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "古賀之士",
+     "kana": "こがゆきひと",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "下野六太",
+     "kana": "しものろくた",
+     "party": "公明党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "中田優子",
+     "kana": "なかたゆうこ",
+     "party": "参政党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "松山政司",
+     "kana": "まつやままさじ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "41": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "福岡資麿",
+     "kana": "ふくおかたかまろ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "山下雄平",
+     "kana": "やましたゆうへい",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "42": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "山本啓介",
+     "kana": "やまもとけいすけ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "古賀友一郎",
+     "kana": "こがゆういちろう",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "43": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "松村祥史",
+     "kana": "まつむらよしふみ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "馬場成志",
+     "kana": "ばばせいし",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "44": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "古庄玄知",
+     "kana": "こしょうはるとも",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "吉田忠智",
+     "kana": "よしだただとも",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "45": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "松下新平",
+     "kana": "まつしたしんぺい",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "山内佳菜子",
+     "kana": "やまうちかなこ",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "46": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "野村哲郎",
+     "kana": "のむらてつろう",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "尾辻朋実",
+     "kana": "おつじともみ",
+     "party": "無所属",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7025032.htm"
+    }
+   ]
+  },
+  "47": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "伊波洋一",
+     "kana": "いはよういち",
+     "party": "無所属",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "高良沙哉",
+     "kana": "たからさや",
+     "party": "無所属",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "01": {
+   "magnitude": 6,
+   "members": [
+    {
+     "name": "長谷川岳",
+     "kana": "はせがわがく",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/1"
+    },
+    {
+     "name": "徳永エリ",
+     "kana": "とくながえり",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/1"
+    },
+    {
+     "name": "船橋利実",
+     "kana": "ふなはしとしみつ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/1"
+    },
+    {
+     "name": "高橋はるみ",
+     "kana": "たかはしはるみ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/1"
+    },
+    {
+     "name": "勝部賢志",
+     "kana": "かつべけんじ",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/1"
+    },
+    {
+     "name": "岩本剛人",
+     "kana": "いわもとつよひと",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/1"
+    }
+   ]
+  },
+  "02": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "田名部匡代",
+     "kana": "たなぶまさよ",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/2"
+    },
+    {
+     "name": "福士ますみ",
+     "kana": "ふくしますみ",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/2"
+    }
+   ]
+  },
+  "03": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "木戸口英司",
+     "kana": "きどぐちえいじ",
+     "party": "立憲民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/岩手県選挙区"
+    },
+    {
+     "name": "横沢高徳",
+     "kana": "よこさわたかのり",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/3"
+    }
+   ]
+  },
+  "04": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "桜井充",
+     "kana": "さくらいみつる",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/4"
+    },
+    {
+     "name": "石垣のりこ",
+     "kana": "いしがきのりこ",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/4"
+    }
+   ]
+  },
+  "05": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "石井浩郎",
+     "kana": "いしいひろお",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/5"
+    },
+    {
+     "name": "寺田静",
+     "kana": "てらたしずか",
+     "party": "無所属",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/5"
+    }
+   ]
+  },
+  "06": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "舟山康江",
+     "kana": "ふなやまやすえ",
+     "party": "国民民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/6"
+    },
+    {
+     "name": "芳賀道也",
+     "kana": "はがみちや",
+     "party": "無所属",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/6"
+    }
+   ]
+  },
+  "07": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "星北斗",
+     "kana": "ほしほくと",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/7"
+    },
+    {
+     "name": "森まさこ",
+     "kana": "もりまさこ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/7"
+    }
+   ]
+  },
+  "08": {
+   "magnitude": 4,
+   "members": [
+    {
+     "name": "加藤明良",
+     "kana": "かとうあきよし",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/8"
+    },
+    {
+     "name": "堂込麻紀子",
+     "kana": "どうごみまきこ",
+     "party": "無所属",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/8"
+    },
+    {
+     "name": "上月良祐",
+     "kana": "こうづきりょうすけ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/8"
+    },
+    {
+     "name": "櫻井祥子",
+     "kana": "さくらいしょうこ",
+     "party": "参政党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/8"
+    }
+   ]
+  },
+  "09": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "上野通子",
+     "kana": "うえのみちこ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/9"
+    },
+    {
+     "name": "高橋克法",
+     "kana": "たかはしかつのり",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://go2senkyo.com/sangiin/20376/prefecture/9"
+    }
+   ]
+  },
+  "31_32": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "青木一彦",
+     "kana": "あおきかずひこ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "出川桃子",
+     "kana": "でがわももこ",
+     "party": "自由民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  },
+  "36_39": {
+   "magnitude": 2,
+   "members": [
+    {
+     "name": "中西祐介",
+     "kana": "なかにしゆうすけ",
+     "party": "自由民主党",
+     "cls": "2028",
+     "termEnd": "2028-07-25",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    },
+    {
+     "name": "広田一",
+     "kana": "ひろたはじめ",
+     "party": "立憲民主党",
+     "cls": "2031",
+     "termEnd": "2031-07-28",
+     "sourceUrl": "https://www.sangiin.go.jp/japanese/giin/hireiku/hireiku.htm"
+    }
+   ]
+  }
+ }
+}

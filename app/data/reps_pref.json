@@ -1,0 +1,677 @@
+{
+ "level": "pref",
+ "office": "知事",
+ "asOf": "2026-07-13",
+ "records": {
+  "10": {
+   "name": "山本一太",
+   "kana": "やまもと いちた",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2023-07-28",
+   "firstTookOffice": "2019-07-28",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC1315M0T10C23A7000000/",
+   "note": "連合群馬は支持。2023/7/23投開票で再選。"
+  },
+  "11": {
+   "name": "大野元裕",
+   "kana": "おおの もとひろ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "公明党",
+    "国民民主党",
+    "日本維新の会"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2023-08-31",
+   "firstTookOffice": "2019-08-31",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC02DCC0S3A800C2000000/",
+   "note": "オール与党相乗り。2023/8/6投開票で再選。"
+  },
+  "12": {
+   "name": "熊谷俊人",
+   "kana": "くまがい としひと",
+   "affiliation": "無所属",
+   "endorsers": [
+    "立憲民主党",
+    "国民民主党",
+    "公明党",
+    "日本維新の会",
+    "自由民主党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2025-04-05",
+   "firstTookOffice": "2021-04-05",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC082O60Y5A300C2000000/",
+   "note": "「県民党」を掲げ与野党相乗り。2025/3/16投開票で再選。"
+  },
+  "13": {
+   "name": "小池百合子",
+   "kana": "こいけ ゆりこ",
+   "affiliation": "無所属",
+   "endorsers": [],
+   "winCount": "3",
+   "currentTermStart": "2024-07-31",
+   "firstTookOffice": "2016-08-02",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC036MD0T00C24A7000000/",
+   "note": "政党推薦を受けず出馬。自民・公明が支援。2024/7/7投開票で3選。"
+  },
+  "14": {
+   "name": "黒岩祐治",
+   "kana": "くろいわ ゆうじ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党",
+    "国民民主党"
+   ],
+   "winCount": "4",
+   "currentTermStart": "2023-04-23",
+   "firstTookOffice": "2011-04-23",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC049CL0U3A400C2000000/",
+   "note": "連合神奈川も推薦。2023/4/9投開票で4選。"
+  },
+  "15": {
+   "name": "花角英世",
+   "kana": "はなずみ ひでよ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "日本維新の会",
+    "国民民主党",
+    "公明党"
+   ],
+   "winCount": "3",
+   "currentTermStart": "2026-06-12",
+   "firstTookOffice": "2018-06-12",
+   "sourceUrl": "https://www.jiji.com/jc/article?k=2026053100322&g=pol",
+   "note": "各党が支持。2026/5/31投開票で3選(柏崎刈羽原発再稼働後初の知事選)。"
+  },
+  "16": {
+   "name": "新田八朗",
+   "kana": "にった はちろう",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党",
+    "立憲民主党",
+    "国民民主党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2024-11-09",
+   "firstTookOffice": "2020-11-09",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC231I40T21C24A0000000/",
+   "note": "連合富山も推薦。2024/10/27投開票(衆院選とのダブル選)で再選。"
+  },
+  "17": {
+   "name": "山野之義",
+   "kana": "やまの ゆきよし",
+   "affiliation": "無所属",
+   "endorsers": [
+    "国民民主党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2026-03-27",
+   "firstTookOffice": "2026-03-27",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC276O10X20C26A2000000/",
+   "note": "元金沢市長。国民民主県連の支持・一部保守系県議の支援。2026/3/8投開票で自民・維新推薦の現職馳浩を破り初当選(保守分裂)。"
+  },
+  "18": {
+   "name": "石田嵩人",
+   "kana": "いしだ たかと",
+   "affiliation": "無所属",
+   "endorsers": [
+    "参政党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2026-01-28",
+   "firstTookOffice": "2026-01-28",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC252DI0V20C26A1000000/",
+   "note": "元外務省職員。参政党が終盤支援、自民県連の一部有志も支援。2026/1/25投開票で初当選、35歳の全国最年少知事(保守分裂)。"
+  },
+  "19": {
+   "name": "長崎幸太郎",
+   "kana": "ながさき こうたろう",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2023-02-17",
+   "firstTookOffice": "2019-02-17",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC052UC0V00C23A1000000/",
+   "note": "2023/1/22投開票で再選。"
+  },
+  "20": {
+   "name": "阿部守一",
+   "kana": "あべ しゅいち",
+   "affiliation": "無所属",
+   "endorsers": [],
+   "winCount": "4",
+   "currentTermStart": "2022-09-01",
+   "firstTookOffice": "2010-09-01",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E9%95%B7%E9%87%8E%E7%9C%8C%E7%9F%A5%E4%BA%8B%E9%81%B8%E6%8C%99",
+   "note": "政党推薦なし。自民・公明・立憲・社民の県組織や連合長野が支援。2022/8/7投開票で4選。"
+  },
+  "21": {
+   "name": "江崎禎英",
+   "kana": "えさき よしひで",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "国民民主党",
+    "公明党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2025-02-06",
+   "firstTookOffice": "2025-02-06",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOFD212OJ0R20C25A1000000/",
+   "note": "与野党相乗り。2025/1/26投開票で初当選(古田肇の後継、20年ぶりの新知事)。"
+  },
+  "22": {
+   "name": "鈴木康友",
+   "kana": "すずき やすとも",
+   "affiliation": "無所属",
+   "endorsers": [
+    "立憲民主党",
+    "国民民主党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2024-05-28",
+   "firstTookOffice": "2024-05-28",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC2482H0U4A520C2000000/",
+   "note": "元浜松市長。川勝平太前知事の辞職に伴う2024/5/26投開票で初当選、自民推薦の元副知事を破る。"
+  },
+  "23": {
+   "name": "大村秀章",
+   "kana": "おおむら ひであき",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "公明党",
+    "国民民主党"
+   ],
+   "winCount": "4",
+   "currentTermStart": "2023-02-15",
+   "firstTookOffice": "2011-02-15",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOFD0143G0R00C23A2000000/",
+   "note": "連合愛知も推薦。2023/2/5投開票で4選。"
+  },
+  "24": {
+   "name": "一見勝之",
+   "kana": "いちみ かつゆき",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "国民民主党",
+    "公明党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2025-09-14",
+   "firstTookOffice": "2021-09-14",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC2861K0Y5A820C2000000/",
+   "note": "2025/9/7投開票で再選。"
+  },
+  "25": {
+   "name": "三日月大造",
+   "kana": "みかづき たいぞう",
+   "affiliation": "無所属",
+   "endorsers": [],
+   "winCount": "4",
+   "currentTermStart": "2026-07-20",
+   "firstTookOffice": "2014-07-20",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOUF246HU0U6A620C2000000/",
+   "note": "政党推薦は求めず、立憲・国民の県連、公明県本部、社民県連合が支援。2026/7/5投開票で県政史上最多の4選。4期目就任は2026/7/20頃。"
+  },
+  "26": {
+   "name": "西脇隆俊",
+   "kana": "にしわき たかとし",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "国民民主党",
+    "立憲民主党",
+    "公明党"
+   ],
+   "winCount": "3",
+   "currentTermStart": "2026-04-16",
+   "firstTookOffice": "2018-04-16",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOUF238OE0T20C26A3000000/",
+   "note": "与野党相乗り。2026/4/5投開票で3選。"
+  },
+  "27": {
+   "name": "吉村洋文",
+   "kana": "よしむら ひろふみ",
+   "affiliation": "日本維新の会",
+   "endorsers": [],
+   "winCount": "3",
+   "currentTermStart": "2026-02-08",
+   "firstTookOffice": "2019-04-08",
+   "sourceUrl": "https://www.jiji.com/jc/article?k=2026020800770&g=pol",
+   "note": "日本維新の会代表。知事・市長の辞職に伴う出直し選(2026/2/8投開票)で3選、維新以外の主要政党は独自候補を擁立せず。"
+  },
+  "28": {
+   "name": "斎藤元彦",
+   "kana": "さいとう もとひこ",
+   "affiliation": "無所属",
+   "endorsers": [],
+   "winCount": "2",
+   "currentTermStart": "2024-11-18",
+   "firstTookOffice": "2021-08-01",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%9F%A5%E4%BA%8B%E9%81%B8%E6%8C%99",
+   "note": "内部告発文書問題で失職後、2024/11/17投開票の出直し選で政党推薦なしで再選(2021年は自民・維新推薦)。"
+  },
+  "29": {
+   "name": "山下真",
+   "kana": "やました まこと",
+   "affiliation": "日本維新の会",
+   "endorsers": [],
+   "winCount": "1",
+   "currentTermStart": "2023-05-03",
+   "firstTookOffice": "2023-05-03",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E5%A5%88%E8%89%AF%E7%9C%8C%E7%9F%A5%E4%BA%8B%E9%81%B8%E6%8C%99",
+   "note": "元生駒市長。日本維新の会公認。2023/4/9投開票で初当選(自民系分裂)。"
+  },
+  "30": {
+   "name": "宮﨑泉",
+   "kana": "みやざき いずみ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2025-06-03",
+   "firstTookOffice": "2025-06-03",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOUF279H60X20C25A5000000/",
+   "note": "前副知事。岸本周平前知事の急死に伴う2025/6/1投開票で初当選。"
+  },
+  "31": {
+   "name": "平井伸治",
+   "kana": "ひらい しんじ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党",
+    "立憲民主党",
+    "国民民主党"
+   ],
+   "winCount": "5",
+   "currentTermStart": "2023-04-13",
+   "firstTookOffice": "2007-04-13",
+   "sourceUrl": "https://www.chugoku-np.co.jp/articles/-/292133",
+   "note": "2023/4/9投開票で5選。"
+  },
+  "32": {
+   "name": "丸山達也",
+   "kana": "まるやま たつや",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "公明党",
+    "国民民主党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2023-04-30",
+   "firstTookOffice": "2019-04-30",
+   "sourceUrl": "https://www.sanin-chuo.co.jp/articles/-/366713",
+   "note": "2023/4/9投開票で再選。"
+  },
+  "33": {
+   "name": "伊原木隆太",
+   "kana": "いばらき りゅうた",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "公明党",
+    "国民民主党"
+   ],
+   "winCount": "4",
+   "currentTermStart": "2024-11-12",
+   "firstTookOffice": "2012-11-12",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC185YB0Y4A011C2000000/",
+   "note": "2024/10/27投開票で4選。"
+  },
+  "34": {
+   "name": "横田美香",
+   "kana": "よこた みか",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "国民民主党",
+    "立憲民主党",
+    "公明党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2025-11-29",
+   "firstTookOffice": "2025-11-29",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC306IM0Q5A031C2000000/",
+   "note": "前副知事。与野党相乗り。2025/11/9投開票で初当選、広島県初の女性知事。"
+  },
+  "35": {
+   "name": "村岡嗣政",
+   "kana": "むらおか つぐまさ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "国民民主党",
+    "公明党"
+   ],
+   "winCount": "4",
+   "currentTermStart": "2026-02-25",
+   "firstTookOffice": "2014-02-25",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC03AC90T00C26A2000000/",
+   "note": "保守分裂。2026/2/8投開票で4選。"
+  },
+  "36": {
+   "name": "後藤田正純",
+   "kana": "ごとうだ まさずみ",
+   "affiliation": "無所属",
+   "endorsers": [],
+   "winCount": "1",
+   "currentTermStart": "2023-05-18",
+   "firstTookOffice": "2023-05-18",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC059B80V00C23A4000000/",
+   "note": "元衆院議員。自民系が3分裂し無所属で出馬(党の正式推薦なし)。2023/4/9投開票で6選を目指した現職飯泉嘉門を破り初当選。"
+  },
+  "37": {
+   "name": "池田豊人",
+   "kana": "いけだ とよひと",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "公明党",
+    "国民民主党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2022-09-05",
+   "firstTookOffice": "2022-09-05",
+   "sourceUrl": "https://www.jimin.jp/news/information/204089.html",
+   "note": "元国交省道路局長。4党相乗り。2022/8/28投開票で初当選。"
+  },
+  "38": {
+   "name": "中村時広",
+   "kana": "なかむら ときひろ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "公明党"
+   ],
+   "winCount": "4",
+   "currentTermStart": "2022-12-01",
+   "firstTookOffice": "2010-12-01",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC1611C0W2A111C2000000/",
+   "note": "各県組織・業界団体が推薦。2022/11/20投開票で4選。"
+  },
+  "39": {
+   "name": "浜田省司",
+   "kana": "はまだ せいじ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2023-12-07",
+   "firstTookOffice": "2019-12-07",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC218YV0R21C23A1000000/",
+   "note": "2023/11/26投開票で再選。"
+  },
+  "40": {
+   "name": "服部誠太郎",
+   "kana": "はっとり せいたろう",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "国民民主党",
+    "公明党",
+    "社会民主党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2025-04-14",
+   "firstTookOffice": "2021-04-14",
+   "sourceUrl": "https://www.nishinippon.co.jp/item/1328558/",
+   "note": "幅広い政党が推薦。2025/3/23投開票で再選。"
+  },
+  "41": {
+   "name": "山口祥義",
+   "kana": "やまぐち よしのり",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党"
+   ],
+   "winCount": "3",
+   "currentTermStart": "2023-01-14",
+   "firstTookOffice": "2015-01-14",
+   "sourceUrl": "https://www.jimin.jp/news/information/204861.html",
+   "note": "2022/12/18投開票で3選。"
+  },
+  "42": {
+   "name": "平田研",
+   "kana": "ひらた けん",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "国民民主党",
+    "立憲民主党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2026-03-02",
+   "firstTookOffice": "2026-03-02",
+   "sourceUrl": "https://www.nishinippon.co.jp/item/1455611/",
+   "note": "元副知事(元国交省局長)。自民県連推薦(連合長崎も推薦)。保守分裂の2026/2/8投開票で現職大石賢吾を接戦で破り初当選。"
+  },
+  "43": {
+   "name": "木村敬",
+   "kana": "きむら たかし",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2024-04-16",
+   "firstTookOffice": "2024-04-16",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOJC183SA0Y4A310C2000000/",
+   "note": "前副知事。2024/3/24投開票で初当選(蒲島郁夫の後継)。"
+  },
+  "44": {
+   "name": "佐藤樹一郎",
+   "kana": "さとう きいちろう",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党"
+   ],
+   "winCount": "1",
+   "currentTermStart": "2023-04-28",
+   "firstTookOffice": "2023-04-28",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOJC240NM0U3A320C2000000/",
+   "note": "2023/4/9投開票で初当選(広瀬勝貞前知事の後継)。"
+  },
+  "45": {
+   "name": "河野俊嗣",
+   "kana": "こうの しゅんじ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党"
+   ],
+   "winCount": "4",
+   "currentTermStart": "2023-01-21",
+   "firstTookOffice": "2011-01-21",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOJC195700Z11C22A2000000/",
+   "note": "自民は県連推薦(党本部は多選のため3期までとし推薦せず)。2022/12/25投開票で4選。"
+  },
+  "46": {
+   "name": "塩田康一",
+   "kana": "しおた こういち",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党",
+    "国民民主党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2024-07-28",
+   "firstTookOffice": "2020-07-28",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOJC047LY0U4A700C2000000/",
+   "note": "2024/7/7投開票で再選。"
+  },
+  "47": {
+   "name": "玉城デニー",
+   "kana": "たまき でにー",
+   "affiliation": "無所属",
+   "endorsers": [
+    "立憲民主党",
+    "日本共産党",
+    "社会民主党",
+    "れいわ新選組",
+    "沖縄社会大衆党"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2022-10-04",
+   "firstTookOffice": "2018-10-04",
+   "sourceUrl": "https://ryukyushimpo.jp/news/entry-1582233.html",
+   "note": "「オール沖縄」が支援。2022/9/11投開票で自民・公明推薦の候補を破り再選。"
+  },
+  "01": {
+   "name": "鈴木直道",
+   "kana": "すずき なおみち",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党",
+    "新党大地"
+   ],
+   "winCount": "2",
+   "currentTermStart": "2023-04-23",
+   "firstTookOffice": "2019-04-23",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOFC242MP0U3A320C2000000/",
+   "note": "2023/4/9投開票の北海道知事選で3新人を破り再選。"
+  },
+  "02": {
+   "name": "宮下宗一郎",
+   "kana": "みやした そういちろう",
+   "affiliation": "無所属",
+   "endorsers": [],
+   "winCount": "1",
+   "currentTermStart": "2023-06-29",
+   "firstTookOffice": "2023-06-29",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC281JF0Y3A520C2000000/",
+   "note": "前むつ市長。2023/6/4投開票で初当選。無所属新人で主要政党の正式推薦はなし。"
+  },
+  "03": {
+   "name": "達増拓也",
+   "kana": "たっそ たくや",
+   "affiliation": "無所属",
+   "endorsers": [
+    "立憲民主党"
+   ],
+   "winCount": "5",
+   "currentTermStart": "2023-09-04",
+   "firstTookOffice": "2007-04-30",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC301JS0Q3A830C2000000/",
+   "note": "「オール岩手」(立憲系・連合等)の支援。2023/9/3投開票で5選。"
+  },
+  "04": {
+   "name": "村井嘉浩",
+   "kana": "むらい よしひろ",
+   "affiliation": "無所属",
+   "endorsers": [],
+   "winCount": "6",
+   "currentTermStart": "2025-11-21",
+   "firstTookOffice": "2005-11-21",
+   "sourceUrl": "https://kahoku.news/articles/20251026khn000022.html",
+   "note": "政党推薦なし。自民・公明の県議らが支援。2025/10/26投開票で県政史上最多の6選。"
+  },
+  "05": {
+   "name": "鈴木健太",
+   "kana": "すずき けんた",
+   "affiliation": "無所属",
+   "endorsers": [],
+   "winCount": "1",
+   "currentTermStart": "2025-04-20",
+   "firstTookOffice": "2025-04-20",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC01CF30R00C25A4000000/",
+   "note": "元県議。2025/4/6投開票で初当選。佐竹敬久の後継。無所属新人で主要政党の正式推薦はなし。"
+  },
+  "06": {
+   "name": "吉村美栄子",
+   "kana": "よしむら みえこ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "立憲民主党",
+    "国民民主党",
+    "日本共産党"
+   ],
+   "winCount": "5",
+   "currentTermStart": "2025-02-14",
+   "firstTookOffice": "2009-02-14",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC172650X10C25A1000000/",
+   "note": "「オール山形」で各党が支援。2025/1/26投開票で5選(女性知事として全国最多)。"
+  },
+  "07": {
+   "name": "内堀雅雄",
+   "kana": "うちぼり まさお",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党",
+    "立憲民主党",
+    "国民民主党"
+   ],
+   "winCount": "3",
+   "currentTermStart": "2022-11-12",
+   "firstTookOffice": "2014-11-12",
+   "sourceUrl": "https://www.minpo.jp/news/moredetail/20221031102017",
+   "note": "各県組織が支援。2022/10/30投開票で3選。"
+  },
+  "08": {
+   "name": "大井川和彦",
+   "kana": "おおいがわ かずひこ",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党",
+    "国民民主党"
+   ],
+   "winCount": "3",
+   "currentTermStart": "2025-09-26",
+   "firstTookOffice": "2017-09-26",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC02BU90S5A900C2000000/",
+   "note": "2025/9/7投開票で3選。"
+  },
+  "09": {
+   "name": "福田富一",
+   "kana": "ふくだ とみかず",
+   "affiliation": "無所属",
+   "endorsers": [
+    "自由民主党",
+    "公明党"
+   ],
+   "winCount": "6",
+   "currentTermStart": "2024-12-09",
+   "firstTookOffice": "2004-12-09",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC147F40U4A111C2000000/",
+   "note": "2024/11/17投開票で6選(全国知事会によれば現職知事で当選回数最多)。"
+  }
+ }
+}
