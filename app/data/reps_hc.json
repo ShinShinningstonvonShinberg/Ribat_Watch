@@ -182,12 +182,12 @@
      "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/13"
     },
     {
-     "name": "山本太郎",
-     "kana": "やまもとたろう",
-     "party": "れいわ新選組",
+     "name": null,
+     "vacant": true,
      "cls": "2028",
      "termEnd": "2028-07-25",
-     "sourceUrl": "https://go2senkyo.com/sangiin/20368/prefecture/13"
+     "note": "山本太郎（れいわ新選組）2026-01-21辞職。定数大・欠員1のため補選なし、2028年まで欠員。",
+     "sourceUrl": "https://ja.wikipedia.org/wiki/2026年日本の補欠選挙"
     },
     {
      "name": "塩村あやか",
