@@ -69,7 +69,9 @@ SNSは承認済みのみ残す＝ホストの allowlist ではない）。これ
 
 モスク地点・議員データは、定期的に再取得して**差分だけを載せた Pull Request を自動で開く**
 仕組みを持つ（`.github/workflows/refresh-*.yml`）。**自動マージはしない**——人間がレビューして
-初めて公開される。設定手順・cadence・スクラブ方針の詳細は **[REFRESH.md](REFRESH.md)** を参照。
+初めて公開される。概要は **[REFRESH.md](REFRESH.md)**、**完全な更新ガイド**（初回設定・選挙対応の
+手順・レビュー観点・トラブルシューティング）は **[docs/UPDATING.ja.md](docs/UPDATING.ja.md)**（日本語）/
+**[docs/UPDATING.en.md](docs/UPDATING.en.md)**（English）を参照。
 
 ## 処理の流れ（方法論）
 
@@ -111,7 +113,8 @@ scripts/geo.py                     外部ライブラリ不要の点在判定・
 scripts/reps/                      議員データ更新（validate / scrape_pref,hr,hc / refresh / mayors / name_aliases）
 data/recount/*.geojson.gz          再集計用のフル解像度境界（同梱・gzip）
 .github/workflows/refresh-*.yml    定期更新Action（差分をレビュー用PRにする）
-REFRESH.md                         更新パイプラインの手順・設定・cadence
+REFRESH.md                         更新パイプラインの概要（設定・cadence）
+docs/UPDATING.{ja,en}.md           更新の完全ガイド（日本語／English・runbook・トラブル対応）
 app/                               Leaflet アプリ（index.html, app.js, style.css, vendor/, data/）
 app/data/*.geojson                 生成済みの表示用データ（これだけでアプリは動く・リポジトリに含む）
 app/data/reps_*.json               議員（知事/衆院/参院/首長）・政党色（リポジトリに含む）
