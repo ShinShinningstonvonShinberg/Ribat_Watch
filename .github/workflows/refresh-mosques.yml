@@ -1,0 +1,68 @@
+# モスク地点データを出典の公開マイマップから定期的に再取得し、
+# スクラブ＋一般化＋再集計した差分だけを載せた Pull Request を開く。
+# 人間がレビューして初めて公開される（自動マージはしない）。
+#
+# 必要な設定（1回だけ）:
+#   - リポジトリ Secrets に SCRUB_RULES_JSON を追加（ローカルの scripts/scrub_rules.json の中身）。
+#     未設定なら、生の個人情報を一般化なしで公開する事故を防ぐため意図的に失敗する。
+#   - Settings → Actions → General → Workflow permissions で
+#     「Allow GitHub Actions to create and approve pull requests」を有効化。
+name: モスクデータ 定期更新（レビュー用PR）
+
+on:
+  schedule:
+    - cron: "17 21 * * 0"     # 毎週日曜 21:17 UTC ≒ 月曜 06:17 JST
+  workflow_dispatch:           # 手動実行も可
+
+permissions:
+  contents: write              # ブランチ作成・コミット
+  pull-requests: write         # PR 作成
+
+concurrency:
+  group: refresh-mosques
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリを取得
+        uses: actions/checkout@v4
+
+      - name: Python を用意
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+        # 依存パッケージ不要（標準ライブラリと同梱の data/recount/*.gz のみで完結）
+
+      - name: 再取得・スクラブ・再集計
+        env:
+          SCRUB_RULES_JSON: ${{ secrets.SCRUB_RULES_JSON }}
+        run: |
+          if [ -z "$SCRUB_RULES_JSON" ]; then
+            echo "::error::秘密情報 SCRUB_RULES_JSON が未設定です。生の個人情報の公開を防ぐため中断します（REFRESH.md 参照）。"
+            exit 1
+          fi
+          python3 scripts/refresh_mosques.py --report refresh_report.md
+
+      - name: 差分があればレビュー用PRを作成
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto/refresh-mosques
+          delete-branch: true
+          commit-message: "モスクデータを出典から再取得・スクラブ・再集計（自動）"
+          title: "【自動】モスクデータ更新（出典マイマップの再取得）"
+          body-path: refresh_report.md
+          labels: |
+            data-refresh
+            mosques
+            needs-review
+          # 公開データのみコミット（生成レポートや作業ファイルは含めない）
+          add-paths: |
+            mosques.geojson
+            mosques.csv
+            app/data/mosques.geojson
+            app/data/districts_muni.geojson
+            app/data/districts_pref.geojson
+            app/data/districts_hc.geojson
+            app/data/districts_hr.geojson

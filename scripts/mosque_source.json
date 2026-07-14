@@ -1,0 +1,6 @@
+{
+  "_comment": "モスク地点の出典（第三者による公開 Google マイマップ「全国モスクリスト」）。mid は README にも記載の公開値。KMLエンドポイントから forcekml=1 で書き出す。環境変数 MYMAP_MID で上書き可能。",
+  "mid": "1rd8XslX0ZqTefLprIz52zUgcLQ1neR4",
+  "kml_url_template": "https://www.google.com/maps/d/kml?mid={mid}&forcekml=1",
+  "source_name": "全国モスクリスト"
+}
