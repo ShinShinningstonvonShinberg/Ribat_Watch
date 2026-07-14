@@ -56,9 +56,20 @@ python3 -m http.server 8777   # 簡易サーバを起動
 - 特定個人の氏名
 - 会衆の国籍・民族に関する記述や、係争的・主観的な論評
 
-除去処理は `parse_kml.py` の `scrub_description()` が担う。除去語の一覧はそれ自体が
-個人情報のため公開せず、`scripts/scrub_rules.json`（`.gitignore` 済み）に置く。
-未加工の生KML（`mosques_raw.kml`）も個人情報を含むためリポジトリには含めない。
+除去処理は `scripts/scrub.py` が担い、2段階で処理する。**(1) スクラブ**：除去語リスト
+（それ自体が個人情報のため公開せず `scripts/scrub_rules.json`（`.gitignore` 済み）に置く）
+に載る語・URL片を消す。**(2) 一般化**：説明文から **URLだけ** を残し、住所・メモ・氏名・
+個人SNS・主観的論評などの自由記述をまるごと落とす（非SNSホストは既定で残す＝SNSの denylist、
+SNSは承認済みのみ残す＝ホストの allowlist ではない）。これにより、まだ除去語リストに載っていない
+新規の個人情報も自由記述としては漏れない（アプリはモスクのポップアップで出典URLしか表示しないため、
+表示上の欠落はない）。残る経路（任意ドメインの path/query に埋め込んだ情報）は、公開前の
+**人間によるPRレビュー**で担保する。未加工の生KML（`mosques_raw.kml`）もリポジトリに含めない。
+
+## データの自動更新（レビュー用PR）
+
+モスク地点・議員データは、定期的に再取得して**差分だけを載せた Pull Request を自動で開く**
+仕組みを持つ（`.github/workflows/refresh-*.yml`）。**自動マージはしない**——人間がレビューして
+初めて公開される。設定手順・cadence・スクラブ方針の詳細は **[REFRESH.md](REFRESH.md)** を参照。
 
 ## 処理の流れ（方法論）
 
@@ -88,13 +99,22 @@ python3 -m http.server 8777   # 簡易サーバを起動
 
 ```
 mosques.geojson / mosques.csv      整形済みの311地点（個人情報スクラブ済み・リポジトリに含む）
-parse_kml.py                       KML → GeoJSON/CSV（個人情報スクラブ処理を含む）
+parse_kml.py                       KML → GeoJSON/CSV（scripts/scrub.py を利用）
+scripts/scrub.py                   個人情報スクラブ＋一般化（parse_kml / refresh_mosques が共有）
+scripts/refresh_mosques.py         出典から再取得・スクラブ・再集計（週次Actionが利用）
+scripts/mosque_source.json         出典マイマップの mid（公開値）
+scripts/mosque_social_allowlist.json  モスク名義SNSの承認リスト（人間が追記）
 scripts/fetch_raw.sh               生の境界データを公開元から取得
 scripts/build_hr.py                CC0シェープファイルをディゾルブ → 現行289区
 scripts/build_districts.py         点在判定＋正規化＋簡略化 → app/data/*
 scripts/geo.py                     外部ライブラリ不要の点在判定・簡略化ユーティリティ
+scripts/reps/                      議員データ更新（validate / scrape_pref,hr,hc / refresh / mayors / name_aliases）
+data/recount/*.geojson.gz          再集計用のフル解像度境界（同梱・gzip）
+.github/workflows/refresh-*.yml    定期更新Action（差分をレビュー用PRにする）
+REFRESH.md                         更新パイプラインの手順・設定・cadence
 app/                               Leaflet アプリ（index.html, app.js, style.css, vendor/, data/）
 app/data/*.geojson                 生成済みの表示用データ（これだけでアプリは動く・リポジトリに含む）
+app/data/reps_*.json               議員（知事/衆院/参院/首長）・政党色（リポジトリに含む）
 app/vendor/                        同梱ライブラリ Leaflet / Leaflet.heat（各自のライセンス）
 LICENSE                            独自コードの MIT ライセンス
 serve.command                      ワンクリック起動用サーバ
