@@ -1,0 +1,94 @@
+# 議員（政治的代表）データを定期的に再収集し、現職の変化（＝在任者の交代）だけを
+# 差分として載せた Pull Request を開く。人間がレビューして初めて公開される（自動マージ禁止）。
+#
+# 段階的な cadence:
+#   - 知事 / 衆院 / 参院（scrape_pref/hr/hc, Wikipedia・APIキー不要）… 四半期ごと + 手動
+#   - 首長（mayors/run, Claude + web_search・要 ANTHROPIC_API_KEY）… 月次・opt-in（鍵が無ければ自動でスキップ）
+#   - 選挙の直前後は手動 workflow_dispatch で該当レベル・コードだけ回す（例: 沖縄県知事選 2026-09-13 → level=pref code=47）
+#
+# 必要な設定:
+#   - （任意）首長を CI で回すなら Secrets に ANTHROPIC_API_KEY を追加。無ければ知事/衆院/参院のみ更新。
+#   - Settings → Actions → General → Workflow permissions で
+#     「Allow GitHub Actions to create and approve pull requests」を有効化。
+name: 議員データ 定期更新（レビュー用PR）
+
+on:
+  schedule:
+    - cron: "23 20 1 1,4,7,10 *"    # 四半期（1/4/7/10月の1日）20:23 UTC … 知事/衆院/参院
+    - cron: "23 20 5 * *"           # 毎月5日 20:23 UTC … 首長（鍵があるときだけ実際に収集）
+  workflow_dispatch:                 # 手動実行（選挙対応・特定レベル/コード）
+    inputs:
+      level:
+        description: "更新レベル（pref/hr/hc/muni/all）"
+        default: "all"
+      code:
+        description: "district code を1つに絞る（任意。muniは2桁の都道府県。例: 47）"
+        default: ""
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: refresh-reps
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリを取得
+        uses: actions/checkout@v4
+
+      - name: Python を用意
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+        # 依存パッケージ不要（標準ライブラリのみ）
+
+      - name: 収集・マージ・検証
+        # 手動入力（level/code）やコンテキストは env 経由で「データ」として渡す。run: に
+        # ${{ }} を直接埋め込むとスクリプトインジェクションの余地になるため参照しない。
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LEVEL_IN: ${{ github.event.inputs.level }}
+          CODE_IN: ${{ github.event.inputs.code }}
+          SCHEDULE: ${{ github.event.schedule }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          LEVEL="$LEVEL_IN"
+          CODE="$CODE_IN"
+          # スケジュール実行時は cron で対象を切り替える（月次=muniのみ、四半期=知事/衆院/参院）
+          if [ -z "$LEVEL" ]; then
+            if [ "$SCHEDULE" = "23 20 5 * *" ]; then LEVEL="muni"; else LEVEL="all"; fi
+          fi
+          # 入力の検証（許可レベルのみ・コードは数字と_のみ）
+          case "$LEVEL" in pref|hr|hc|muni|all) ;; *) echo "::error::不正な level: $LEVEL"; exit 1;; esac
+          CODE="$(printf '%s' "$CODE" | tr -cd '0-9_')"
+          ARGS="--level $LEVEL --apply --report refresh_report.md"
+          if [ -n "$CODE" ]; then ARGS="$ARGS --code $CODE"; fi
+          # 四半期の all では首長を除外（首長は月次ジョブが担当・高コスト）
+          if [ "$LEVEL" = "all" ] && [ "$EVENT_NAME" = "schedule" ]; then ARGS="$ARGS --skip-muni"; fi
+          # 首長は鍵が無いと収集できない → その場合は明示スキップ（知事/衆院/参院は鍵不要）
+          if [ "$LEVEL" = "muni" ] && [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "ANTHROPIC_API_KEY 未設定のため首長更新をスキップします。"; exit 0
+          fi
+          python3 scripts/reps/refresh.py $ARGS
+
+      - name: 差分があればレビュー用PRを作成
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto/refresh-reps
+          delete-branch: true
+          commit-message: "議員データを再収集・検証（自動・現職の変化のみ）"
+          title: "【自動】議員データ更新（現職の変化）"
+          body-path: refresh_report.md
+          labels: |
+            data-refresh
+            reps
+            needs-review
+          add-paths: |
+            app/data/reps_pref.json
+            app/data/reps_hr.json
+            app/data/reps_hc.json
+            app/data/reps_muni.json

@@ -24,3 +24,9 @@ funding_work/
 
 # AIセッションのアーカイブ（作業記録・非公開）
 AI_Sessions/
+
+# 更新パイプラインの一時ファイル（レビュー用の候補・収集結果・生成プロンプト・差分レポート）
+app/data/reps_*.candidate.json
+app/data/reps_*.scraped.json
+scripts/reps/mayors/_prompts/
+refresh_report.md
