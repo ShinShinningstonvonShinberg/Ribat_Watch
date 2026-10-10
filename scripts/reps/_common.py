@@ -16,13 +16,18 @@ import re
 import sys
 import json
 import datetime
+import unicodedata
 import urllib.parse
 import urllib.request
 import urllib.error
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 APP_DATA = os.path.join(ROOT, "app", "data")
-UA = "Ribat-Watch-reps/1.0 (+https://github.com/; public mosque/district map)"
+# Wikimedia の User-Agent ポリシーは連絡先（URL かメール）の明記を求める。汎用の
+# "https://github.com/" だけの UA は 2026-10 時点で API から 429 を返されるようになったため、
+# 公開リポジトリのURLを連絡先として入れる。
+UA = ("Ribat-Watch-reps/1.1 (https://github.com/ShinShinningstonvonShinberg/Ribat_Watch; "
+      "public mosque/district map)")
 
 
 # ---------------------------------------------------------------------------
@@ -39,7 +44,9 @@ def http_get(url, timeout=60):
         import subprocess
         if not shutil.which("curl"):
             raise
-        return subprocess.run(["curl", "-sSL", "--fail", "-A", UA, "--max-time", str(timeout), url],
+        # --retry は 429/5xx 等の一時エラーを Retry-After に従って再試行する
+        return subprocess.run(["curl", "-sSL", "--fail", "-A", UA, "--max-time", str(timeout),
+                               "--retry", "3", "--retry-max-time", "120", url],
                               check=True, stdout=subprocess.PIPE).stdout
 
 
@@ -128,6 +135,8 @@ _KANJI_FOLD = str.maketrans({
     "澤": "沢", "齋": "斎", "齊": "斎", "髙": "高", "眞": "真", "德": "徳", "櫻": "桜",
     "惠": "恵", "巖": "巌", "龍": "竜", "濱": "浜", "檜": "桧", "槇": "槙", "曾": "曽",
     "廣": "広", "萬": "万", "禮": "礼", "豐": "豊", "彌": "弥",
+    # 2026-10 の首長更新で見つかった、自治体公式と他の出典で字体が異なる例
+    "斉": "斎", "賴": "頼", "寬": "寛", "𠮷": "吉", "兒": "児", "濵": "浜",
     "ヶ": "ケ", "ッ": "ツ", "ヵ": "カ",
 })
 
@@ -136,7 +145,8 @@ def norm_name(name):
     """氏名を比較用に正規化する（曖昧さ回避・異体字・空白・全角空白・肩書の除去）。"""
     if not name:
         return ""
-    n = strip_disambig(name).replace("　", "").replace(" ", "")
+    # NFC で CJK 互換漢字（例: 自治体サイトの U+F9DC「隆」）を統合漢字にそろえる
+    n = unicodedata.normalize("NFC", strip_disambig(name)).replace("　", "").replace(" ", "")
     n = re.sub(r"(知事|議員|氏)$", "", n)
     return n.translate(_KANJI_FOLD).strip()
 

@@ -1,7 +1,7 @@
 {
  "level": "muni",
  "office": "首長",
- "asOf": "2026-07-13",
+ "asOf": "2026-10-09",
  "records": {
   "01202": {
    "name": "大泉潤",
@@ -13,9 +13,9 @@
   "01203": {
    "name": "迫俊哉",
    "office": "市長",
-   "termEnd": "2026-08-25",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "小樽市長"
+   "termEnd": "2030-08-25",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（3期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01204": {
    "name": "今津寛介",
@@ -153,9 +153,9 @@
   "01223": {
    "name": "石垣雅敏",
    "office": "市長",
-   "termEnd": "2026-09-28",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "根室市長"
+   "termEnd": "2030-09-28",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（3期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01224": {
    "name": "横田隆一",
@@ -319,315 +319,315 @@
    "note": "山越郡長万部町長"
   },
   "01361": {
-   "name": "照井 誉之介",
+   "name": "照井誉之介",
    "office": "町長",
    "termEnd": "2030-08-07",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "江差町長"
   },
   "01362": {
-   "name": "工藤 昇",
+   "name": "工藤昇",
    "office": "町長",
    "termEnd": "2030-06-04",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "上ノ国町長"
   },
   "01363": {
-   "name": "佐藤 正秀",
+   "name": "佐藤正秀",
    "office": "町長",
    "termEnd": "2027-04-26",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "厚沢部町長"
   },
   "01364": {
-   "name": "寺島 努",
+   "name": "寺島努",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "乙部町長"
   },
   "01367": {
-   "name": "新村 卓実",
+   "name": "新村卓実",
    "office": "町長",
    "termEnd": "2029-03-17",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "奥尻町長"
   },
   "01370": {
-   "name": "中島 光弘",
+   "name": "中島光弘",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "今金町長"
   },
   "01371": {
-   "name": "河原 泰平",
+   "name": "河原泰平",
    "office": "町長",
    "termEnd": "2029-10-01",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "せたな町長"
   },
   "01391": {
-   "name": "夏井 一充",
+   "name": "夏井一充",
    "office": "村長",
    "termEnd": "2027-08-22",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "島牧村長"
   },
   "01392": {
-   "name": "片岡 春雄",
+   "name": "片岡春雄",
    "office": "町長",
    "termEnd": "2029-11-17",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "寿都町長"
   },
   "01393": {
-   "name": "鎌田 満",
+   "name": "鎌田満",
    "office": "町長",
    "termEnd": "2029-01-23",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "黒松内町長"
   },
   "01394": {
-   "name": "金 秀行",
+   "name": "金秀行",
    "office": "町長",
    "termEnd": "2028-11-12",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "蘭越町長"
   },
   "01395": {
-   "name": "田中 健人",
+   "name": "田中健人",
    "office": "町長",
    "termEnd": "2029-10-08",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "ニセコ町長。2025年就任、道内最年少首長。北海道新聞・Wikipediaで確認"
   },
   "01396": {
-   "name": "岩原 清一",
+   "name": "岩原清一",
    "office": "村長",
    "termEnd": "2028-11-26",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "真狩村長"
   },
   "01397": {
-   "name": "佐藤 ひさ子",
+   "name": "佐藤ひさ子",
    "office": "村長",
    "termEnd": "2029-04-03",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "留寿都村長"
   },
   "01398": {
-   "name": "林 己人",
+   "name": "林己人",
    "office": "町長",
    "termEnd": "2028-07-21",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "喜茂別町長"
   },
   "01399": {
-   "name": "佐古岡 秀徳",
+   "name": "佐古岡秀徳",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "京極町長"
   },
   "01400": {
-   "name": "文字 一志",
+   "name": "文字一志",
    "office": "町長",
    "termEnd": "2027-01-27",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "倶知安町長"
   },
   "01401": {
-   "name": "成田 慎一",
+   "name": "成田慎一",
    "office": "町長",
    "termEnd": "2029-05-24",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "共和町長"
   },
   "01402": {
-   "name": "木村 清彦",
+   "name": "木村清彦",
    "office": "町長",
    "termEnd": "2027-10-08",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "岩内町長"
   },
   "01403": {
-   "name": "高橋 鉄徳",
+   "name": "高橋鉄徳",
    "office": "村長",
    "termEnd": "2028-01-19",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "泊村長"
   },
   "01404": {
-   "name": "高橋 昌幸",
+   "name": "高橋昌幸",
    "office": "村長",
    "termEnd": "2030-03-16",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "神恵内村長"
   },
   "01405": {
-   "name": "松井 秀紀",
+   "name": "松井秀紀",
    "office": "町長",
    "termEnd": "2028-06-15",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "積丹町長"
   },
   "01406": {
-   "name": "成田 昭彦",
+   "name": "成田昭彦",
    "office": "町長",
    "termEnd": "2029-05-19",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "古平町長"
   },
   "01407": {
-   "name": "佐藤 聖一郎",
+   "name": "佐藤聖一郎",
    "office": "町長",
    "termEnd": "2029-05-12",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "仁木町長"
   },
   "01408": {
-   "name": "齊藤 啓輔",
+   "name": "齊藤啓輔",
    "office": "町長",
-   "termEnd": "2026-09-04",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "余市町長"
+   "termEnd": "2030-09-04",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（3期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01409": {
-   "name": "馬場 希",
+   "name": "馬場希",
    "office": "村長",
    "termEnd": "2027-04-26",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "赤井川村長"
   },
   "01423": {
-   "name": "大崎 貞二",
+   "name": "大崎貞二",
    "office": "町長",
    "termEnd": "2028-10-03",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "南幌町長"
   },
   "01424": {
-   "name": "三本 英司",
+   "name": "三本英司",
    "office": "町長",
    "termEnd": "2026-12-06",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "奈井江町長"
   },
   "01425": {
-   "name": "奥山 光一",
+   "name": "奥山光一",
    "office": "町長",
    "termEnd": "2030-04-22",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "上砂川町長"
   },
   "01427": {
-   "name": "松村 諭",
+   "name": "松村諭",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "由仁町長"
   },
   "01428": {
-   "name": "齋藤 良彦",
+   "name": "齋藤良彦",
    "office": "町長",
    "termEnd": "2028-08-23",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "長沼町長"
   },
   "01429": {
-   "name": "佐々木 学",
+   "name": "佐々木学",
    "office": "町長",
    "termEnd": "2030-04-11",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "栗山町長"
   },
   "01430": {
-   "name": "上坂 隆一",
+   "name": "上坂隆一",
    "office": "町長",
    "termEnd": "2028-10-02",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "月形町長"
   },
   "01431": {
-   "name": "川畑 智昭",
+   "name": "川畑智昭",
    "office": "町長",
    "termEnd": "2028-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "浦臼町長"
   },
   "01432": {
-   "name": "谷口 秀樹",
+   "name": "谷口秀樹",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "新十津川町長"
   },
   "01433": {
-   "name": "滝本 昇司",
+   "name": "滝本昇司",
    "office": "町長",
    "termEnd": "2029-08-23",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "妹背牛町長"
   },
   "01434": {
-   "name": "澁谷 信人",
+   "name": "澁谷信人",
    "office": "町長",
    "termEnd": "2027-03-25",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "秩父別町長"
   },
   "01436": {
-   "name": "白川 久純",
+   "name": "白川久純",
    "office": "町長",
    "termEnd": "2027-04-26",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "雨竜町長"
   },
   "01437": {
-   "name": "佐々木 康宏",
+   "name": "佐々木康宏",
    "office": "町長",
    "termEnd": "2028-02-21",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "北竜町長"
   },
   "01438": {
-   "name": "横山 茂",
+   "name": "横山茂",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "沼田町長"
   },
   "01452": {
-   "name": "谷 寿男",
+   "name": "谷寿男",
    "office": "町長",
    "termEnd": "2028-11-04",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "鷹栖町長"
   },
   "01453": {
-   "name": "山本 進",
+   "name": "山本進",
    "office": "町長",
    "termEnd": "2028-02-27",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "東神楽町長"
   },
   "01454": {
-   "name": "村椿 哲朗",
+   "name": "村椿哲朗",
    "office": "町長",
    "termEnd": "2028-02-01",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "当麻町長"
   },
   "01455": {
-   "name": "村中 一徳",
+   "name": "村中一徳",
    "office": "町長",
    "termEnd": "2030-01-14",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "比布町長"
   },
   "01456": {
-   "name": "矢部 福二郎",
+   "name": "矢部福二郎",
    "office": "町長",
    "termEnd": "2029-04-26",
    "sourceUrl": "https://uub.jp/lce/lce.html",
@@ -636,526 +636,620 @@
   "01457": {
    "name": "西木光英",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2028-04-14",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01458": {
    "name": "菊地伸",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-03-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01459": {
    "name": "角和浩幸",
    "office": "町長",
    "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "読み：かくわ ひろゆき。町公式・公式サイトで確認"
+   "note": "読み：かくわ ひろゆき。町公式・公式サイトで確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "01460": {
    "name": "斉藤繁",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2028-12-26",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01461": {
    "name": "小松田清",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-09-22",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01462": {
    "name": "高橋秀樹",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2030-04-09",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01463": {
    "name": "田中正治",
    "office": "村長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2029-09-05",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01464": {
    "name": "中原浩一",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2030-01-23",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01465": {
    "name": "西岡将晴",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2029-12-18",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01468": {
    "name": "田村泰司",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01469": {
    "name": "草野孝治",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-27",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01470": {
    "name": "遠藤貴幸",
    "office": "村長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01471": {
    "name": "石垣寿聰",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01472": {
    "name": "細川雅弘",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-25",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01481": {
    "name": "堀雅志",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-02-12",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01482": {
    "name": "関次雄",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2026-11-08",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01483": {
    "name": "福士敦朗",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01484": {
    "name": "森淳",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-05-27",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01485": {
    "name": "宮本憲幸",
    "office": "村長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01486": {
    "name": "國部雅人",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2028-10-21",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01487": {
    "name": "吉田忠",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-22",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01511": {
    "name": "伊藤浩一",
    "office": "村長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2029-12-02",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01512": {
    "name": "南尚敏",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2030-04-26",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01513": {
    "name": "小林生吉",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01514": {
    "name": "小原仁",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2030-04-15",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01516": {
    "name": "河田誠一",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01517": {
    "name": "澁谷秀勝",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2029-07-02",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01518": {
    "name": "上遠野浩志",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2029-05-25",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01519": {
    "name": "田村祥三",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2029-11-24",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01520": {
    "name": "野々村仁",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2026-12-13",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01543": {
    "name": "平野浩司",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01544": {
    "name": "佐藤多一",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2026-12-22",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01545": {
    "name": "山内浩彰",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01546": {
    "name": "古谷一夫",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01547": {
    "name": "久保弘志",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2029-08-24",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01549": {
    "name": "伊田彰",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01550": {
    "name": "深川正美",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2028-06-09",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01552": {
    "name": "武田温友",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2028-09-11",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01555": {
    "name": "佐々木修一",
    "office": "町長",
    "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "2025年9月28日 5選、10月就任。遠軽町公式・道新で確認"
+   "note": "2025年9月28日 5選、10月就任。遠軽町公式・道新で確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-22"
   },
   "01559": {
    "name": "加藤政弘",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2029-11-14",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01560": {
    "name": "清原尚弘",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01561": {
    "name": "硲一寿",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-04-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01562": {
    "name": "菊池博",
    "office": "村長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-01-31",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01563": {
    "name": "髙橋健仁",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2027-09-30",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01564": {
    "name": "松川一正",
    "office": "町長",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://uub.jp/lce/lce.html",
+   "termEnd": "2030-04-22",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "01571": {
-   "name": "杉谷 佳昭",
+   "name": "杉谷佳昭",
    "office": "町長",
    "termEnd": "2028-10-26",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "豊浦町長"
   },
   "01575": {
-   "name": "田鍋 敏也",
+   "name": "田鍋敏也",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "壮瞥町長"
   },
   "01578": {
-   "name": "大塩 英男",
+   "name": "大塩英男",
    "office": "町長",
    "termEnd": "2027-03-04",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "白老町長"
   },
   "01581": {
-   "name": "宮坂 尚市朗",
+   "name": "宮坂尚市朗",
    "office": "町長",
    "termEnd": "2028-07-07",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "厚真町長"
   },
   "01584": {
-   "name": "下道 英明",
+   "name": "下道英明",
    "office": "町長",
    "termEnd": "2030-04-22",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "洞爺湖町長"
   },
   "01585": {
-   "name": "及川 秀一郎",
+   "name": "及川秀一郎",
    "office": "町長",
    "termEnd": "2030-04-22",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "安平町長"
   },
   "01586": {
-   "name": "栃丸 直士",
+   "name": "栃丸直士",
    "office": "町長",
    "termEnd": "2030-03-22",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "むかわ町長"
   },
   "01601": {
-   "name": "広中 一好",
+   "name": "広中一好",
    "office": "町長",
    "termEnd": "2030-04-08",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "日高町長"
   },
   "01602": {
-   "name": "遠藤 桂一",
+   "name": "遠藤桂一",
    "office": "町長",
    "termEnd": "2028-07-02",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "平取町長"
   },
   "01604": {
-   "name": "山本 政嗣",
+   "name": "山本政嗣",
    "office": "町長",
    "termEnd": "2029-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "新冠町長"
   },
   "01607": {
-   "name": "松田 有宏",
+   "name": "松田有宏",
    "office": "町長",
    "termEnd": "2029-12-23",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "浦河町長"
   },
   "01608": {
-   "name": "荒木 輝明",
+   "name": "荒木輝明",
    "office": "町長",
    "termEnd": "2029-10-10",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "様似町長"
   },
   "01609": {
-   "name": "大西 正紀",
+   "name": "大西正紀",
    "office": "町長",
    "termEnd": "2029-05-31",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "えりも町長"
   },
   "01610": {
-   "name": "大滝 敬貴",
+   "name": "大滝敬貴",
    "office": "町長",
    "termEnd": "2030-04-22",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "新ひだか町長"
   },
   "01631": {
-   "name": "小野 信次",
+   "name": "小野信次",
    "office": "町長",
    "termEnd": "2029-04-09",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "音更町長"
   },
   "01632": {
-   "name": "高木 康弘",
+   "name": "高木康弘",
    "office": "町長",
    "termEnd": "2030-03-19",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "士幌町長"
   },
   "01633": {
-   "name": "竹中 貢",
+   "name": "竹中貢",
    "office": "町長",
    "termEnd": "2029-03-24",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "上士幌町長"
   },
   "01634": {
-   "name": "喜井 知己",
+   "name": "喜井知己",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "鹿追町長"
   },
   "01635": {
-   "name": "湯浅 真希",
+   "name": "湯浅真希",
    "office": "町長",
    "termEnd": "2029-08-02",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "新得町長"
   },
   "01636": {
-   "name": "辻 康裕",
+   "name": "辻康裕",
    "office": "町長",
    "termEnd": "2029-02-27",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "清水町長"
   },
   "01637": {
-   "name": "手島 旭",
+   "name": "手島旭",
    "office": "町長",
    "termEnd": "2030-07-18",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "芽室町長"
   },
   "01638": {
-   "name": "川尻 年和",
+   "name": "川尻年和",
    "office": "村長",
    "termEnd": "2029-06-29",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "中札内村長"
   },
   "01639": {
-   "name": "西山 猛",
+   "name": "西山猛",
    "office": "村長",
    "termEnd": "2027-04-26",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "更別村長"
   },
   "01641": {
-   "name": "黒川 豊",
+   "name": "黒川豊",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "大樹町長"
   },
   "01642": {
-   "name": "田中 靖章",
+   "name": "田中靖章",
    "office": "町長",
    "termEnd": "2028-04-29",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "広尾町長"
   },
   "01643": {
-   "name": "飯田 晴義",
+   "name": "飯田晴義",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "幕別町長"
   },
   "01644": {
-   "name": "安井 美裕",
+   "name": "安井美裕",
    "office": "町長",
    "termEnd": "2028-10-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "池田町長"
   },
   "01645": {
-   "name": "按田 武",
+   "name": "按田武",
    "office": "町長",
    "termEnd": "2029-04-22",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "豊頃町長"
   },
   "01646": {
-   "name": "佐々木 基裕",
+   "name": "佐々木基裕",
    "office": "町長",
    "termEnd": "2029-09-22",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "本別町長"
   },
   "01647": {
-   "name": "渡辺 俊一",
+   "name": "渡辺俊一",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "足寄町長"
   },
   "01648": {
-   "name": "本田 学",
+   "name": "本田学",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "陸別町長"
   },
   "01649": {
-   "name": "井上 亨",
+   "name": "井上亨",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "浦幌町長"
   },
   "01661": {
-   "name": "小松 茂",
+   "name": "小松茂",
    "office": "町長",
    "termEnd": "2026-11-13",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "釧路町長"
   },
   "01662": {
-   "name": "三浦 克宏",
+   "name": "三浦克宏",
    "office": "町長",
    "termEnd": "2029-07-12",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "厚岸町長"
   },
   "01663": {
-   "name": "齊藤 清隆",
+   "name": "齊藤清隆",
    "office": "町長",
    "termEnd": "2027-10-15",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "浜中町長"
   },
   "01664": {
-   "name": "佐藤 吉彦",
+   "name": "佐藤吉彦",
    "office": "町長",
    "termEnd": "2026-10-21",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "標茶町長"
+   "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261004de54369",
+   "note": "任期満了 2026-10-21。2026-10-04 の町長選で次期町長が決まり、2026-10-22 に交代予定。",
+   "next": {
+    "name": "齊藤昇一",
+    "kana": "さいとう しょういち",
+    "takesOffice": "2026-10-22",
+    "electionDate": "2026-10-04"
+   }
   },
   "01665": {
-   "name": "徳永 哲雄",
+   "name": "徳永哲雄",
    "office": "町長",
    "termEnd": "2028-12-23",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "弟子屈町長"
   },
   "01667": {
-   "name": "大石 正行",
+   "name": "大石正行",
    "office": "村長",
    "termEnd": "2028-05-19",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "鶴居村長"
   },
   "01668": {
-   "name": "棚野 孝夫",
+   "name": "棚野孝夫",
    "office": "町長",
    "termEnd": "2028-06-10",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "白糠町長"
   },
   "01691": {
-   "name": "曽根 興三",
+   "name": "曽根興三",
    "office": "町長",
    "termEnd": "2028-06-18",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "別海町長"
   },
   "01692": {
-   "name": "西村 穣",
+   "name": "西村穣",
    "office": "町長",
    "termEnd": "2028-09-29",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "中標津町長"
   },
   "01693": {
-   "name": "山口 将悟",
+   "name": "山口将悟",
    "office": "町長",
    "termEnd": "2029-06-23",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "標津町長"
   },
   "01694": {
-   "name": "湊屋 稔",
+   "name": "湊屋稔",
    "office": "町長",
    "termEnd": "2027-04-26",
    "sourceUrl": "https://uub.jp/lce/lce.html",
@@ -1341,9 +1435,9 @@
   "02384": {
    "name": "相川正光",
    "office": "町長",
-   "termEnd": "2026-08-20",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "鶴田町長。任期満了2026-08-20が近い（次期選挙予定）"
+   "termEnd": "2030-08-20",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（4期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "02387": {
    "name": "濱舘豊光",
@@ -1532,10 +1626,12 @@
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "03213": {
-   "name": "五日市王",
+   "name": "戸舘弘幸",
+   "kana": "とだて ひろゆき",
    "office": "市長",
-   "termEnd": "2030-01-25",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://www.city.ninohe.lg.jp/info/4698",
+   "termEnd": "2030-09-12",
+   "note": "2026-09-13 の市長選（前職の辞職に伴う）で無投票当選。2026-09-13 就任。"
   },
   "03214": {
    "name": "佐々木孝弘",
@@ -1600,8 +1696,9 @@
   "03402": {
    "name": "青木幸保",
    "office": "町長",
-   "termEnd": "2026-08-26",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "termEnd": "2030-08-26",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（4期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "03441": {
    "name": "神田謙一",
@@ -1670,238 +1767,240 @@
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "04202": {
-   "name": "齋藤 正美",
+   "name": "齋藤正美",
    "office": "市長",
    "termEnd": "2029-04-28",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "宮城県公式市町村長名簿(令和8年7月1日現在)で確認。uub.jp現役首長一覧とも一致。"
   },
   "04203": {
-   "name": "佐藤 光樹",
+   "name": "佐藤光樹",
    "office": "市長",
    "termEnd": "2027-09-10",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "宮城県公式名簿・uub.jpで一致。"
   },
   "04205": {
-   "name": "菅原 茂",
+   "name": "菅原茂",
    "office": "市長",
    "termEnd": "2030-04-29",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "5期目。公式名簿・uub.jpで一致。"
   },
   "04206": {
-   "name": "山田 裕一",
+   "name": "山田裕一",
    "office": "市長",
    "termEnd": "2028-11-13",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "公式名簿・uub.jpで一致。"
   },
   "04207": {
-   "name": "山田 司郎",
+   "name": "山田司郎",
    "office": "市長",
    "termEnd": "2028-07-24",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "公式名簿・uub.jpで一致。"
   },
   "04208": {
-   "name": "黑須 貫",
+   "name": "黑須貫",
    "office": "市長",
    "termEnd": "2028-08-09",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "姓は旧字体「黑」。公式名簿・uub.jpで一致。"
   },
   "04209": {
-   "name": "深谷 晃祐",
+   "name": "深谷晃祐",
    "office": "市長",
    "termEnd": "2028-10-24",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "公式名簿・uub.jpで一致。"
   },
   "04211": {
-   "name": "鬼澤 聡",
+   "name": "鬼澤聡",
    "office": "市長",
    "termEnd": "2030-06-22",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "令和8年6月就任(1期目)。公式名簿・uub.jpで一致。"
   },
   "04212": {
-   "name": "熊谷 康信",
+   "name": "熊谷康信",
    "office": "市長",
    "termEnd": "2029-04-28",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "令和7年就任(1期目)。公式名簿・uub.jpで一致。"
   },
   "04213": {
-   "name": "佐藤 智",
+   "name": "佐藤智",
    "office": "市長",
    "termEnd": "2029-04-30",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "公式名簿・uub.jpで一致。"
   },
   "04214": {
-   "name": "渥美 巖",
+   "name": "渥美巖",
    "office": "市長",
    "termEnd": "2029-04-28",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "公式名簿・uub.jpで一致。"
   },
   "04215": {
-   "name": "中島 源陽",
+   "name": "中島源陽",
    "office": "市長",
    "termEnd": "2030-04-29",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "令和8年4月就任(1期目)。公式名簿・uub.jpで一致。"
   },
   "04216": {
-   "name": "若生 裕俊",
+   "name": "若生裕俊",
    "office": "市長",
    "termEnd": "2027-02-10",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "公式名簿・uub.jpで一致。"
   },
   "04301": {
-   "name": "村上 英人",
+   "name": "村上英人",
    "office": "町長",
    "termEnd": "2028-10-05",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "蔵王町。公式名簿・uub.jpで一致。"
   },
   "04302": {
-   "name": "小関 幸一",
+   "name": "渡部秀文",
+   "kana": "わたなべ ひでふみ",
    "office": "町長",
-   "termEnd": "2026-09-23",
-   "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
-   "note": "七ヶ宿町。任期満了2026-09-23が近い。公式名簿・uub.jpで一致。"
+   "sourceUrl": "https://town.shichikashuku.miyagi.jp/town/greeting.html",
+   "termEnd": "2030-09-23",
+   "note": "2026-09-13 の町長選（任期満了に伴う）で当選。2026-09-24 就任。"
   },
   "04321": {
-   "name": "齋 清志",
+   "name": "齋清志",
    "office": "町長",
    "termEnd": "2028-10-27",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "大河原町。姓は一字「齋」。公式名簿・uub.jpで一致。"
   },
   "04322": {
-   "name": "大沼 克巳",
+   "name": "大沼克巳",
    "office": "町長",
    "termEnd": "2027-08-27",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "村田町。公式名簿・uub.jpで一致。"
   },
   "04323": {
-   "name": "滝口 茂",
+   "name": "石森靖明",
+   "kana": "いしもり きよあき",
    "office": "町長",
-   "termEnd": "2026-07-22",
-   "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
-   "note": "柴田町。2026-07-13時点の現職(6期)。任期満了は2026-07-22。2026-07-12の町長選で新人・石森靖明(41)が当選し2026-07-23就任予定のため、間もなく交代。"
+   "sourceUrl": "https://www.town.shibata.miyagi.jp/index.cfm/82,27175,162,html",
+   "termEnd": "2030-07-22",
+   "note": "2026-07-12 の町長選（任期満了に伴う）で当選。2026-07-23 就任。"
   },
   "04324": {
-   "name": "小山 修作",
+   "name": "小山修作",
    "office": "町長",
    "termEnd": "2027-08-27",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "川崎町。公式名簿・uub.jpで一致。"
   },
   "04341": {
-   "name": "保科 郷雄",
+   "name": "保科郷雄",
    "office": "町長",
    "termEnd": "2027-01-13",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "丸森町。公式名簿・uub.jpで一致。"
   },
   "04361": {
-   "name": "山田 周伸",
+   "name": "山田周伸",
    "office": "町長",
    "termEnd": "2030-05-27",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "亘理町。公式名簿・uub.jpで一致。"
   },
   "04362": {
-   "name": "橋元 伸一",
+   "name": "橋元伸一",
    "office": "町長",
    "termEnd": "2030-04-24",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "山元町。公式名簿・uub.jpで一致。"
   },
   "04401": {
-   "name": "櫻井 公一",
+   "name": "櫻井公一",
    "office": "町長",
    "termEnd": "2027-09-10",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "松島町。公式名簿・uub.jpで一致。"
   },
   "04404": {
-   "name": "寺澤 薫",
+   "name": "寺澤薫",
    "office": "町長",
    "termEnd": "2027-09-10",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "七ヶ浜町。公式名簿・uub.jpで一致。"
   },
   "04406": {
-   "name": "熊谷 大",
+   "name": "熊谷大",
    "office": "町長",
    "termEnd": "2030-03-01",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "利府町。公式名簿・uub.jpで一致。"
   },
   "04421": {
-   "name": "浅野 俊彦",
+   "name": "浅野俊彦",
    "office": "町長",
    "termEnd": "2027-10-08",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "大和町。令和5年就任(1期目)。公式名簿・uub.jpで一致。"
   },
   "04422": {
-   "name": "石川 良彦",
+   "name": "石川良彦",
    "office": "町長",
    "termEnd": "2029-09-06",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "大郷町。令和7年就任(1期目)。公式名簿・uub.jpで一致。"
   },
   "04424": {
-   "name": "小川 ひろみ",
+   "name": "小川ひろみ",
    "office": "村長",
    "termEnd": "2027-04-25",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "大衡村。公式名簿・uub.jpで一致。"
   },
   "04444": {
-   "name": "早坂 利悦",
+   "name": "早坂利悦",
    "office": "町長",
    "termEnd": "2027-08-27",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "色麻町。公式名簿・uub.jpで一致。"
   },
   "04445": {
-   "name": "石山 敬貴",
+   "name": "石山敬貴",
    "office": "町長",
    "termEnd": "2027-08-27",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "加美町。令和5年就任(1期目)。公式名簿・uub.jpで一致。"
   },
   "04501": {
-   "name": "遠藤 釈雄",
+   "name": "遠藤釈雄",
    "office": "町長",
    "termEnd": "2027-05-25",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "涌谷町。公式名簿・uub.jpで一致。"
   },
   "04505": {
-   "name": "相澤 清一",
+   "name": "相澤清一",
    "office": "町長",
    "termEnd": "2030-02-04",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "美里町。公式名簿・uub.jpで一致。"
   },
   "04581": {
-   "name": "須田 善明",
+   "name": "須田善明",
    "office": "町長",
    "termEnd": "2027-11-12",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
    "note": "女川町。公式名簿・uub.jpで一致。"
   },
   "04606": {
-   "name": "千葉 啓",
+   "name": "千葉啓",
    "office": "町長",
    "termEnd": "2029-11-05",
    "sourceUrl": "https://www.pref.miyagi.jp/documents/23614/sichousonmeibo080701.pdf",
@@ -2149,11 +2248,12 @@
    "note": "東根市長"
   },
   "06212": {
-   "name": "結城裕",
+   "name": "若林吾朗",
+   "kana": "わかばやし ごろう",
    "office": "市長",
-   "termEnd": "2026-08-11",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "尾花沢市長"
+   "sourceUrl": "https://www.city.obanazawa.yamagata.jp/topics/4441",
+   "termEnd": "2030-08-11",
+   "note": "2026-07-26 の市長選（任期満了に伴う）で当選。2026-08-12 就任。"
   },
   "06213": {
    "name": "柴田正人",
@@ -2219,11 +2319,12 @@
    "note": "金山町長"
   },
   "06362": {
-   "name": "髙橋重美",
+   "name": "菅孝",
+   "kana": "かん たかし",
    "office": "町長",
-   "termEnd": "2026-10-04",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "最上町長"
+   "sourceUrl": "https://town.mogami.lg.jp/info/01mayor/02profile.php",
+   "termEnd": "2030-10-04",
+   "note": "2026-09-06 の町長選（任期満了に伴う）で当選。2026-10-05 就任。"
   },
   "06363": {
    "name": "森富広",
@@ -2298,9 +2399,9 @@
   "06426": {
    "name": "阿部誠",
    "office": "町長",
-   "termEnd": "2028-10-25",
+   "termEnd": "2027-02-09",
    "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "三川町長"
+   "note": "三川町長。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "06428": {
    "name": "富樫透",
@@ -2397,9 +2498,9 @@
   "07301": {
    "name": "髙橋宣博",
    "office": "町長",
-   "termEnd": "2026-09-29",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "桑折町"
+   "termEnd": "2030-09-29",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（5期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "07303": {
    "name": "村上利通",
@@ -2524,8 +2625,14 @@
    "name": "押部源二郎",
    "office": "町長",
    "termEnd": "2026-10-21",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "金山町"
+   "sourceUrl": "https://www.minyu-net.com/news/detail/2026100421272855638",
+   "note": "任期満了 2026-10-21。2026-10-04 の町長選で次期町長が決まり、2026-10-22 に交代予定。",
+   "next": {
+    "name": "五ノ井義一",
+    "kana": "ごのい ぎいち",
+    "takesOffice": "2026-10-22",
+    "electionDate": "2026-10-04"
+   }
   },
   "07446": {
    "name": "渡辺文弘",
@@ -2558,9 +2665,9 @@
   "07465": {
    "name": "加藤幸一",
    "office": "村長",
-   "termEnd": "2026-09-18",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "中島村"
+   "termEnd": "2030-09-18",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（5期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "07466": {
    "name": "蛭田泰昭",
@@ -2691,9 +2798,9 @@
   "07547": {
    "name": "吉田栄光",
    "office": "町長",
-   "termEnd": "2026-08-04",
-   "sourceUrl": "https://uub.jp/lce/lce.html?pref=07",
-   "note": "双葉郡浪江町長。現職として再選出馬表明（福島民報）。任期満了間近"
+   "termEnd": "2030-08-04",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "07548": {
    "name": "篠木弘",
@@ -2703,11 +2810,12 @@
    "note": "双葉郡葛尾村長"
   },
   "07561": {
-   "name": "大堀武",
+   "name": "泉田晴平",
+   "kana": "いずみだ せいへい",
    "office": "町長",
-   "termEnd": "2026-09-25",
-   "sourceUrl": "https://uub.jp/lce/lce.html?pref=07",
-   "note": "相馬郡新地町長。任期満了間近"
+   "sourceUrl": "https://www.shinchi-town.jp/site/tyoutyounoheya/profile.html",
+   "termEnd": "2030-09-25",
+   "note": "2026-08-30 の町長選（任期満了に伴う）で当選。2026-09-26 就任。"
   },
   "07564": {
    "name": "杉岡誠",
@@ -2759,11 +2867,12 @@
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "08210": {
-   "name": "須藤豊次",
+   "name": "菊池博",
+   "kana": "きくち ひろし",
    "office": "市長",
-   "termEnd": "2030-05-22",
-   "sourceUrl": "https://www.kensetsumirai.co.jp/topics/feature/13393/",
-   "note": "新市長。2026-03-29市長選で現職菊池を破り初当選、2026-05-23就任。uub旧版では欠員表示だった。"
+   "sourceUrl": "https://ibarakinews.jp/news/newsdetail.php?f_jun=1785666345603600",
+   "termEnd": "2030-08-01",
+   "note": "2026-08-02 の市長選（前職の死去に伴う）で当選。2026-08-02 就任。"
   },
   "08211": {
    "name": "神達岳志",
@@ -2784,10 +2893,12 @@
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "08215": {
-   "name": "豊田稔",
+   "name": "今井路江",
+   "kana": "いまい みちえ",
    "office": "市長",
-   "termEnd": "2027-06-17",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://www.city.kitaibaraki.lg.jp/docs/2026081700033/",
+   "termEnd": "2030-09-26",
+   "note": "2026-09-27 の市長選（前職の死去に伴う）で当選。2026-09-27 就任。"
   },
   "08216": {
    "name": "山口伸樹",
@@ -2868,11 +2979,12 @@
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "08230": {
-   "name": "宮嶋謙",
+   "name": "金子敏明",
+   "kana": "かねこ としあき",
    "office": "市長",
-   "termEnd": "2026-07-23",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "任期満了2026-07-23。本日時点で現職。市長選が目前。"
+   "sourceUrl": "https://www.city.kasumigaura.lg.jp/page/page000108.html",
+   "termEnd": "2030-07-22",
+   "note": "2026-07-19 の市長選（任期満了に伴う）で無投票当選。2026-07-23 就任。"
   },
   "08231": {
    "name": "大塚秀喜",
@@ -2926,9 +3038,9 @@
   "08310": {
    "name": "上遠野修",
    "office": "町長",
-   "termEnd": "2026-09-20",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "城里町長。2026-08-23に町長選予定。本日時点で現職。"
+   "termEnd": "2030-09-20",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（4期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "08341": {
    "name": "山田修",
@@ -3087,9 +3199,9 @@
   "09216": {
    "name": "坂村哲也",
    "office": "市長",
-   "termEnd": "2030-07-04",
+   "termEnd": "2030-08-05",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC051GZ0V00C26A7000000/",
-   "note": "下野市長。2026-07-05無投票再選（uub.jp記載2030.8.5）"
+   "note": "下野市長。2026-07-05無投票再選（uub.jp記載2030.8.5）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "09301": {
    "name": "星野光利",
@@ -3157,9 +3269,9 @@
   "09407": {
    "name": "平山幸宏",
    "office": "町長",
-   "termEnd": "2029-07-11",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "那須郡那須町長"
+   "termEnd": "2030-04-06",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（3期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "09411": {
    "name": "益子純恵",
@@ -3367,9 +3479,9 @@
   "10449": {
    "name": "阿部賢一",
    "office": "町長",
-   "termEnd": "2026-10-27",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "みなかみ町長"
+   "termEnd": "2030-10-27",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "10464": {
    "name": "石川眞男",
@@ -3683,9 +3795,9 @@
   "11341": {
    "name": "大塚信一",
    "office": "町長",
-   "termEnd": "2026-10-03",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "比企郡滑川町"
+   "termEnd": "2030-10-03",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "11342": {
    "name": "佐久間孝光",
@@ -3695,119 +3807,120 @@
    "note": "比企郡嵐山町"
   },
   "11343": {
-   "name": "島田 康弘",
+   "name": "島田康弘",
    "office": "町長",
    "termEnd": "2030-06-12",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "小川町長。uub.jp現役首長一覧より。"
   },
   "11346": {
-   "name": "藤間 隆",
+   "name": "藤間隆",
    "office": "町長",
    "termEnd": "2029-05-17",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "川島町長。uub.jp現役首長一覧より。"
   },
   "11347": {
-   "name": "神田 隆",
+   "name": "神田隆",
    "office": "町長",
    "termEnd": "2029-05-07",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "吉見町長。uub.jp現役首長一覧より。"
   },
   "11348": {
-   "name": "小川 知也",
+   "name": "小川知也",
    "office": "町長",
    "termEnd": "2028-07-15",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "鳩山町長。uub.jp現役首長一覧より。"
   },
   "11349": {
-   "name": "前田 栄",
+   "name": "前田栄",
    "office": "町長",
    "termEnd": "2030-02-25",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "ときがわ町長。uub.jp現役首長一覧より。"
   },
   "11361": {
-   "name": "富田 能成",
+   "name": "富田能成",
    "office": "町長",
    "termEnd": "2027-01-23",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "横瀬町長。uub.jp現役首長一覧より。"
   },
   "11362": {
-   "name": "黒澤 栄則",
+   "name": "黒澤栄則",
    "office": "町長",
    "termEnd": "2028-03-23",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "皆野町長。uub.jp現役首長一覧より。"
   },
   "11363": {
-   "name": "鈴木日出男",
+   "name": "岩田務",
+   "kana": "いわた つとむ",
    "office": "町長",
-   "termEnd": "2029-06",
-   "sourceUrl": "https://www.town.nagatoro.saitama.jp/",
-   "note": "2025-06-29の町長選で初当選。"
+   "sourceUrl": "https://www.town.nagatoro.saitama.jp/news/78272/",
+   "termEnd": "2030-08-01",
+   "note": "2026-08-02 の町長選（前職の辞職に伴う）で当選。2026-08-02 就任。"
   },
   "11365": {
-   "name": "森 真太郎",
+   "name": "森真太郎",
    "office": "町長",
    "termEnd": "2029-10-29",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "小鹿野町長。uub.jp現役首長一覧より。"
   },
   "11369": {
-   "name": "高野 貞宜",
+   "name": "高野貞宜",
    "office": "村長",
    "termEnd": "2028-09-06",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "東秩父村長。uub.jp現役首長一覧より。"
   },
   "11381": {
-   "name": "原田 信次",
+   "name": "原田信次",
    "office": "町長",
    "termEnd": "2028-05-16",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "美里町長。uub.jp現役首長一覧より。"
   },
   "11383": {
-   "name": "櫻澤 晃",
+   "name": "櫻澤晃",
    "office": "町長",
    "termEnd": "2030-02-04",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "神川町長。uub.jp現役首長一覧より。"
   },
   "11385": {
-   "name": "山下 博一",
+   "name": "山下博一",
    "office": "町長",
    "termEnd": "2030-05-10",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "上里町長。uub.jp現役首長一覧より。"
   },
   "11408": {
-   "name": "峯岸 克明",
+   "name": "峯岸克明",
    "office": "町長",
-   "termEnd": "2026-08-28",
-   "sourceUrl": "https://www.town.yorii.saitama.jp/site/mayor/townmayor-profile.html",
-   "note": "寄居町長。2022年無投票初当選、任期2026-08-28まで。現職(公式サイトで確認)。uub.jpは任期満了2026-08-27と表示。"
+   "termEnd": "2030-08-27",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "11442": {
-   "name": "新井 康之",
+   "name": "新井康之",
    "office": "町長",
    "termEnd": "2029-10-16",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "宮代町長。uub.jp現役首長一覧より。"
   },
   "11464": {
-   "name": "窪田 裕之",
+   "name": "窪田裕之",
    "office": "町長",
-   "termEnd": "2026-08-06",
-   "sourceUrl": "https://www.town.sugito.lg.jp/site/mayor/",
-   "note": "杉戸町長。2022年初当選、現職。2026年3月17日に病気療養から職務復帰、再選出馬表明。任期満了2026-08-06、町長選予定。"
+   "termEnd": "2030-08-06",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "11465": {
-   "name": "高野 祐大",
+   "name": "高野祐大",
    "office": "町長",
    "termEnd": "2029-06-01",
    "sourceUrl": "https://uub.jp/lce/lce.html",
@@ -3898,10 +4011,12 @@
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "12218": {
-   "name": "照川由美子",
+   "name": "磯野典正",
+   "kana": "いその のりまさ",
    "office": "市長",
-   "termEnd": "2026-08-27",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://www.tokyo-np.co.jp/article/505659",
+   "termEnd": "2030-08-27",
+   "note": "2026-08-02 の市長選（任期満了に伴う）で当選。2026-08-28 就任。"
   },
   "12219": {
    "name": "小出譲治",
@@ -4100,11 +4215,12 @@
    "note": "睦沢町長。2024.6.25無投票再選（千葉日報で確認）。"
   },
   "12423": {
-   "name": "小髙陽一",
+   "name": "岡本高直",
+   "kana": "おかもと たかなお",
    "office": "村長",
-   "termEnd": "2028-07-16",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "長生村長。表記は小髙（小高）陽一。"
+   "sourceUrl": "https://www.vill.chosei.chiba.jp/0000002834.html",
+   "termEnd": "2030-09-05",
+   "note": "2026-09-06 の村長選（前職の辞職に伴う）で当選。2026-09-06 就任。"
   },
   "12424": {
    "name": "緑川輝男",
@@ -4116,9 +4232,9 @@
   "12426": {
    "name": "月岡清孝",
    "office": "町長",
-   "termEnd": "2026-09-12",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "長柄町長。任期満了近し。"
+   "termEnd": "2030-09-12",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "12427": {
    "name": "平野貞夫",
@@ -4282,11 +4398,12 @@
    "note": "清瀬市長"
   },
   "13222": {
-   "name": "冨田竜馬",
+   "name": "富田竜馬",
    "office": "市長",
+   "sourceUrl": "https://www.city.higashikurume.lg.jp/mayor/1007004.html",
+   "kana": "とみた りょうま",
    "termEnd": "2029-12-27",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "東久留米市長"
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "13223": {
    "name": "山﨑泰大",
@@ -4317,11 +4434,12 @@
    "note": "羽村市長"
   },
   "13228": {
-   "name": "中嶋博幸",
+   "name": "臼井建",
+   "kana": "うすい けん",
    "office": "市長",
-   "termEnd": "2026-09-03",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "あきる野市長"
+   "sourceUrl": "https://www.city.akiruno.tokyo.jp/0000020751.html",
+   "termEnd": "2030-08-04",
+   "note": "2026-07-19 の市長選（任期満了に伴う）で当選。2026-08-05 就任。"
   },
   "13229": {
    "name": "池澤隆史",
@@ -4373,11 +4491,12 @@
    "note": "新島村長"
   },
   "13364": {
-   "name": "前田弘",
+   "name": "鈴木龍也",
+   "kana": "すずき たつや",
    "office": "村長",
-   "termEnd": "2026-09-30",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "神津島村長"
+   "sourceUrl": "https://www.vill.kouzushima.tokyo.jp/images/2026/09/20260913_senkyo_kekka.pdf",
+   "termEnd": "2030-09-30",
+   "note": "2026-09-13 の村長選（任期満了に伴う）で当選。2026-10-01 就任。"
   },
   "13381": {
    "name": "山高亜紀子",
@@ -4751,11 +4870,12 @@
    "note": "胎内市長"
   },
   "15307": {
-   "name": "西脇道夫",
+   "name": "手嶋満",
+   "kana": "てじま みつる",
    "office": "町長",
-   "termEnd": "2026-09-04",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "聖籠町長"
+   "sourceUrl": "https://www.town.seiro.niigata.jp/1/2/3/1/261.html",
+   "termEnd": "2030-09-04",
+   "note": "2026-08-23 の町長選（任期満了に伴う）で当選。2026-09-05 就任。"
   },
   "15342": {
    "name": "本間芳之",
@@ -4816,9 +4936,9 @@
   "15586": {
    "name": "脇川善行",
    "office": "村長",
-   "termEnd": "2026-09-14",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "粟島浦村長"
+   "termEnd": "2030-09-14",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "16201": {
    "name": "藤井裕久",
@@ -4912,11 +5032,12 @@
    "note": "中新川郡立山町長。県公式市町村長名簿(R8.7.1現在)。"
   },
   "16342": {
-   "name": "笹島春人",
+   "name": "中瀬淳哉",
+   "kana": "なかせ じゅんや",
    "office": "町長",
-   "termEnd": "2026-08-31",
-   "sourceUrl": "https://www.pref.toyama.jp/140403/kensei/shichouson/gyouzaisei/kj00000238.html",
-   "note": "下新川郡入善町長。県公式市町村長名簿(R8.7.1現在)。"
+   "sourceUrl": "https://www.town.nyuzen.toyama.jp/gyosei/machi/6910.html",
+   "termEnd": "2030-08-31",
+   "note": "2026-08-02 の町長選（任期満了に伴う）で無投票当選。2026-09-01 就任。"
   },
   "16343": {
    "name": "笹原靖直",
@@ -5082,9 +5203,9 @@
   "18205": {
    "name": "石山志保",
    "office": "市長",
-   "termEnd": "2030-07-05",
+   "termEnd": "2030-07-06",
    "sourceUrl": "https://www.fukuishimbun.co.jp/articles/-/2622927",
-   "note": "大野市長。2026-06-14投開票の市長選で現職が3選（無所属）。前任期満了は令和8年7月6日で、新任期満了はおよそ令和12年7月（推定）。"
+   "note": "大野市長。2026-06-14投開票の市長選で現職が3選（無所属）。前任期満了は令和8年7月6日で、新任期満了はおよそ令和12年7月（推定）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "18206": {
    "name": "水上実喜夫",
@@ -5194,9 +5315,9 @@
   "19204": {
    "name": "日向美徳",
    "office": "市長",
-   "termEnd": "2029-11-15",
+   "termEnd": "2029-12-07",
    "sourceUrl": "https://go2senkyo.com/local/senkyo/25677",
-   "note": "2025-11-16投開票の都留市長選で新人・日向美徳が現職堀内富久を破り初当選。uub.jp(2025-11-01時点)は旧職堀内富久を掲載。termEndは4年任期からの推定。"
+   "note": "2025-11-16投開票の都留市長選で新人・日向美徳が現職堀内富久を破り初当選。uub.jp(2025-11-01時点)は旧職堀内富久を掲載。termEndは4年任期からの推定。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "19205": {
    "name": "高木晴雄",
@@ -5299,9 +5420,9 @@
   "19368": {
    "name": "望月利樹",
    "office": "町長",
-   "termEnd": "2029-12-20",
-   "sourceUrl": "https://go2senkyo.com/local/senkyo/25787",
-   "note": "2025-12-21投開票の富士川町長選で現職望月利樹が再選(得票68.3%)。uub.jp掲載時点は任期満了前。termEndは推定。"
+   "termEnd": "2030-01-15",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "19384": {
    "name": "塩澤浩",
@@ -5467,9 +5588,9 @@
   "20215": {
    "name": "百瀬敬",
    "office": "市長",
-   "termEnd": "2026-09-30",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "塩尻市長"
+   "termEnd": "2030-09-30",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "20217": {
    "name": "栁田清二",
@@ -5500,11 +5621,10 @@
    "note": "安曇野市長"
   },
   "20303": {
-   "name": "黒澤弘",
    "office": "町長",
-   "termEnd": "2030-03-25",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "小海町長"
+   "vacant": true,
+   "sourceUrl": "https://news.yahoo.co.jp/articles/785aa67ec11fd2d24051b2f74cf6630901e4dbce",
+   "note": "2026-10-09 に前町長が死去し欠員。町長選の日程は未発表（2026-10-10 時点）。"
   },
   "20304": {
    "name": "由井明彦",
@@ -5685,193 +5805,225 @@
    "name": "金田憲治",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "下條村長。長野県町村会 町村長名簿(令和8年5月11日現在)"
+   "note": "下條村長。長野県町村会 町村長名簿(令和8年5月11日現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-07-24"
   },
   "20412": {
    "name": "清水秀樹",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "売木村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "売木村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-07-09"
   },
   "20413": {
    "name": "永嶺誠一",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "天龍村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "天龍村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-10"
   },
   "20414": {
    "name": "横前明",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "泰阜村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "泰阜村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-08-12"
   },
   "20415": {
    "name": "佐藤文彦",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "喬木村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "喬木村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-01-26"
   },
   "20416": {
    "name": "下平喜隆",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "豊丘村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "豊丘村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-29"
   },
   "20417": {
    "name": "熊谷英俊",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "大鹿村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "大鹿村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-01-23"
   },
   "20422": {
    "name": "村田広司",
    "office": "町長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "上松町長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "上松町長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-04"
   },
   "20423": {
    "name": "向井裕明",
    "office": "町長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "南木曽町長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "南木曽町長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-05-11"
   },
   "20425": {
    "name": "奥原秀一",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "木祖村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "木祖村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-10-15"
   },
   "20429": {
    "name": "越原道廣",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "王滝村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "王滝村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-02-11"
   },
   "20430": {
    "name": "坂家重吉",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "大桑村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "大桑村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-12"
   },
   "20432": {
    "name": "加藤真和",
    "office": "町長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "木曽町長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "木曽町長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-11-26"
   },
   "20446": {
    "name": "塚原勝幸",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "麻績村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "麻績村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-01-15"
   },
   "20448": {
    "name": "藤澤泰彦",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "生坂村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "生坂村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-02-19"
   },
   "20450": {
    "name": "百瀬繁寿",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "山形村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "山形村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-03-16"
   },
   "20451": {
    "name": "小林弘幸",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "朝日村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "朝日村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "20452": {
    "name": "鎌田欣子",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "筑北村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "筑北村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-11-12"
   },
   "20481": {
    "name": "矢口稔",
    "office": "町長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "池田町長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "池田町長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-03-19"
   },
   "20482": {
    "name": "須沢和彦",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "松川村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "松川村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-03-06"
   },
   "20485": {
    "name": "丸山俊郎",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "白馬村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "白馬村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-08-06"
   },
   "20486": {
    "name": "中村義明",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "小谷村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "小谷村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-26"
   },
   "20521": {
    "name": "山村弘",
    "office": "町長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "坂城町長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "坂城町長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "20541": {
    "name": "大宮透",
    "office": "町長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "小布施町長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "小布施町長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-01-21"
   },
   "20543": {
    "name": "藤沢敏和",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "高山村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "高山村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-14"
   },
   "20561": {
    "name": "平澤岳",
    "office": "町長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "山ノ内町長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "山ノ内町長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-03-04"
   },
   "20562": {
    "name": "日䑓正博",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "木島平村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "木島平村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-02-21"
   },
   "20563": {
    "name": "上野雄大",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "野沢温泉村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "野沢温泉村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-03-29"
   },
   "20583": {
    "name": "鈴木文雄",
    "office": "町長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "信濃町長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "信濃町長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2026-11-27"
   },
   "20588": {
    "name": "染野隆嗣",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "小川村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "小川村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-04-09"
   },
   "20590": {
    "name": "土屋龍彦",
    "office": "町長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "飯綱町長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "飯綱町長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-29"
   },
   "20602": {
    "name": "宮川幹雄",
    "office": "村長",
    "sourceUrl": "https://machimura-nagano.jp/about/about02.php",
-   "note": "栄村長。長野県町村会 町村長名簿(2026-05-11現在)"
+   "note": "栄村長。長野県町村会 町村長名簿(2026-05-11現在)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-05-14"
   },
   "21201": {
    "name": "柴橋正直",
@@ -5890,9 +6042,9 @@
   "21203": {
    "name": "田中明",
    "office": "市長",
-   "termEnd": "2026-09-03",
-   "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/attachment/503110.pdf",
-   "note": "高山市長(たなか あきら)。任期満了間近"
+   "termEnd": "2030-09-03",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "21204": {
    "name": "髙木貴行",
@@ -6058,9 +6210,9 @@
   "21381": {
    "name": "藤井弘之",
    "office": "町長",
-   "termEnd": "2026-07-03",
-   "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/attachment/503110.pdf",
-   "note": "安八郡神戸町長。任期満了直近(要確認)"
+   "termEnd": "2030-07-03",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "21382": {
    "name": "朝倉和仁",
@@ -6142,9 +6294,9 @@
   "21506": {
    "name": "佐伯正貴",
    "office": "町長",
-   "termEnd": "2026-08-22",
-   "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/attachment/503110.pdf",
-   "note": "加茂郡白川町長"
+   "termEnd": "2030-08-22",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "21507": {
    "name": "桂川憲生",
@@ -6168,17 +6320,20 @@
    "note": "大野郡白川村長"
   },
   "22203": {
-   "name": "頼重秀一",
+   "name": "賴重秀一",
    "office": "市長",
-   "sourceUrl": "https://go2senkyo.com/local/senkyo/26476",
-   "note": "沼津市長。現職、2026年4月26日投開票で3選。"
+   "sourceUrl": "https://www.city.numazu.shizuoka.jp/shisei/profile/mayor/profile.htm",
+   "kana": "よりしげ しゅういち",
+   "termEnd": "2030-04-28",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "22205": {
-   "name": "斉藤栄",
+   "name": "齊藤栄",
    "office": "市長",
-   "termEnd": "2026-09-13",
    "sourceUrl": "https://www.city.atami.lg.jp/mayor/profile/index.html",
-   "note": "熱海市長。現職5期目、任期満了2026年9月13日で2026年9月6日投開票の選挙予定。7/13時点で現職。"
+   "kana": "さいとう さかえ",
+   "termEnd": "2030-09-13",
+   "note": "氏名の表記は自治体公式に合わせた。2026-09-06 の市長選（任期満了に伴う）で再選。"
   },
   "22206": {
    "name": "豊岡武士",
@@ -6191,56 +6346,64 @@
    "name": "須藤秀忠",
    "office": "市長",
    "sourceUrl": "https://www.city.fujinomiya.lg.jp/1015200000/p002710.html",
-   "note": "富士宮市長。現職4期目、2023年統一地方選で当選。読み:すどう ひでただ。"
+   "note": "富士宮市長。現職4期目、2023年統一地方選で当選。読み:すどう ひでただ。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-26"
   },
   "22208": {
    "name": "杉本憲也",
    "office": "市長",
-   "termEnd": "2029-05-28",
+   "termEnd": "2029-12-13",
    "sourceUrl": "https://www.city.ito.shizuoka.jp/gyosei/soshikikarasagasu/hisyokouhouka/shiseijoho/4/index.html",
-   "note": "伊東市長。2025年12月14日初当選(前市長辞職に伴う選挙)。読み:すぎもと かずや。"
+   "note": "伊東市長。2025年12月14日初当選(前市長辞職に伴う選挙)。読み:すぎもと かずや。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "22209": {
    "name": "染谷絹代",
    "office": "市長",
    "sourceUrl": "https://www.city.shimada.shizuoka.jp/gyosei-docs/r7shichoushigi_kaihyou.html",
-   "note": "島田市長。2025年5月25日投開票で4選。読み:そめや きぬよ。"
+   "note": "島田市長。2025年5月25日投開票で4選。読み:そめや きぬよ。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-05-28"
   },
   "22210": {
    "name": "金指祐樹",
    "office": "市長",
    "sourceUrl": "https://www.city.fuji.shizuoka.jp/1003100000/p007788.html",
-   "note": "富士市長。2025年12月21日初当選、2026年1月19日就任。読み:かねざし ゆうき。"
+   "note": "富士市長。2025年12月21日初当選、2026年1月19日就任。読み:かねざし ゆうき。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-01-18"
   },
   "22211": {
    "name": "草地博昭",
    "office": "市長",
    "sourceUrl": "https://www.city.iwata.shizuoka.jp/shichounoheya/",
-   "note": "磐田市長。現職2期目、2025年4月20日投開票で再選。読み:くさち ひろあき。"
+   "note": "磐田市長。現職2期目、2025年4月20日投開票で再選。読み:くさち ひろあき。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-23"
   },
   "22212": {
    "name": "中野弘道",
    "office": "市長",
    "sourceUrl": "https://www.city.yaizu.lg.jp/city-info/mayor/profile/index.html",
-   "note": "焼津市長。2024年12月に4選。読み:なかの ひろみち。"
+   "note": "焼津市長。2024年12月に4選。読み:なかの ひろみち。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-12-23"
   },
   "22213": {
    "name": "久保田崇",
    "office": "市長",
    "sourceUrl": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8645.html",
-   "note": "掛川市長。現職2期目、2025年4月20日投開票で再選。読み:くぼた たかし。"
+   "note": "掛川市長。現職2期目、2025年4月20日投開票で再選。読み:くぼた たかし。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-23"
   },
   "22214": {
    "name": "北村正平",
    "office": "市長",
    "sourceUrl": "https://www.city.fujieda.shizuoka.jp/soshiki/senkyokanri/senkyo_sec/oshirase/23454.html",
-   "note": "藤枝市長。2024年5月26日投開票で当選、無所属。読み:きたむら しょうへい。"
+   "note": "藤枝市長。2024年5月26日投開票で当選、無所属。読み:きたむら しょうへい。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-06-19"
   },
   "22215": {
    "name": "勝又正美",
    "office": "市長",
    "sourceUrl": "https://www.city.gotemba.lg.jp/mayor/",
-   "note": "御殿場市長。現職2期目、2025年9月に無投票再選。読み:かつまた まさみ。"
+   "note": "御殿場市長。現職2期目、2025年9月に無投票再選。読み:かつまた まさみ。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-02"
   },
   "22216": {
    "name": "大場規之",
@@ -6253,103 +6416,121 @@
    "name": "松木正一郎",
    "office": "市長",
    "sourceUrl": "https://www.city.shimoda.shizuoka.jp/category/070300shityou/147835.html",
-   "note": "下田市長。現職2期目、2024年6月23日投開票で再選。読み:まつき しょういちろう。"
+   "note": "下田市長。現職2期目、2024年6月23日投開票で再選。読み:まつき しょういちろう。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-07-04"
   },
   "22220": {
    "name": "村田悠",
    "office": "市長",
    "sourceUrl": "https://www.city.susono.shizuoka.jp/soshiki/12/6/election/21402.html",
-   "note": "裾野市長。現職2期目、2026年1月25日投開票で再選。読み:むらた ゆう。"
+   "note": "裾野市長。現職2期目、2026年1月25日投開票で再選。読み:むらた ゆう。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-01-28"
   },
   "22221": {
    "name": "田内浩之",
    "office": "市長",
    "sourceUrl": "https://www.city.kosai.shizuoka.jp/shiseijoho/yokososhichoshitsuhe/index.html",
-   "note": "湖西市長。2024年11月17日に無投票初当選。読み:たうち ひろゆき。"
+   "note": "湖西市長。2024年11月17日に無投票初当選。読み:たうち ひろゆき。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-12-05"
   },
   "22222": {
    "name": "菊地豊",
    "office": "市長",
    "sourceUrl": "https://www.city.izu.shizuoka.jp/shiseijoho/3/index.html",
-   "note": "伊豆市長。現職5期目、2024年4月21日投開票で5選。読み:きくち ゆたか。"
+   "note": "伊豆市長。現職5期目、2024年4月21日投開票で5選。読み:きくち ゆたか。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-04-24"
   },
   "22223": {
    "name": "下村勝",
    "office": "市長",
    "sourceUrl": "https://www.city.omaezaki.shizuoka.jp/soshiki/somu/gaiyo/shicho/profile.html",
-   "note": "御前崎市長。2024年4月14日投開票で当選。読み:しもむら まさる。"
+   "note": "御前崎市長。2024年4月14日投開票で当選。読み:しもむら まさる。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-04-17"
   },
   "22224": {
-   "name": "長谷川寛彦",
+   "name": "長谷川寬彦",
    "office": "市長",
    "sourceUrl": "https://www.city.kikugawa.shizuoka.jp/hishokoho/profile.html",
-   "note": "菊川市長。現職2期目、2025年1月に再選。読み:はせがわ ひろひこ。"
+   "kana": "はせがわ ひろひこ",
+   "termEnd": "2029-01-29",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "22225": {
    "name": "山下正行",
    "office": "市長",
    "sourceUrl": "https://www.city.izunokuni.shizuoka.jp/hisyo/shisei/shicho/profile/index.html",
-   "note": "伊豆の国市長。現職2期目、2025年4月に無投票再選。読み:やました まさゆき。同姓の宗像市長(伊豆美沙子)とは別人。"
+   "note": "伊豆の国市長。現職2期目、2025年4月に無投票再選。読み:やました まさゆき。同姓の宗像市長(伊豆美沙子)とは別人。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-23"
   },
   "22226": {
    "name": "杉本基久雄",
    "office": "市長",
    "sourceUrl": "https://www.city.makinohara.shizuoka.jp/site/mayor/2328.html",
-   "note": "牧之原市長。現職3期目。読み:すぎもと きくお。"
+   "note": "牧之原市長。現職3期目。読み:すぎもと きくお。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-29"
   },
   "22301": {
    "name": "岩井茂樹",
    "office": "町長",
    "sourceUrl": "https://go2senkyo.com/local/senkyo/26473",
-   "note": "東伊豆町長。現職2期目、2026年3月15日投開票で再選。読み:いわい しげき。"
+   "note": "東伊豆町長。現職2期目、2026年3月15日投開票で再選。読み:いわい しげき。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-03-25"
   },
   "22302": {
    "name": "大川良樹",
    "office": "町長",
    "sourceUrl": "https://www.town.kawazu.shizuoka.jp/gyousei/mayor/",
-   "note": "河津町長。2025年11月11日告示で無投票初当選、11月26日就任。読み:おおかわ よしき。"
+   "note": "河津町長。2025年11月11日告示で無投票初当選、11月26日就任。読み:おおかわ よしき。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-11-25"
   },
   "22304": {
    "name": "岡部克仁",
    "office": "町長",
    "sourceUrl": "https://www.town.minamiizu.shizuoka.jp/mayor/",
-   "note": "南伊豆町長。現職3期目、2025年4月27日投開票で当選。読み:おかべ かつひと。"
+   "note": "南伊豆町長。現職3期目、2025年4月27日投開票で当選。読み:おかべ かつひと。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-05-14"
   },
   "22305": {
    "name": "深澤準弥",
    "office": "町長",
    "sourceUrl": "https://www.town.matsuzaki.shizuoka.jp/docs/2022090700019/",
-   "note": "松崎町長。現職2期目、2025年に無投票再選。読み:ふかさわ じゅんや。"
+   "note": "松崎町長。現職2期目、2025年に無投票再選。読み:ふかさわ じゅんや。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-12-13"
   },
   "22306": {
    "name": "星野淨晋",
    "office": "町長",
    "sourceUrl": "https://www.town.nishiizu.shizuoka.jp/kakuka/machizukuri/kikaku/gaiyou.html",
-   "note": "西伊豆町長。現職3期目、2025年4月に無投票3選。読み:ほしの じょうしん。淨=浄。"
+   "note": "西伊豆町長。現職3期目、2025年4月に無投票3選。読み:ほしの じょうしん。淨=浄。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-23"
   },
   "22325": {
    "name": "仁科喜世志",
    "office": "町長",
    "sourceUrl": "https://www.town.kannami.shizuoka.jp/soshiki/1002/9/tyoutyounoheya/5516.html",
-   "note": "函南町長。現職。読み:にしな きよし。"
+   "note": "函南町長。現職。読み:にしな きよし。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-04-10"
   },
   "22341": {
    "name": "関義弘",
    "office": "町長",
    "sourceUrl": "https://www.town.shimizu.shizuoka.jp/somu/somu00064.html",
-   "note": "清水町長。現職2期目、2023年4月23日投開票で再選。読み:せき よしひろ。"
+   "note": "清水町長。現職2期目、2023年4月23日投開票で再選。読み:せき よしひろ。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "22342": {
    "name": "池田修",
    "office": "町長",
    "sourceUrl": "https://www.town.nagaizumi.lg.jp/soshiki/gyosei/16/3/8290.html",
-   "note": "長泉町長。現職3期目、2025年9月7日に無投票3選。読み:いけだ おさむ。"
+   "note": "長泉町長。現職3期目、2025年9月7日に無投票3選。読み:いけだ おさむ。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-09"
   },
   "22344": {
    "name": "込山正秀",
    "office": "町長",
    "sourceUrl": "https://www.fuji-oyama.jp/site/mayor/list51.html",
-   "note": "小山町長。現職3期目、2023年5月就任。読み:こみやま まさひで。"
+   "note": "小山町長。現職3期目、2023年5月就任。読み:こみやま まさひで。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "22424": {
    "name": "田村典彦",
@@ -6362,13 +6543,15 @@
    "name": "薗田靖邦",
    "office": "町長",
    "sourceUrl": "https://www.town.kawanehon.shizuoka.jp/soshiki/soumu/gyoseishomu/4/tyoutyousenkyooyobityogikaigiinsenkyo/10921.html",
-   "note": "川根本町長。現職2期目、2025年10月5日投開票で再選。読み:そのだ やすくに。"
+   "note": "川根本町長。現職2期目、2025年10月5日投開票で再選。読み:そのだ やすくに。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-15"
   },
   "22461": {
    "name": "太田康雄",
    "office": "町長",
    "sourceUrl": "https://www.town.morimachi.shizuoka.jp/gyosei/choseijoho/chochonoheya/index.html",
-   "note": "森町長。現職3期目、2024年2月11日投開票で3選。読み:おおた やすお。"
+   "note": "森町長。現職3期目、2024年2月11日投開票で3選。読み:おおた やすお。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-03-09"
   },
   "23201": {
    "name": "長坂尚登",
@@ -6415,9 +6598,9 @@
   "23208": {
    "name": "日比一昭",
    "office": "市長",
-   "termEnd": "2030-04-18",
+   "termEnd": "2030-04-26",
    "sourceUrl": "https://www.chunichi.co.jp/article/1239855",
-   "note": "2026-04-19の市長選で4選（現職）。任期満了は新任期に更新。愛知県公式名簿(2026-06-11)も現職として掲載"
+   "note": "2026-04-19の市長選で4選（現職）。任期満了は新任期に更新。愛知県公式名簿(2026-06-11)も現職として掲載。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "23209": {
    "name": "小池友妃子",
@@ -6452,8 +6635,9 @@
   "23214": {
    "name": "鈴木寿明",
    "office": "市長",
-   "termEnd": "2027-11-16",
-   "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県の市町村長一覧"
+   "termEnd": "2027-11-06",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県の市町村長一覧",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "23215": {
    "name": "原欣伸",
@@ -6554,8 +6738,9 @@
   "23232": {
    "name": "日永貴章",
    "office": "市長",
-   "termEnd": "2029-04-30",
-   "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県の市町村長一覧"
+   "termEnd": "2029-05-14",
+   "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県の市町村長一覧",
+   "note": "任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "23233": {
    "name": "永田純夫",
@@ -6596,9 +6781,9 @@
   "23302": {
    "name": "石橋直季",
    "office": "町長",
-   "termEnd": "2028-06-10",
+   "termEnd": "2028-06-08",
    "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県の市町村長一覧",
-   "note": "愛知郡東郷町"
+   "note": "愛知郡東郷町。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "23342": {
    "name": "服部正樹",
@@ -6610,9 +6795,9 @@
   "23361": {
    "name": "鈴木雅博",
    "office": "町長",
-   "termEnd": "2029-10-30",
+   "termEnd": "2029-10-31",
    "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県の市町村長一覧",
-   "note": "丹羽郡大口町"
+   "note": "丹羽郡大口町。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "23362": {
    "name": "鯖瀬武",
@@ -6622,18 +6807,19 @@
    "note": "丹羽郡扶桑町"
   },
   "23424": {
-   "name": "鈴木康友",
+   "name": "横井良隆",
+   "kana": "よこい よしたか",
    "office": "町長",
-   "termEnd": "2029-08-02",
-   "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県の市町村長一覧",
-   "note": "海部郡大治町"
+   "sourceUrl": "https://www.town.oharu.aichi.jp/item/1990.htm",
+   "termEnd": "2030-09-12",
+   "note": "2026-09-13 の町長選（前職の辞職に伴う）で当選。2026-09-13 就任。"
   },
   "23425": {
    "name": "横江淳一",
    "office": "町長",
-   "termEnd": "2029-03-31",
+   "termEnd": "2029-04-01",
    "sourceUrl": "https://ja.wikipedia.org/wiki/愛知県の市町村長一覧",
-   "note": "海部郡蟹江町"
+   "note": "海部郡蟹江町。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "23427": {
    "name": "加藤光彦",
@@ -6660,31 +6846,36 @@
    "name": "石黒和彦",
    "office": "町長",
    "sourceUrl": "https://www.town.minamichita.lg.jp/gyosei/koho/1001566/index.html",
-   "note": "南知多町長。2026-06中部経済新聞インタビューで現職確認。"
+   "note": "南知多町長。2026-06中部経済新聞インタビューで現職確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-01-22"
   },
   "23446": {
    "name": "八谷充則",
    "office": "町長",
    "sourceUrl": "https://www.town.aichi-mihama.lg.jp/mayor/bunya/profile/",
-   "note": "美浜町（愛知県）町長。2023-04-26就任、現職。"
+   "note": "美浜町（愛知県）町長。2023-04-26就任、現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "23447": {
    "name": "鳥羽悠史",
    "office": "町長",
    "sourceUrl": "https://www.town.taketoyo.lg.jp/1001550/1002923.html",
-   "note": "武豊町長。2025-04-20選挙で初当選、2025-04-27就任、1期目。"
+   "note": "武豊町長。2025-04-20選挙で初当選、2025-04-27就任、1期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-26"
   },
   "23501": {
    "name": "成瀬敦",
    "office": "町長",
    "sourceUrl": "https://www.town.kota.lg.jp/site/chocho/",
-   "note": "幸田町長。2026-05無投票で3選。"
+   "note": "幸田町長。2026-05無投票で3選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-05-26"
   },
   "23561": {
    "name": "土屋浩",
    "office": "町長",
    "sourceUrl": "https://www.town.shitara.lg.jp/site/senkyoshitara/6975.html",
-   "note": "設楽町長。令和7年(2025)町長選で再選（2期目）。"
+   "note": "設楽町長。令和7年(2025)町長選で再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-22"
   },
   "23562": {
    "name": "村上孝治",
@@ -6697,7 +6888,8 @@
    "name": "伊藤浩亘",
    "office": "村長",
    "sourceUrl": "https://www.vill.toyone.aichi.jp/soshiki/soumu/gyosei/22.html",
-   "note": "豊根村長。2023-04-23就任（無投票初当選）、現職。"
+   "note": "豊根村長。2023-04-23就任（無投票初当選）、現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-22"
   },
   "24201": {
    "name": "前葉泰幸",
@@ -6819,11 +7011,12 @@
    "note": "Komono (もろおか たかゆき); first elected Feb 2023, beat incumbent Shibata. Term end 令和9年3月2日."
   },
   "24343": {
-   "name": "栗田康昭",
+   "name": "矢野純男",
+   "kana": "やの すみお",
    "office": "町長",
-   "termEnd": "2027-06-04",
    "sourceUrl": "https://www2.town.asahi.mie.jp/www/contents/1001000000572/index.html",
-   "note": "Asahi (くりた やすあき). Term end 令和9年6月4日."
+   "termEnd": "2027-06-04",
+   "note": "2026-07-13 版の氏名の誤りを訂正。現任期は 2023-06-05 から。"
   },
   "24344": {
    "name": "城田政幸",
@@ -6892,8 +7085,14 @@
    "name": "大畑覚",
    "office": "町長",
    "termEnd": "2026-10-09",
-   "sourceUrl": "https://www.yosikuma.com/2026/05/29/5460/",
-   "note": "Mihama (おおはた さとる); 3rd term, in office since Oct 2014. Announced retirement; term ends 令和8年10月9日 (next election Sept 22 2026). Current as of 2026-07-13."
+   "sourceUrl": "https://www.chunichi.co.jp/article/1282582",
+   "note": "任期満了 2026-10-09。2026-09-27 の町長選で次期町長が決まり、2026-10-10 に交代予定。",
+   "next": {
+    "name": "東地正登",
+    "kana": "ひがしじ まさと",
+    "takesOffice": "2026-10-10",
+    "electionDate": "2026-09-27"
+   }
   },
   "24562": {
    "name": "向井美樹也",
@@ -6912,16 +7111,16 @@
   "25202": {
    "name": "田島一成",
    "office": "市長",
-   "termEnd": "2029-04",
+   "termEnd": "2029-05-09",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%92%8C%E7%94%B0%E8%A3%95%E8%A1%8C",
-   "note": "彦根市長。2025-04-27選挙で現職和田裕行を破り初当選（uub.jpの和田は旧情報）。termEndは就任+4年の推定。"
+   "note": "彦根市長。2025-04-27選挙で現職和田裕行を破り初当選（uub.jpの和田は旧情報）。termEndは就任+4年の推定。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "25203": {
    "name": "浅見宣義",
    "office": "市長",
-   "termEnd": "2030-02",
+   "termEnd": "2030-03-04",
    "sourceUrl": "https://www.city.nagahama.lg.jp/0000016530.html",
-   "note": "長浜市長。2026-02-08選挙で再選（2期目）。termEndは推定。"
+   "note": "長浜市長。2026-02-08選挙で再選（2期目）。termEndは推定。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "25204": {
    "name": "徳永久志",
@@ -6931,11 +7130,10 @@
    "note": "近江八幡市長。2026-04-19選挙で初当選。termEndは推定。"
   },
   "25206": {
-   "name": "橋川渉",
    "office": "市長",
-   "termEnd": "2028-03",
-   "sourceUrl": "https://www.city.kusatsu.shiga.jp/shisei/shichoshitsu/profile.html",
-   "note": "草津市長。2024年3月就任（現職）。2026-06に脳出血で療養中との報道あるが在任。termEndは推定。"
+   "sourceUrl": "https://www.city.kusatsu.shiga.jp/shisei/shichoshitsu/message/index.html",
+   "vacant": true,
+   "note": "2026-09-01 に前市長が辞職し欠員（職務代理者が代行）。市長選は 2026-10-18 投開票予定。"
   },
   "25207": {
    "name": "森中高史",
@@ -6955,7 +7153,8 @@
    "name": "岩永裕貴",
    "office": "市長",
    "sourceUrl": "https://www.city.koka.lg.jp/1052.htm",
-   "note": "甲賀市長（現職、いわなが ひろき）。termEndは未確認。"
+   "note": "甲賀市長（現職、いわなが ひろき）。termEndは未確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-30"
   },
   "25210": {
    "name": "桜本直樹",
@@ -6974,9 +7173,9 @@
   "25212": {
    "name": "今城克啓",
    "office": "市長",
-   "termEnd": "2029-01",
+   "termEnd": "2029-02-12",
    "sourceUrl": "https://www.city.takashima.lg.jp/soshiki/senkyokanriiinkaijimukyoku/1/1/12147.html",
-   "note": "高島市長（滋賀）。2025-01-26選挙で初当選。termEndは推定。"
+   "note": "高島市長（滋賀）。2025-01-26選挙で初当選。termEndは推定。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "25213": {
    "name": "小椋正清",
@@ -7009,9 +7208,9 @@
   "25425": {
    "name": "有村国知",
    "office": "町長",
-   "termEnd": "2030-02",
+   "termEnd": "2030-03-04",
    "sourceUrl": "https://www.chunichi.co.jp/article/1213361",
-   "note": "愛荘町長（ありむら くにとも）。2026-02-22選挙で3選。termEndは推定。"
+   "note": "愛荘町長（ありむら くにとも）。2026-02-22選挙で3選。termEndは推定。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "25441": {
    "name": "伊藤定勉",
@@ -7038,13 +7237,15 @@
    "name": "大橋一夫",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A9%8B%E4%B8%80%E5%A4%AB",
-   "note": "福知山市長。2024.6.9に3選、現職。任期満了日は未確認。"
+   "note": "福知山市長。2024.6.9に3選、現職。任期満了日は未確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-06-19"
   },
   "26202": {
    "name": "鴨田秋津",
    "office": "市長",
    "sourceUrl": "https://www.city.maizuru.kyoto.jp/shicho/0000010798.html",
-   "note": "舞鶴市長。2023年初当選、現職。読みは「かもだあきつ」。"
+   "note": "舞鶴市長。2023年初当選、現職。読みは「かもだあきつ」。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-02-17"
   },
   "26203": {
    "name": "四方源太郎",
@@ -7057,19 +7258,22 @@
    "name": "松村淳子",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/Template:%E8%87%AA%E6%B2%BB%E4%BD%93%E9%A6%96%E9%95%B7/%E4%BA%AC%E9%83%BD%E5%BA%9C",
-   "note": "宇治市長。現職(Wikipedia自治体首長テンプレートで確認)。"
+   "note": "宇治市長。現職(Wikipedia自治体首長テンプレートで確認)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-12-18"
   },
   "26205": {
    "name": "城﨑雅文",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%9F%8E%EF%A8%91%E9%9B%85%E6%96%87",
-   "note": "宮津市長。姓は異体字「城﨑」。現職。"
+   "note": "宮津市長。姓は異体字「城﨑」。現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-07-01"
   },
   "26206": {
    "name": "桂川孝裕",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/Template:%E8%87%AA%E6%B2%BB%E4%BD%93%E9%A6%96%E9%95%B7/%E4%BA%AC%E9%83%BD%E5%BA%9C",
-   "note": "亀岡市長。現職。"
+   "note": "亀岡市長。現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-11-08"
   },
   "26207": {
    "name": "村田正明",
@@ -7082,44 +7286,50 @@
    "name": "安田守",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/Template:%E8%87%AA%E6%B2%BB%E4%BD%93%E9%A6%96%E9%95%B7/%E4%BA%AC%E9%83%BD%E5%BA%9C",
-   "note": "向日市長。現職。"
+   "note": "向日市長。現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-29"
   },
   "26209": {
    "name": "中小路健吾",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/Template:%E8%87%AA%E6%B2%BB%E4%BD%93%E9%A6%96%E9%95%B7/%E4%BA%AC%E9%83%BD%E5%BA%9C",
-   "note": "長岡京市長。現職。"
+   "note": "長岡京市長。現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-01-17"
   },
   "26210": {
    "name": "川田翔子",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E7%94%B0%E7%BF%94%E5%AD%90",
-   "note": "八幡市長。2023.11.12初当選(当時最年少女性市長)。現職。"
+   "note": "八幡市長。2023.11.12初当選(当時最年少女性市長)。現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-11-11"
   },
   "26211": {
    "name": "上村崇",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9D%91%E5%B4%87",
-   "note": "京田辺市長。2期目、現職。読みは「かみむらたかし」。"
+   "note": "京田辺市長。2期目、現職。読みは「かみむらたかし」。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-29"
   },
   "26212": {
    "name": "中山泰",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/Template:%E8%87%AA%E6%B2%BB%E4%BD%93%E9%A6%96%E9%95%B7/%E4%BA%AC%E9%83%BD%E5%BA%9C",
-   "note": "京丹後市長。現職。読みは「なかやまやすし」。"
+   "note": "京丹後市長。現職。読みは「なかやまやすし」。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-05-15"
   },
   "26213": {
    "name": "西村好高",
    "office": "市長",
-   "termEnd": "2030-03",
+   "termEnd": "2030-04-29",
    "sourceUrl": "https://www.kyoto-np.co.jp/articles/-/1677061",
-   "note": "南丹市長。2026.3.15初当選、現職を破る。任期満了は概算2030.3。"
+   "note": "南丹市長。2026.3.15初当選、現職を破る。任期満了は概算2030.3。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "26214": {
    "name": "谷口雄一",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%8F%A3%E9%9B%84%E4%B8%80",
-   "note": "木津川市長。2023.4当選、現職。"
+   "note": "木津川市長。2023.4当選、現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "26303": {
    "name": "前川光",
@@ -7132,13 +7342,15 @@
    "name": "信貴康孝",
    "office": "町長",
    "sourceUrl": "https://www.kyoto-np.co.jp/articles/-/1319636",
-   "note": "久世郡久御山町長。2024.8.25に4選、現職。読みは「しきやすたか」。"
+   "note": "久世郡久御山町長。2024.8.25に4選、現職。読みは「しきやすたか」。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-08-27"
   },
   "26343": {
    "name": "西島寛道",
    "office": "町長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E4%BA%95%E6%89%8B%E7%94%BA",
-   "note": "綴喜郡井手町長。2023.8当選、現職。読みは「にしじまひろみち」。"
+   "note": "綴喜郡井手町長。2023.8当選、現職。読みは「にしじまひろみち」。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-08-26"
   },
   "26344": {
    "name": "勝谷聡一",
@@ -7151,31 +7363,36 @@
    "name": "山本篤志",
    "office": "町長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/Template:%E8%87%AA%E6%B2%BB%E4%BD%93%E9%A6%96%E9%95%B7/%E4%BA%AC%E9%83%BD%E5%BA%9C",
-   "note": "相楽郡笠置町長。現職(1970年生、元八幡市職員)。"
+   "note": "相楽郡笠置町長。現職(1970年生、元八幡市職員)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-03-31"
   },
   "26365": {
    "name": "馬場正実",
    "office": "町長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E9%A6%AC%E5%A0%B4%E6%AD%A3%E5%AE%9F",
-   "note": "相楽郡和束町長。現職。"
+   "note": "相楽郡和束町長。現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-08-12"
   },
   "26366": {
    "name": "杉浦正省",
    "office": "町長",
    "sourceUrl": "https://www.town.seika.kyoto.jp/kakuka/kikaku/3/1_1/index.html",
-   "note": "相楽郡精華町長。2019年初当選、現職。"
+   "note": "相楽郡精華町長。2019年初当選、現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-10-23"
   },
   "26367": {
    "name": "平沼和彦",
    "office": "村長",
    "sourceUrl": "https://www.vill.minamiyamashiro.lg.jp/0000001847.html",
-   "note": "相楽郡南山城村長。2期目(2019初当選、2023再選)、現職。"
+   "note": "相楽郡南山城村長。2期目(2019初当選、2023再選)、現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-06-28"
   },
   "26407": {
    "name": "畠中源一",
    "office": "町長",
    "sourceUrl": "https://www.town.kyotamba.kyoto.jp/gyoseijoho/chochoshitsu/index.html",
-   "note": "船井郡京丹波町長。2021.11.20就任、現職。"
+   "note": "船井郡京丹波町長。2021.11.20就任、現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-11-19"
   },
   "26463": {
    "name": "吉本秀樹",
@@ -7192,22 +7409,26 @@
    "note": "与謝郡与謝野町長。2026.4.5初当選、現職(山添藤真を破る)。任期満了は概算2030.4。"
   },
   "27202": {
-   "name": "佐野ひでとし",
+   "name": "佐野英利",
    "office": "市長",
-   "sourceUrl": "https://www.city.kishiwada.lg.jp/page/20250406-shichosenkyo.html",
-   "note": "令和7年4月6日岸和田市長選で初当選（前職・永野耕平の辞職に伴う選挙）。無所属。氏名は市公式選挙結果ページのかな表記。"
+   "sourceUrl": "https://www.city.kishiwada.lg.jp/adv/ba.php?id=166",
+   "kana": "さの ひでとし",
+   "termEnd": "2029-04-05",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "27203": {
    "name": "長内繁樹",
    "office": "市長",
    "sourceUrl": "https://go2senkyo.com/local/senkyo/26245",
-   "note": "2026年4月19日投票の豊中市長選で3選。おさない しげき。"
+   "note": "2026年4月19日投票の豊中市長選で3選。おさない しげき。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-05-14"
   },
   "27204": {
    "name": "瀧澤智子",
    "office": "市長",
    "sourceUrl": "https://www.city.ikeda.osaka.jp/soshiki/sogoseisaku/hishokoho/mayersoffice/1415929684179.html",
-   "note": "2025年8月再選。たきざわ ともこ。"
+   "note": "2025年8月再選。たきざわ ともこ。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-08-28"
   },
   "27205": {
    "name": "後藤圭二",
@@ -7227,55 +7448,67 @@
    "name": "濱田剛史",
    "office": "市長",
    "sourceUrl": "https://www.city.takatsuki.osaka.jp/site/shicho-letter/",
-   "note": "はまだ たけし。4期。"
+   "note": "はまだ たけし。4期。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "27208": {
-   "name": "牛尾ジロー",
+   "name": "牛尾治朗",
    "office": "市長",
-   "sourceUrl": "https://www.city.kaizuka.lg.jp/kakuka/senkyokanri/senkyo/menu/senkyo/result/20260125kaizukashicho_senkyo_kaihyokekka.html",
-   "note": "令和8年(2026)1月25日執行の貝塚市長選で当選（大阪維新の会）。市公式開票結果ではカタカナ表記『牛尾ジロー』。"
+   "sourceUrl": "https://www.city.kaizuka.lg.jp/shicho/rekidaishicho.html",
+   "kana": "うしお じろう",
+   "termEnd": "2030-02-10",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "27209": {
-   "name": "西端勝樹",
+   "name": "瀬野憲一",
+   "kana": "せの けんいち",
    "office": "市長",
-   "sourceUrl": "https://www.city.moriguchi.osaka.jp/kakukanoannai/shichoshitsu/shichonoheya/15923.html",
-   "note": "にしばた かつき。守口市長。"
+   "sourceUrl": "https://www.city.moriguchi.osaka.jp/kakukanoannai/shichoshitsu/shichonoheya/index.html",
+   "termEnd": "2027-04-22",
+   "note": "2026-07-13 版の氏名の誤りを訂正。現任期は 2023-04-23 から。"
   },
   "27210": {
    "name": "伏見隆",
    "office": "市長",
    "sourceUrl": "https://www.city.hirakata.osaka.jp/",
-   "note": "ふしみ たかし。枚方市長。"
+   "note": "ふしみ たかし。枚方市長。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-09-22"
   },
   "27211": {
    "name": "福岡洋一",
    "office": "市長",
    "sourceUrl": "https://www.city.ibaraki.osaka.jp/shisei_info/heya/56485.html",
-   "note": "2026年4月18日から第22代（通算4期目）。ふくおか よういち。"
+   "note": "2026年4月18日から第22代（通算4期目）。ふくおか よういち。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-04-17"
   },
   "27212": {
    "name": "大松桂右",
    "office": "市長",
    "sourceUrl": "https://www.city.yao.osaka.jp/shisei/shichounoheya/1009288/1009293.html",
-   "note": "だいまつ けいすけ。八尾市長。"
+   "note": "だいまつ けいすけ。八尾市長。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "27213": {
    "name": "千代松大耕",
    "office": "市長",
    "sourceUrl": "https://www.city.izumisano.lg.jp/kakuka/koushitsu/hisho/menu/profile.html",
-   "note": "ちよまつ ひろやす。泉佐野市長、4期。"
+   "note": "ちよまつ ひろやす。泉佐野市長、4期。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "27214": {
    "name": "吉村善美",
    "office": "市長",
    "sourceUrl": "https://www.city.tondabayashi.lg.jp/site/schedule/profile.html",
-   "note": "よしむら よしみ。富田林市長、2期。"
+   "kana": "よしむら よしみ",
+   "termEnd": "2027-04-30",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "27215": {
    "name": "広瀬慶輔",
    "office": "市長",
    "sourceUrl": "https://www.city.neyagawa.osaka.jp/organization_list/keieikikaku/hisyo/heya/1434592196293.html",
-   "note": "ひろせ けいすけ。寝屋川市長。"
+   "note": "ひろせ けいすけ。寝屋川市長。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-05-28"
   },
   "27216": {
    "name": "西野修平",
@@ -7288,103 +7521,120 @@
    "name": "澤井宏文",
    "office": "市長",
    "sourceUrl": "https://www.city.matsubara.lg.jp/docs/page3585.html",
-   "note": "さわい ひろふみ。2025年5月に5期目就任。"
+   "note": "さわい ひろふみ。2025年5月に5期目就任。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-06-16"
   },
   "27218": {
    "name": "逢坂伸子",
    "office": "市長",
    "sourceUrl": "https://www.city.daito.lg.jp/site/shicyounoheya/",
-   "note": "2024年4月大東市長選で初当選（無所属、元市職員）。公式・SNSでは『おおさか伸子』表記。"
+   "note": "2024年4月大東市長選で初当選（無所属、元市職員）。公式・SNSでは『おおさか伸子』表記。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-05-04"
   },
   "27219": {
    "name": "辻宏康",
    "office": "市長",
    "sourceUrl": "https://www.city.osaka-izumi.lg.jp/sichounoheya/15531.html",
-   "note": "つじ ひろやす。2025年5月無投票で5選。"
+   "note": "つじ ひろやす。2025年5月無投票で5選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-06-18"
   },
   "27220": {
    "name": "原田亮",
    "office": "市長",
    "sourceUrl": "https://www.city.minoh.lg.jp/shisei/shichou/20240904.html",
-   "note": "はらだ りょう。2024年8月箕面市長就任。"
+   "note": "はらだ りょう。2024年8月箕面市長就任。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-08-26"
   },
   "27221": {
    "name": "冨宅正浩",
    "office": "市長",
    "sourceUrl": "https://www.city.kashiwara.lg.jp/docs/2014012900355/",
-   "note": "ふけ まさひろ。柏原市長、3期。"
+   "note": "ふけ まさひろ。柏原市長、3期。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-03-10"
   },
   "27222": {
    "name": "山入端創",
    "office": "市長",
    "sourceUrl": "https://www.city.habikino.lg.jp/soshiki/shichou/hisho/sichou/682.html",
-   "note": "やまのは はじめ。2024年7月に第19代羽曳野市長就任（再選）。"
+   "note": "やまのは はじめ。2024年7月に第19代羽曳野市長就任（再選）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-07-24"
   },
   "27223": {
    "name": "宮本一孝",
    "office": "市長",
    "sourceUrl": "https://www.city.kadoma.osaka.jp/shisei/shichonoheya/index.html",
-   "note": "みやもと かずたか。門真市長、3期。"
+   "note": "みやもと かずたか。門真市長、3期。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-07-23"
   },
   "27224": {
    "name": "嶋野浩一朗",
    "office": "市長",
    "sourceUrl": "https://www.city.settsu.osaka.jp/soshiki/shichoukoushitsu/hishoka/shichonoheya/614.html",
-   "note": "しまの こういちろう。2024年9月摂津市長初当選。"
+   "note": "しまの こういちろう。2024年9月摂津市長初当選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-11"
   },
   "27225": {
    "name": "畑中政昭",
    "office": "市長",
    "sourceUrl": "https://www.city.takaishi.lg.jp/politics/shityou/index.html",
-   "note": "はたなか まさあき。高石市長。"
+   "note": "はたなか まさあき。高石市長。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-26"
   },
   "27226": {
    "name": "岡田一樹",
    "office": "市長",
    "sourceUrl": "https://www.city.fujiidera.lg.jp/soshiki/seisakukikaku/hisyo/shichouprofile.html",
-   "note": "おかだ かずき。藤井寺市長。"
+   "note": "おかだ かずき。藤井寺市長。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-05-16"
   },
   "27227": {
    "name": "野田義和",
    "office": "市長",
    "sourceUrl": "https://www.city.higashiosaka.lg.jp/0000000033.html",
-   "note": "のだ よしかず。2023年9月に5選。"
+   "note": "のだ よしかず。2023年9月に5選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-10-27"
   },
   "27228": {
    "name": "山本優真",
    "office": "市長",
    "sourceUrl": "https://www.city.sennan.lg.jp/kakuka/gyouseikeiei/hisyojinji/hisyo/shichonomesseji/1477541665951.html",
-   "note": "やまもと ゆうま。2026年4月に無投票再選（大阪維新の会）。"
+   "note": "やまもと ゆうま。2026年4月に無投票再選（大阪維新の会）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-05-21"
   },
   "27229": {
    "name": "銭谷翔",
    "office": "市長",
    "sourceUrl": "https://www.city.shijonawate.lg.jp/site/mayorsroom/16701.html",
-   "note": "ぜにや しょう。2024年12月22日四條畷市長選で初当選、2025年1月20日就任（第6代、公募候補）。"
+   "note": "ぜにや しょう。2024年12月22日四條畷市長選で初当選、2025年1月20日就任（第6代、公募候補）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-01-19"
   },
   "27230": {
    "name": "山本景",
    "office": "市長",
    "sourceUrl": "https://www.city.katano.osaka.jp/mayor/2015011300023/index.html.r",
-   "note": "やまもと ひかる。2022年9月交野市長初当選。任期満了は2026年9月（市長選2026-09-06予定）だが2026-07-13時点で現職。"
+   "note": "やまもと ひかる。2022年9月交野市長初当選。任期満了は2026年9月（市長選2026-09-06予定）だが2026-07-13時点で現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-09-17"
   },
   "27231": {
    "name": "古川照人",
    "office": "市長",
    "sourceUrl": "https://www.city.osakasayama.osaka.jp/sosiki/seisakusuishinbu/hisho/shicho_heya/profile/1567128718678.html",
-   "note": "ふるかわ てるひと。大阪狭山市長、3期。"
+   "note": "ふるかわ てるひと。大阪狭山市長、3期。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-26"
   },
   "27232": {
    "name": "上甲誠",
    "office": "市長",
    "sourceUrl": "https://www.city.hannan.lg.jp/kakuka/gyosei/senkyokanriiinkai/hannnannsityou/index.html",
-   "note": "じょうこう まこと。2024年阪南市長初当選。"
+   "note": "じょうこう まこと。2024年阪南市長初当選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-11"
   },
   "27301": {
    "name": "山田紘平",
    "office": "町長",
    "sourceUrl": "https://www.town.shimamoto.lg.jp/soshiki/19/29856.html",
-   "note": "令和7年(2025)4月13日執行の島本町長選で当選（無所属）。開票結果は『山田こうへい』表記。"
+   "note": "令和7年(2025)4月13日執行の島本町長選で当選（無所属）。開票結果は『山田こうへい』表記。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-20"
   },
   "27321": {
    "name": "上浦登",
@@ -7397,13 +7647,16 @@
    "name": "岡田正文",
    "office": "町長",
    "sourceUrl": "http://www.town.nose.osaka.jp/soshiki/soumuka/hishojinji/chouchou/1279.html",
-   "note": "おかだ まさふみ。令和6年(2024)10月就任、第9代能勢町長。"
+   "note": "おかだ まさふみ。令和6年(2024)10月就任、第9代能勢町長。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-23"
   },
   "27341": {
-   "name": "これえだ綾子",
+   "name": "是枝綾子",
    "office": "町長",
-   "sourceUrl": "https://go2senkyo.com/local/senkyo/28501",
-   "note": "令和7年(2025)5月18日執行の忠岡町長選で初当選（無所属、前町長辞職に伴う選挙）。公式表記は『これえだ綾子』。"
+   "sourceUrl": "https://www.town.tadaoka.osaka.jp/cyoucyoushitsu/4656.html",
+   "kana": "これえだ あやこ",
+   "termEnd": "2029-05-17",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "27361": {
    "name": "藤原敏司",
@@ -7413,69 +7666,78 @@
    "note": "ふじはら としじ。熊取町長、任期満了2028-01-26。"
   },
   "27362": {
-   "name": "山本和生",
+   "name": "山本一男",
+   "kana": "やまもと かずお",
    "office": "町長",
-   "sourceUrl": "https://www.town.tajiri.osaka.jp/kakukanojoho/somubu/somuka/6/5144.html",
-   "note": "令和7年(2025)7月20日執行の田尻町長選で当選。開票速報は『山本かずお』表記（漢字は要確認）。"
+   "sourceUrl": "https://www.town.tajiri.osaka.jp/gyoseijoho/chochonoheya/3191.html",
+   "termEnd": "2029-07-19",
+   "note": "2026-07-13 版の氏名の誤りを訂正。現任期は 2025-07-20 から。"
   },
   "27366": {
    "name": "田代堯",
    "office": "町長",
    "sourceUrl": "https://go2senkyo.com/local/senkyo/25543",
-   "note": "たしろ たかし。2025年9月21日岬町長選で再選（5期目）。"
+   "note": "たしろ たかし。2025年9月21日岬町長選で再選（5期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-08"
   },
   "27381": {
-   "name": "田中誠自",
+   "name": "田中祐二",
+   "kana": "たなか ゆうじ",
    "office": "町長",
-   "sourceUrl": "https://go2senkyo.com/local/senkyo/24918",
-   "note": "2024年4月7日太子町長選で再選（大阪維新の会）。ばんじょう・選挙公報表記は『田中ゆうじ』（漢字は要確認）。"
+   "sourceUrl": "http://www.town.taishi.osaka.jp/busyo/seisakusoumubu/hisyoseisakuka/mayor_room/chouchou_profile.html",
+   "termEnd": "2028-04-17",
+   "note": "2026-07-13 版の氏名の誤りを訂正。現任期は 2024-04-18 から。"
   },
   "27382": {
-   "name": "森田昌伸",
+   "name": "森田昌吾",
+   "kana": "もりた しょうご",
    "office": "町長",
-   "sourceUrl": "https://go2senkyo.com/local/senkyo/24873",
-   "note": "2024年3月24日河南町長選で無投票再選。選挙表記は『森田しょうご』（漢字は要確認）。"
+   "sourceUrl": "https://www.town.kanan.osaka.jp/gyoseijoho/chochonoheya/4021.html",
+   "termEnd": "2028-03-28",
+   "note": "2026-07-13 版の氏名の誤りを訂正。現任期は 2024-03-29 から。"
   },
   "27383": {
-   "name": "菊井美博",
+   "name": "菊井佳宏",
+   "kana": "きくい よしひろ",
    "office": "村長",
-   "sourceUrl": "https://www.vill.chihayaakasaka.osaka.jp/kakuka/senkyo/R6630/8980.html",
-   "note": "令和6年(2024)6月30日執行の千早赤阪村長選で当選。開票速報は『菊井よしひろ』表記（漢字は要確認）。"
+   "sourceUrl": "https://www.vill.chihayaakasaka.osaka.jp/material/files/group/1/1735.pdf",
+   "termEnd": "2028-07-15",
+   "note": "2026-07-13 版の氏名の誤りを訂正。現任期は 2024-07-16 から。"
   },
   "28201": {
    "name": "清元秀泰",
    "office": "市長",
-   "termEnd": "2027-04-30",
+   "termEnd": "2027-04-29",
    "sourceUrl": "https://uub.jp/lce/lce1.html",
-   "note": "姫路市長。uub.jp現役首長一覧より。"
+   "note": "姫路市長。uub.jp現役首長一覧より。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28202": {
    "name": "松本眞",
    "office": "市長",
-   "termEnd": "2026-12-02",
+   "termEnd": "2026-12-01",
    "sourceUrl": "https://uub.jp/lce/lce1.html",
-   "note": "尼崎市長。uub.jp現役首長一覧より。"
+   "note": "尼崎市長。uub.jp現役首長一覧より。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28203": {
    "name": "丸谷聡子",
    "office": "市長",
-   "termEnd": "2027-05-01",
+   "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce1.html",
-   "note": "明石市長。2023年就任。uub.jp現役首長一覧より。"
+   "note": "明石市長。2023年就任。uub.jp現役首長一覧より。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28204": {
    "name": "石井登志郎",
    "office": "市長",
-   "termEnd": "2030-04-30",
+   "termEnd": "2030-04-14",
    "sourceUrl": "https://www.city.nishinomiya.lg.jp/shisei/koho/shashin-news/2026/202604/20260415photonews.html",
-   "note": "西宮市長。2026-03-29再選、3期目。任期満了は概算。"
+   "note": "西宮市長。2026-03-29再選、3期目。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28205": {
    "name": "吉平敏孝",
    "office": "市長",
-   "termEnd": "2030-03-07",
+   "termEnd": "2030-03-18",
    "sourceUrl": "https://www.kobe-np.co.jp/news/society/202603/0020102645.shtml",
-   "note": "洲本市長。2026-03-08初当選、現職上崎勝規を破る。任期満了は概算。"
+   "note": "洲本市長。2026-03-08初当選、現職上崎勝規を破る。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28206": {
    "name": "髙島崚輔",
@@ -7487,9 +7749,9 @@
   "28207": {
    "name": "中田慎也",
    "office": "市長",
-   "termEnd": "2029-04-22",
+   "termEnd": "2029-04-23",
    "sourceUrl": "https://www.city.itami.lg.jp/SHITYO/1392112724053.html",
-   "note": "伊丹市長。2025-04-13初当選(前職藤原保幸の後継)。任期満了は概算。"
+   "note": "伊丹市長。2025-04-13初当選(前職藤原保幸の後継)。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28208": {
    "name": "谷口芳紀",
@@ -7501,9 +7763,9 @@
   "28209": {
    "name": "門間雄司",
    "office": "市長",
-   "termEnd": "2029-04-26",
+   "termEnd": "2029-04-30",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E9%96%A2%E8%B2%AB%E4%B9%85%E4%BB%81%E9%83%8E",
-   "note": "豊岡市長。2025-04-27選挙で現職関貫久仁郎を破り初当選。任期満了は概算。"
+   "note": "豊岡市長。2025-04-27選挙で現職関貫久仁郎を破り初当選。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28210": {
    "name": "岡田康裕",
@@ -7522,16 +7784,16 @@
   "28213": {
    "name": "片山象三",
    "office": "市長",
-   "termEnd": "2029-10-25",
+   "termEnd": "2029-11-12",
    "sourceUrl": "https://www.city.nishiwaki.lg.jp/kakukanogoannai/senkyokanriiinnkaijimukyoku/R7sityousigikaigiinsenkyo_1/29882.html",
-   "note": "西脇市長。2025-10-26に4選。任期満了は概算。"
+   "note": "西脇市長。2025-10-26に4選。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28214": {
    "name": "森臨太郎",
    "office": "市長",
-   "termEnd": "2029-04-22",
+   "termEnd": "2029-04-18",
    "sourceUrl": "https://www.kobe-np.co.jp/news/society/202504/0018867428.shtml",
-   "note": "宝塚市長。2025-04-13初当選(小児科医、無所属市民派)。任期満了は概算。"
+   "note": "宝塚市長。2025-04-13初当選(小児科医、無所属市民派)。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28215": {
    "name": "仲田一彦",
@@ -7550,9 +7812,9 @@
   "28217": {
    "name": "越田謙治郎",
    "office": "市長",
-   "termEnd": "2026-10-28",
+   "termEnd": "2026-10-27",
    "sourceUrl": "https://uub.jp/lce/lce1.html",
-   "note": "川西市長。uub.jp現役首長一覧より。"
+   "note": "川西市長。uub.jp現役首長一覧より。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28218": {
    "name": "蓬萊務",
@@ -7585,23 +7847,23 @@
   "28222": {
    "name": "大林賢一",
    "office": "市長",
-   "termEnd": "2028-10-20",
+   "termEnd": "2028-10-31",
    "sourceUrl": "https://www.sun-tv.co.jp/suntvnews/news/2024/10/21/82186/",
-   "note": "養父市長。2024-10-20選挙で5期目狙う現職を破り初当選。任期満了は概算。"
+   "note": "養父市長。2024-10-20選挙で5期目狙う現職を破り初当選。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28223": {
    "name": "林時彦",
    "office": "市長",
-   "termEnd": "2028-11",
+   "termEnd": "2028-12-04",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC173FU0X11C24A1000000/",
-   "note": "丹波市長。2024-11再選。任期満了は概算。"
+   "note": "丹波市長。2024-11再選。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28224": {
    "name": "守本憲弘",
    "office": "市長",
-   "termEnd": "2029-01",
+   "termEnd": "2029-02-12",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%AE%88%E6%9C%AC%E6%86%B2%E5%BC%98",
-   "note": "南あわじ市長。2025-01無投票で3選。任期満了は概算。"
+   "note": "南あわじ市長。2025-01無投票で3選。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28225": {
    "name": "藤岡勇",
@@ -7613,9 +7875,9 @@
   "28226": {
    "name": "戸田敦大",
    "office": "市長",
-   "termEnd": "2029-04-26",
+   "termEnd": "2029-05-07",
    "sourceUrl": "https://www.city.awaji.lg.jp/site/mayor/",
-   "note": "淡路市長。2025-04-27初当選(6選狙う現職門康彦を破る)。任期満了は概算。"
+   "note": "淡路市長。2025-04-27初当選(6選狙う現職門康彦を破る)。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28227": {
    "name": "福元晶三",
@@ -7627,23 +7889,23 @@
   "28228": {
    "name": "岩根正",
    "office": "市長",
-   "termEnd": "2030-05",
+   "termEnd": "2030-04-29",
    "sourceUrl": "https://www.kobe-np.co.jp/news/society/202604/0020260249.shtml",
-   "note": "加東市長。2026-04-26再選。自民・公明推薦。任期満了は概算。"
+   "note": "加東市長。2026-04-26再選。自民・公明推薦。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28229": {
    "name": "山本実",
    "office": "市長",
-   "termEnd": "2029-10-25",
+   "termEnd": "2029-11-12",
    "sourceUrl": "https://www.sun-tv.co.jp/suntvnews/news/2025/10/27/90341/",
-   "note": "たつの市長。2025-10-26に3選。任期満了は概算。"
+   "note": "たつの市長。2025-10-26に3選。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28301": {
    "name": "岡本信司",
    "office": "町長",
-   "termEnd": "2029-07-19",
+   "termEnd": "2029-07-31",
    "sourceUrl": "https://www.town.inagawa.lg.jp/soshiki/1005/gyomu/9/2/4_1/8578.html",
-   "note": "猪名川町長。2025-07-20に2選。任期満了は概算。"
+   "note": "猪名川町長。2025-07-20に2選。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28365": {
    "name": "吉田一四",
@@ -7669,16 +7931,17 @@
   "28442": {
    "name": "津田義和",
    "office": "町長",
-   "termEnd": "2027-08-09",
+   "termEnd": "2027-08-08",
    "sourceUrl": "https://uub.jp/lce/lce1.html",
-   "note": "市川町長。uub.jp現役首長一覧より。"
+   "note": "市川町長。uub.jp現役首長一覧より。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28443": {
-   "name": "尾﨑吉晴",
+   "name": "尾﨑𠮷晴",
    "office": "町長",
-   "termEnd": "2027-04-23",
-   "sourceUrl": "https://uub.jp/lce/lce1.html",
-   "note": "福崎町長。uub.jp現役首長一覧より(表記は尾﨑𠮷晴)。"
+   "sourceUrl": "https://www.town.fukusaki.hyogo.jp/category/2-17-0-0-0-0-0-0-0-0.html",
+   "kana": "おさき よしはる",
+   "termEnd": "2027-04-22",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "28446": {
    "name": "山名宗悟",
@@ -7704,9 +7967,9 @@
   "28501": {
    "name": "江見秀樹",
    "office": "町長",
-   "termEnd": "2029-10-25",
+   "termEnd": "2029-11-12",
    "sourceUrl": "https://www.kobe-np.co.jp/news/society/202510/0019635377.shtml",
-   "note": "佐用町長。2025-10-26初当選(元副町長、前職庵逧典章は5期で引退)。任期満了は概算。"
+   "note": "佐用町長。2025-10-26初当選(元副町長、前職庵逧典章は5期で引退)。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "28585": {
    "name": "浜上勇人",
@@ -7723,10 +7986,12 @@
    "note": "新温泉町長。2025-10-26に3選。任期満了は概算。"
   },
   "29201": {
-   "name": "仲川元庸",
+   "name": "仲川げん",
    "office": "市長",
-   "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC204YJ0Q5A720C2000000/",
-   "note": "通称「仲川げん」。2025-07-20の市長選で5選。"
+   "sourceUrl": "https://www.city.nara.lg.jp/adv/ba.php?id=219&ef1=9",
+   "kana": "なかがわ げん",
+   "termEnd": "2029-07-30",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "29202": {
    "name": "堀内大造",
@@ -7739,19 +8004,22 @@
    "name": "上田清",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC223260S5A620C2000000/",
-   "note": "2025-06-22の市長選で7選。"
+   "note": "2025-06-22の市長選で7選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-07-06"
   },
   "29204": {
    "name": "並河健",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC121IZ0S5A011C2000000/",
-   "note": "2025-10無投票で4選。"
+   "note": "2025-10無投票で4選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-27"
   },
   "29205": {
    "name": "亀田忠彦",
    "office": "市長",
    "sourceUrl": "https://www.pref.nara.lg.jp/n006/9686.html",
-   "note": "2023-10-22再選。奈良県市町村長一覧で確認。"
+   "note": "2023-10-22再選。奈良県市町村長一覧で確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-11-11"
   },
   "29206": {
    "name": "松井正剛",
@@ -7764,140 +8032,163 @@
    "name": "平岡清司",
    "office": "市長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20230513213717.html",
-   "note": "2023-04-26就任、1期目。"
+   "note": "2023-04-26就任、1期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "29208": {
    "name": "山田秀士",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC131PO0T11C24A0000000/",
-   "note": "2024-10無投票で初当選、1期目。前職の東川裕は不出馬（uub等旧データに注意）。"
+   "note": "2024-10無投票で初当選、1期目。前職の東川裕は不出馬（uub等旧データに注意）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-19"
   },
   "29209": {
    "name": "小紫雅史",
    "office": "市長",
    "sourceUrl": "https://www.pref.nara.lg.jp/n006/9686.html",
-   "note": "3期目。奈良県市町村長一覧で確認。"
+   "note": "3期目。奈良県市町村長一覧で確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "29210": {
    "name": "三橋和史",
    "office": "市長",
    "sourceUrl": "https://www.pref.nara.lg.jp/n006/9686.html",
-   "note": "2024-05当選、弁護士。奈良県市町村長一覧で確認。"
+   "note": "2024-05当選、弁護士。奈良県市町村長一覧で確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-06-02"
   },
   "29211": {
    "name": "阿古和彦",
    "office": "市長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20241027002013.html",
-   "note": "2024-10-27に3選。"
+   "note": "2024-10-27に3選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-30"
   },
   "29212": {
    "name": "金剛一智",
    "office": "市長",
    "sourceUrl": "https://seijiyama.jp/article/news/el20240513-2.html",
-   "note": "2024-05に2選。"
+   "note": "2024-05に2選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-06-27"
   },
   "29322": {
    "name": "野村栄作",
    "office": "村長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20250831205224.html",
-   "note": "2025-08-31に再選（2期目）。"
+   "note": "2025-08-31に再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-09-04"
   },
   "29342": {
    "name": "西脇洋貴",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20221116092005.html",
-   "note": "2022-11-20再選。奈良県市町村長一覧でも現職確認。"
+   "note": "2022-11-20再選。奈良県市町村長一覧でも現職確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2026-12-08"
   },
   "29343": {
    "name": "木谷慎一郎",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20240211221207.html",
-   "note": "2024-02-11初当選、1期目。"
+   "note": "2024-02-11初当選、1期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-02-10"
   },
   "29344": {
    "name": "中西和夫",
    "office": "町長",
    "sourceUrl": "https://www.town.ikaruga.nara.jp/0000002188.html",
-   "note": "2025-11-09再選、11-11初登庁。"
+   "note": "2025-11-09再選、11-11初登庁。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-11-10"
   },
   "29345": {
-   "name": "西本安博",
+   "name": "近藤晃一",
+   "kana": "こんどう こういち",
    "office": "町長",
-   "termEnd": "2026-07-23",
-   "sourceUrl": "https://www.nara-np.co.jp/news/20260707205848.html",
-   "note": "2026-07-13時点の現職。任期満了に伴い近藤晃一が2026-07-07告示・無投票で初当選、任期満了(7月下旬)後に就任予定。"
+   "sourceUrl": "https://www.town.ando.nara.jp/0000001010.html",
+   "termEnd": "2030-08-03",
+   "note": "2026-07-12 の町長選（任期満了に伴う）で無投票当選。2026-08-04 就任。"
   },
   "29361": {
    "name": "小澤晃広",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/senkyo/shichoson_c_detail22.html",
-   "note": "2025-07-20無投票で2選。"
+   "note": "2025-07-20無投票で2選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-08-04"
   },
   "29362": {
    "name": "森田浩司",
    "office": "町長",
    "sourceUrl": "https://www.town.miyake.lg.jp/site/executives/",
-   "note": "3期目（2024再選）。"
+   "note": "3期目（2024再選）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-07-27"
   },
   "29363": {
    "name": "高江啓史",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20240414205603.html",
-   "note": "2024-01-21初当選、1期目。"
+   "note": "2024-01-21初当選、1期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-01-30"
   },
   "29385": {
    "name": "細谷忠弘",
    "office": "村長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20260120182751.html",
-   "note": "2026-01-20無投票で初当選、1期目。前職の芝田秀数は勇退。"
+   "note": "2026-01-20無投票で初当選、1期目。前職の芝田秀数は勇退。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-02-01"
   },
   "29386": {
    "name": "伊藤収宜",
    "office": "村長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20231119210449.html",
-   "note": "2023-11-19に3選。"
+   "note": "2023-11-19に3選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-12-08"
   },
   "29401": {
    "name": "中川裕介",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20241110214008.html",
-   "note": "2024-11-10再選。"
+   "note": "2024-11-10再選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-28"
   },
   "29402": {
    "name": "森川裕一",
    "office": "村長",
    "sourceUrl": "https://www.pref.nara.lg.jp/n006/9686.html",
-   "note": "4期目。奈良県市町村長一覧で確認。"
+   "note": "4期目。奈良県市町村長一覧で確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-10-22"
   },
   "29424": {
    "name": "阪本正人",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20250325213217.html",
-   "note": "2025-03無投票で初当選、2025-03-24初登庁。"
+   "note": "2025-03無投票で初当選、2025-03-24初登庁。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-03-22"
   },
   "29425": {
    "name": "平井康之",
    "office": "町長",
    "sourceUrl": "https://www.town.oji.nara.jp/material/files/group/4/20250209senkyo.pdf",
-   "note": "2025-02に4選。"
+   "note": "2025-02に4選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-02-27"
   },
   "29426": {
    "name": "吉村裕之",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20250616000734.html",
-   "note": "2025-06-15初当選、1期目。"
+   "note": "2025-06-15初当選、1期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-06-30"
   },
   "29427": {
    "name": "森川喜之",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20230529214933.html",
-   "note": "2023-04当選。日本維新の会推薦で当選（大阪府外初）。"
+   "note": "2023-04当選。日本維新の会推薦で当選（大阪府外初）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "29441": {
    "name": "中井章太",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20240223210117.html",
-   "note": "2024-02再選、2期目、2024-02-23初登庁。"
+   "note": "2024-02再選、2期目、2024-02-23初登庁。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-02-21"
   },
   "29442": {
    "name": "辻本眞宏",
@@ -7910,170 +8201,198 @@
    "name": "仲嶋久雄",
    "office": "町長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20241110221008.html",
-   "note": "2024-11-10初当選、2024-11-27就任。"
+   "note": "2024-11-10初当選、2024-11-27就任。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-26"
   },
   "29444": {
    "name": "植田忠三郎",
    "office": "村長",
    "sourceUrl": "https://www.vill.kurotaki.nara.jp/gyosei/tousen20230423/",
-   "note": "2023-04-23無投票当選、2023-04-24就任。"
+   "note": "2023-04-23無投票当選、2023-04-24就任。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-22"
   },
   "29446": {
    "name": "車谷重高",
    "office": "村長",
    "sourceUrl": "https://www.pref.nara.lg.jp/n006/9686.html",
-   "note": "4期目（2023-01再選）。奈良県市町村長一覧で確認。"
+   "note": "4期目（2023-01再選）。奈良県市町村長一覧で確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "29447": {
    "name": "吉井善嗣",
    "office": "村長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20260609211052.html",
-   "note": "2026-06無投票で再選（2期目）。"
+   "note": "2026-06無投票で再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-06-19"
   },
   "29449": {
    "name": "玉置広之",
    "office": "村長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20250420213616.html",
-   "note": "2025-04-20初当選、1期目。"
+   "note": "2025-04-20初当選、1期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-24"
   },
   "29450": {
    "name": "南正文",
    "office": "村長",
    "sourceUrl": "https://www.pref.nara.lg.jp/n006/9686.html",
-   "note": "奈良県市町村長一覧（2026-05-14現在）で氏名確認。"
+   "note": "奈良県市町村長一覧（2026-05-14現在）で氏名確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-29"
   },
   "29451": {
    "name": "山室潔",
    "office": "村長",
    "sourceUrl": "https://www.nara-np.co.jp/news/20241202210741.html",
-   "note": "2024-12無投票で3選。奈良県市町村長一覧でも確認。"
+   "note": "2024-12無投票で3選。奈良県市町村長一覧でも確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-12-22"
   },
   "29452": {
    "name": "泉谷隆夫",
    "office": "村長",
    "sourceUrl": "https://www.vill.kawakami.nara.jp/life/docs/2017012800243/",
-   "note": "2024-07-25就任、1期目。奈良県市町村長一覧でも確認。"
+   "kana": "いずたに たかお",
+   "termEnd": "2028-07-24",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "29453": {
    "name": "鍵谷典秀",
    "office": "村長",
    "sourceUrl": "https://www.pref.nara.lg.jp/n006/9686.html",
-   "note": "通称「かぎ谷のりひで」。2026-04-26初当選、2026-05-14初登庁、1期目。"
+   "note": "通称「かぎ谷のりひで」。2026-04-26初当選、2026-05-14初登庁、1期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-05-13"
   },
   "30201": {
-   "name": "尾花正啓",
+   "name": "尾崎太郎",
+   "kana": "おざき たろう",
    "office": "市長",
-   "termEnd": "2026-08-24",
-   "sourceUrl": "https://www.city.wakayama.wakayama.jp/1009555/1002823.html",
-   "note": "和歌山市長。3期目、任期満了2026-08-24。次期市長選は2026-08-09投票（現時点で未執行）のため現職。がん治療専念で不出馬表明。"
+   "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260809de42978",
+   "termEnd": "2030-08-24",
+   "note": "2026-08-09 の市長選（任期満了に伴う）で当選。2026-08-25 就任。"
   },
   "30202": {
    "name": "神出政巳",
    "office": "市長",
    "sourceUrl": "https://wakayamashimpo.co.jp/2025/04/20250408_131062.html",
-   "note": "海南市長。2025-04-08告示で無投票6選。任期満了は推定2029年春。"
+   "note": "海南市長。2025-04-08告示で無投票6選。任期満了は推定2029年春。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-23"
   },
   "30203": {
    "name": "平木哲朗",
    "office": "市長",
    "sourceUrl": "https://www.city.hashimoto.lg.jp/shisei/shicho_room/mayor_profile.html",
-   "note": "橋本市長。2026-03-22投票で4選。任期満了は推定2030年春。"
+   "note": "橋本市長。2026-03-22投票で4選。任期満了は推定2030年春。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-04-01"
   },
   "30204": {
    "name": "玉木久登",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC013BD0R00C24A9000000/",
-   "note": "有田市長。2024-09-01初当選（前市長望月良男の退任・後の参院選出馬に伴う）。任期満了は推定2028年秋。"
+   "note": "有田市長。2024-09-01初当選（前市長望月良男の退任・後の参院選出馬に伴う）。任期満了は推定2028年秋。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-09-16"
   },
   "30205": {
    "name": "三浦源吾",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC263580W4A520C2000000/",
-   "note": "御坊市長。2024-05-26再選（2期目）。任期満了は推定2028年6月。"
+   "note": "御坊市長。2024-05-26再選（2期目）。任期満了は推定2028年6月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-06-10"
   },
   "30206": {
    "name": "真砂充敏",
    "office": "市長",
    "sourceUrl": "https://www.city.tanabe.lg.jp/shichonoheya/546.html",
-   "note": "田辺市長。2025-04-27に6選。任期満了は推定2029年春。"
+   "note": "田辺市長。2025-04-27に6選。任期満了は推定2029年春。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-05-21"
   },
   "30207": {
    "name": "上田勝之",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC262FO0W5A021C2000000/",
-   "note": "新宮市長。2025-10-26初当選（前市長田岡実千年の勇退に伴う）。任期満了は推定2029年秋。"
+   "note": "新宮市長。2025-10-26初当選（前市長田岡実千年の勇退に伴う）。任期満了は推定2029年秋。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-29"
   },
   "30208": {
    "name": "岸本健",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC251RY0V20C26A1000000/",
-   "note": "紀の川市長。2026-01-25告示で無投票2選（投票日2026-02-01）。任期満了は推定2030年2月。"
+   "note": "紀の川市長。2026-01-25告示で無投票2選（投票日2026-02-01）。任期満了は推定2030年2月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-02-26"
   },
   "30209": {
    "name": "中芝正幸",
    "office": "市長",
    "sourceUrl": "https://wakayamashimpo.co.jp/2024/09/20240925_127779.html",
-   "note": "岩出市長。2024-09-22無投票当選（市長として5選、旧岩出町長含め通算8選）。任期満了は推定2028年秋。"
+   "note": "岩出市長。2024-09-22無投票当選（市長として5選、旧岩出町長含め通算8選）。任期満了は推定2028年秋。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-18"
   },
   "30304": {
    "name": "小川裕康",
    "office": "町長",
    "sourceUrl": "https://wakayamashimpo.co.jp/2025/09/20250902_133445.html",
-   "note": "紀美野町長。2025-08-31再選（2期目、公明推薦）。任期満了は推定2029年秋。"
+   "note": "紀美野町長。2025-08-31再選（2期目、公明推薦）。任期満了は推定2029年秋。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-09-11"
   },
   "30341": {
    "name": "中阪雅則",
    "office": "町長",
    "sourceUrl": "https://www.town.katsuragi.wakayama.jp/050/010/2021-0318-1624-13.html",
-   "note": "かつらぎ町長。2019-10就任、2023-10再選。任期満了は推定2027年10月。"
+   "note": "かつらぎ町長。2019-10就任、2023-10再選。任期満了は推定2027年10月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-10-13"
   },
   "30343": {
    "name": "岡本章",
    "office": "町長",
    "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "九度山町長。2026-04-19で6選。任期満了は推定2030年春。"
+   "note": "九度山町長。2026-04-19で6選。任期満了は推定2030年春。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-05-12"
   },
   "30344": {
    "name": "平野嘉也",
    "office": "町長",
    "sourceUrl": "https://www.town.koya.wakayama.jp/town/profile/538.html",
-   "note": "高野町長。2026-04-07無投票4選（自民推薦）。任期満了は推定2030年春。"
+   "note": "高野町長。2026-04-07無投票4選（自民推薦）。任期満了は推定2030年春。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-04-30"
   },
   "30361": {
-   "name": "上山章善",
    "office": "町長",
-   "sourceUrl": "https://www.town.yuasa.wakayama.jp/soshiki/3/3064.html",
-   "note": "湯浅町長。2024-09-01無投票当選。全国最高齢首長。任期満了は推定2028年秋。"
+   "sourceUrl": "https://www.town.yuasa.wakayama.jp/soshiki/3/11844.html",
+   "vacant": true,
+   "note": "2026-09-01 に前町長が辞職し欠員（職務代理者が代行）。町長選は 2026-10-18 投開票予定。"
   },
   "30362": {
    "name": "樫原淳奈",
    "office": "町長",
    "sourceUrl": "https://news.wbs.co.jp/201785",
-   "note": "広川町長。2024-11-24初当選（前町長西岡利記の死去に伴う。48歳・元町議長）。任期満了は推定2028年11月。"
+   "note": "広川町長。2024-11-24初当選（前町長西岡利記の死去に伴う。48歳・元町議長）。任期満了は推定2028年11月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-23"
   },
   "30366": {
    "name": "坂頭徳彦",
    "office": "町長",
    "sourceUrl": "https://go2senkyo.com/local/senkyo/26249",
-   "note": "有田川町長。2026-02-01初当選（前町長中山正隆の引退に伴い8218票で当選）。任期満了は推定2030年2月。"
+   "note": "有田川町長。2026-02-01初当選（前町長中山正隆の引退に伴い8218票で当選）。任期満了は推定2030年2月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-02-04"
   },
   "30381": {
    "name": "籔内美和子",
    "office": "町長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E7%B1%94%E5%86%85%E7%BE%8E%E5%92%8C%E5%AD%90",
-   "note": "美浜町長。2023-02-12再選（2期目）。和歌山県初の女性首長。任期満了は推定2027年2月。"
+   "note": "美浜町長。2023-02-12再選（2期目）。和歌山県初の女性首長。任期満了は推定2027年2月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-03-03"
   },
   "30382": {
    "name": "松本秀司",
    "office": "町長",
    "sourceUrl": "https://kisyushimbun.hatenablog.jp/entry/2026/04/23/083000",
-   "note": "日高町長。2026-04-21無投票4選。任期満了は推定2030年春。"
+   "note": "日高町長。2026-04-21無投票4選。任期満了は推定2030年春。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-05-10"
   },
   "30383": {
    "name": "山名実",
    "office": "町長",
    "sourceUrl": "https://hidakashimpo.co.jp/?p=92573",
-   "note": "由良町長。2024-04-23に2期目初登庁（無投票2選）。任期満了は推定2028年4月。"
+   "note": "由良町長。2024-04-23に2期目初登庁（無投票2選）。任期満了は推定2028年4月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-05-18"
   },
   "30390": {
    "name": "日裏勝己",
@@ -8086,55 +8405,64 @@
    "name": "山本秀平",
    "office": "町長",
    "sourceUrl": "https://www.agara.co.jp/article/416489",
-   "note": "みなべ町長。2024-09-29初当選（前町長小谷芳正の死去に伴う。32歳）。任期満了は推定2028年秋。"
+   "note": "みなべ町長。2024-09-29初当選（前町長小谷芳正の死去に伴う。32歳）。任期満了は推定2028年秋。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-09-28"
   },
   "30392": {
    "name": "久留米啓史",
    "office": "町長",
    "sourceUrl": "https://news.wbs.co.jp/206872",
-   "note": "日高川町長。2025-05に3回連続無投票当選（3期目）。任期満了は推定2029年5月。"
+   "note": "日高川町長。2025-05に3回連続無投票当選（3期目）。任期満了は推定2029年5月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-05-28"
   },
   "30401": {
    "name": "大江康弘",
    "office": "町長",
    "sourceUrl": "https://www.agara.co.jp/article/369642",
-   "note": "白浜町長。2024-04-28初当選（元参院議員、現職井澗誠を破る）。任期満了は推定2028年4月。"
+   "note": "白浜町長。2024-04-28初当選（元参院議員、現職井澗誠を破る）。任期満了は推定2028年4月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-05-12"
   },
   "30404": {
    "name": "奥田誠",
    "office": "町長",
    "sourceUrl": "https://www.agara.co.jp/article/591804",
-   "note": "上富田町長。2026-01-25で3選。任期満了は推定2030年1月。"
+   "note": "上富田町長。2026-01-25で3選。任期満了は推定2030年1月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-02-04"
   },
   "30406": {
    "name": "岩田勉",
    "office": "町長",
    "sourceUrl": "https://news.wbs.co.jp/183887",
-   "note": "すさみ町長。2023-04-18無投票4選（自民県連推薦）。任期満了は推定2027年春。"
+   "note": "すさみ町長。2023-04-18無投票4選（自民県連推薦）。任期満了は推定2027年春。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "30421": {
    "name": "堀順一郎",
    "office": "町長",
    "sourceUrl": "https://www.agara.co.jp/article/628928",
-   "note": "那智勝浦町長。2026-04-26で3選（4110票）。任期満了は推定2030年春。"
+   "note": "那智勝浦町長。2026-04-26で3選（4110票）。任期満了は推定2030年春。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-05-19"
   },
   "30424": {
    "name": "大屋一成",
    "office": "町長",
    "sourceUrl": "https://www.agara.co.jp/article/379717",
-   "note": "古座川町長。2024-06-02初当選（現職西前啓市を破る）。任期満了は推定2028年6月。"
+   "note": "古座川町長。2024-06-02初当選（現職西前啓市を破る）。任期満了は推定2028年6月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-06-14"
   },
   "30427": {
    "name": "泉清久",
    "office": "村長",
    "sourceUrl": "https://www.vill.kitayama.wakayama.jp/about/message.html",
-   "note": "北山村長。村公式サイト『村長からのメッセージ』で現職として署名を確認（前村長は山口賢二）。選挙日・任期は公開情報未確認。"
+   "note": "北山村長。村公式サイト『村長からのメッセージ』で現職として署名を確認（前村長は山口賢二）。選挙日・任期は公開情報未確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-07-25"
   },
   "30428": {
    "name": "田嶋勝正",
    "office": "町長",
    "sourceUrl": "https://www.agara.co.jp/article/483763",
-   "note": "串本町長。2025-04-13で5選（4855票）。任期満了は推定2029年春。"
+   "note": "串本町長。2025-04-13で5選（4855票）。任期満了は推定2029年春。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-30"
   },
   "31201": {
    "name": "深澤義彦",
@@ -8179,11 +8507,12 @@
    "note": "若桜町長。2026年再選。"
   },
   "31328": {
-   "name": "金児英夫",
+   "name": "金兒英夫",
    "office": "町長",
-   "termEnd": "2028-06-19",
    "sourceUrl": "https://www.pref.tottori.lg.jp/12519.htm",
-   "note": "智頭町長。2024-06就任。"
+   "kana": "かねこ ひでお",
+   "termEnd": "2028-06-19",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "31329": {
    "name": "矢部啓祐",
@@ -8202,9 +8531,9 @@
   "31370": {
    "name": "宮脇正道",
    "office": "町長",
-   "termEnd": "2026-09-30",
-   "sourceUrl": "https://www.pref.tottori.lg.jp/12519.htm",
-   "note": "湯梨浜町長(5期)。次期選挙2026-09-13予定。任期満了2026-09-30。"
+   "termEnd": "2030-09-30",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（6期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "31371": {
    "name": "福本まり子",
@@ -8321,9 +8650,9 @@
   "32343": {
    "name": "糸原保",
    "office": "町長",
-   "termEnd": "2026-09-20",
-   "sourceUrl": "https://www.town.okuizumo.shimane.jp/www/genre/1000100000079/index.html",
-   "note": "奥出雲町長。2022年9月無投票初当選。任期満了令和8年9月20日(2026年改選予定)。読み:いとはらたもつ。"
+   "termEnd": "2030-09-20",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "32386": {
    "name": "塚原隆昭",
@@ -8398,16 +8727,16 @@
   "33202": {
    "name": "伊東香織",
    "office": "市長",
-   "termEnd": "2028-04",
+   "termEnd": "2028-05-18",
    "sourceUrl": "https://www.city.kurashiki.okayama.jp/cityinfo/mayor/index.html",
-   "note": "倉敷市長。2024年4月に5選、現職。読み:いとう・かおり"
+   "note": "倉敷市長。2024年4月に5選、現職。読み:いとう・かおり。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "33203": {
    "name": "光井聡",
    "office": "市長",
-   "termEnd": "2030-02-24",
+   "termEnd": "2030-02-26",
    "sourceUrl": "https://www.sanyonews.jp/article/1870273",
-   "note": "津山市長。2026-02-08当選、2026-02-25就任。前職の谷口圭三を破った新市長。読み:みつい・さとし"
+   "note": "津山市長。2026-02-08当選、2026-02-25就任。前職の谷口圭三を破った新市長。読み:みつい・さとし。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "33204": {
    "name": "柴田義朗",
@@ -8426,9 +8755,9 @@
   "33207": {
    "name": "大舌勲",
    "office": "市長",
-   "termEnd": "2026-09-15",
-   "sourceUrl": "https://go2senkyo.com/local/senkyo/25987",
-   "note": "井原市長、現職。任期満了2026-09-15、2026年秋の市長選予定。読み:おおした・いさお"
+   "termEnd": "2030-09-15",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（3期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "33208": {
    "name": "片岡聡一",
@@ -8447,9 +8776,9 @@
   "33210": {
    "name": "石田實",
    "office": "市長",
-   "termEnd": "2028-11",
+   "termEnd": "2028-12-02",
    "sourceUrl": "https://www.sanyonews.jp/article/1639451",
-   "note": "新見市長。2024-11-17初当選、現職戎氏を破る。読み:いしだ・みのる"
+   "note": "新見市長。2024-11-17初当選、現職戎氏を破る。読み:いしだ・みのる。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "33211": {
    "name": "長崎信行",
@@ -8468,9 +8797,9 @@
   "33213": {
    "name": "前田正之",
    "office": "市長",
-   "termEnd": "2029-03",
+   "termEnd": "2029-04-16",
    "sourceUrl": "https://www.sanyonews.jp/article/1698395",
-   "note": "赤磐市長。2025-03-23初当選、前副市長。友實武則の4選を阻む。読み:まえだ・まさゆき"
+   "note": "赤磐市長。2025-03-23初当選、前副市長。友實武則の4選を阻む。読み:まえだ・まさゆき。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "33214": {
    "name": "太田昇",
@@ -8501,11 +8830,12 @@
    "note": "和気町長。2026-04-05再選(2期目)。読み:おおた・けいすけ"
   },
   "33423": {
-   "name": "中川真寿男",
+   "name": "佐藤博文",
+   "kana": "さとう ひろふみ",
    "office": "町長",
-   "termEnd": "2027-07",
-   "sourceUrl": "https://go2senkyo.com/local/senkyo/22163",
-   "note": "早島町長。2023-07-30に3選、現職。読み:なかがわ・ますお"
+   "sourceUrl": "https://www.town.hayashima.lg.jp/soshiki/machizukuri_kikaku/gyomu/chocho/934.html",
+   "termEnd": "2027-08-27",
+   "note": "2026-07-13 版の氏名の誤りを訂正。現任期は 2023-08-28 から。"
   },
   "33445": {
    "name": "赤木功",
@@ -8522,18 +8852,19 @@
    "note": "矢掛町長。2026-04-26再選、2026-05-20から任期。読み:やまおか・あつし"
   },
   "33586": {
-   "name": "小倉博俊",
+   "name": "石藤延史",
+   "kana": "いしどう のぶちか",
    "office": "村長",
-   "termEnd": "2026-09",
-   "sourceUrl": "http://www.vill.shinjo.okayama.jp/",
-   "note": "新庄村長、現職(7期)。2026-07-13時点で在任。2026-06に引退表明、8月30日の村長選には不出馬。読み:おぐら・ひろとし"
+   "sourceUrl": "http://www.vill.shinjo.okayama.jp/index.php?id=81",
+   "termEnd": "2030-09-07",
+   "note": "2026-08-30 の村長選（任期満了に伴う）で当選。2026-09-08 就任。"
   },
   "33606": {
    "name": "瀬島栄史",
    "office": "町長",
-   "termEnd": "2028",
+   "termEnd": "2029-04-09",
    "sourceUrl": "https://www.sanyonews.jp/article/1702140",
-   "note": "鏡野町長。2024年に初当選(前町総合政策室長、山崎親男の後任)。読み:せじま・えいし"
+   "note": "鏡野町長。2024年に初当選(前町総合政策室長、山崎親男の後任)。読み:せじま・えいし。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "33622": {
    "name": "水嶋淳治",
@@ -8552,9 +8883,9 @@
   "33643": {
    "name": "青木秀樹",
    "office": "村長",
-   "termEnd": "2027-08",
+   "termEnd": "2027-09-09",
    "sourceUrl": "https://news.ksb.co.jp/article/14991093",
-   "note": "西粟倉村長。2023-08に4選(9票差)、現職。読み:あおき・ひでき"
+   "note": "西粟倉村長。2023-08に4選(9票差)、現職。読み:あおき・ひでき。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "33663": {
    "name": "片山篤",
@@ -8567,7 +8898,8 @@
    "name": "青野高陽",
    "office": "町長",
    "sourceUrl": "https://www.town.misaki.okayama.jp/site/mayor/",
-   "note": "美咲町長、現職。任期満了日は未確認。読み:あおの・たかはる"
+   "note": "美咲町長、現職。任期満了日は未確認。読み:あおの・たかはる。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2026-12-08"
   },
   "33681": {
    "name": "山本雅則",
@@ -8607,9 +8939,9 @@
   "34207": {
    "name": "枝広直幹",
    "office": "市長",
-   "termEnd": "2028-08",
+   "termEnd": "2028-09-04",
    "sourceUrl": "https://www.city.fukuyama.hiroshima.jp/soshiki/hisho/2555.html",
-   "note": "福山市長。2024年8月11日投開票で3選。名は枝廣直幹とも表記。"
+   "note": "福山市長。2024年8月11日投開票で3選。名は枝廣直幹とも表記。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "34208": {
    "name": "荻野雅裕",
@@ -8649,9 +8981,9 @@
   "34213": {
    "name": "松本太郎",
    "office": "市長",
-   "termEnd": "2027-05",
+   "termEnd": "2027-11-02",
    "sourceUrl": "https://www.city.hatsukaichi.hiroshima.jp/site/mayor/26612.html",
-   "note": "廿日市市長。2023年に無投票再選、2期目。"
+   "note": "廿日市市長。2023年に無投票再選、2期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "34214": {
    "name": "藤本悦志",
@@ -8691,9 +9023,10 @@
   "34309": {
    "name": "吉田隆行",
    "office": "町長",
-   "termEnd": "2029-01",
    "sourceUrl": "https://www.town.saka.lg.jp/mayors-room/greeting/",
-   "note": "安芸郡坂町長。2025年1月26日投開票で9選（44年ぶりの選挙戦）。"
+   "kana": "よしだ たかゆき",
+   "termEnd": "2029-02-07",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "34368": {
    "name": "橋本博明",
@@ -8734,7 +9067,8 @@
    "name": "前田晋太郎",
    "office": "市長",
    "sourceUrl": "https://www.city.shimonoseki.lg.jp/site/mayor/4716.html",
-   "note": "現職・下関市長。2026-02-22の市長選で3選（山口新聞速報）。就任2017年3月。"
+   "note": "現職・下関市長。2026-02-22の市長選で3選（山口新聞速報）。就任2017年3月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-03-26"
   },
   "35202": {
    "name": "篠﨑圭二",
@@ -8747,86 +9081,99 @@
    "name": "伊藤和貴",
    "office": "市長",
    "sourceUrl": "https://www.city.yamaguchi.lg.jp/site/shicho/5977.html",
-   "note": "2021年初当選、2025年10月再選（2期）。"
+   "note": "2021年初当選、2025年10月再選（2期）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-11-12"
   },
   "35204": {
    "name": "田中文夫",
    "office": "市長",
    "sourceUrl": "https://www.city.hagi.lg.jp/site/shityoushitsu/2778.html",
-   "note": "2021-03-27就任、2025年3月再選（2期）。"
+   "note": "2021-03-27就任、2025年3月再選（2期）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-03-26"
   },
   "35206": {
    "name": "池田豊",
    "office": "市長",
    "sourceUrl": "https://www.city.hofu.yamaguchi.jp/soshiki/116/mayor-profile.html",
-   "note": "2026-05-24の市長選で3選（池田ゆたか）。自民・国民・公明推薦。"
+   "note": "2026-05-24の市長選で3選（池田ゆたか）。自民・国民・公明推薦。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-06-20"
   },
   "35207": {
    "name": "国井益雄",
    "office": "市長",
    "sourceUrl": "https://www.city.kudamatsu.lg.jp/senkan/senkan/sichosen.html",
-   "note": "2024-04-14市長選で再選、現職。"
+   "note": "2024-04-14市長選で再選、現職。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-04-24"
   },
   "35208": {
    "name": "福田良彦",
    "office": "市長",
    "sourceUrl": "https://www.city.iwakuni.lg.jp/soshiki/2/6548.html",
-   "note": "現職・岩国市長、5期。"
+   "note": "現職・岩国市長、5期。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-02-09"
   },
   "35210": {
    "name": "芳岡統",
    "office": "市長",
    "sourceUrl": "https://www.city.hikari.lg.jp/soshiki/1/hishoshitsu/shisei/2/3075.html",
-   "note": "2024年10月初当選（前市長市川熙の後継）。"
+   "note": "2024年10月初当選（前市長市川熙の後継）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-13"
   },
   "35211": {
    "name": "江原達也",
    "office": "市長",
    "sourceUrl": "https://www.city.nagato.yamaguchi.jp/site/shicho/",
-   "note": "2023-11-19再選（2期）。"
+   "note": "2023-11-19再選（2期）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-11-26"
   },
   "35212": {
    "name": "井原健太郎",
    "office": "市長",
    "sourceUrl": "https://www.city-yanai.jp/site/mayor-room/mayor-profile.html",
-   "note": "2025-03-02市長選で5選、自民推薦。"
+   "note": "2025-03-02市長選で5選、自民推薦。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-03-26"
   },
   "35213": {
    "name": "篠田洋司",
    "office": "市長",
    "sourceUrl": "https://www2.city.mine.lg.jp/soshiki/somubu/somuka/shichoshitsu/profile/1027.html",
-   "note": "2020年初当選、2024-04-21再選（2期）。"
+   "note": "2020年初当選、2024-04-21再選（2期）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-04-26"
   },
   "35215": {
    "name": "藤井律子",
    "office": "市長",
    "sourceUrl": "https://www.city.shunan.lg.jp/soshiki/4/36535.html",
-   "note": "2019-05-25就任、再選（2期）。"
+   "note": "2019-05-25就任、再選（2期）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-05-24"
   },
   "35216": {
    "name": "藤田剛二",
    "office": "市長",
    "sourceUrl": "https://www.city.sanyo-onoda.lg.jp/soshiki/2/purohu-sichou.html",
-   "note": "2025-04無投票で3選。"
+   "note": "2025-04無投票で3選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-23"
   },
   "35305": {
    "name": "藤本淨孝",
    "office": "町長",
    "sourceUrl": "https://www.town.suo-oshima.lg.jp/soshiki/3/1051.html",
-   "note": "2024-10-27再選。自民・公明推薦。表記は藤本淨孝。"
+   "note": "2024-10-27再選。自民・公明推薦。表記は藤本淨孝。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-13"
   },
   "35321": {
    "name": "坂本啓三",
    "office": "町長",
    "sourceUrl": "https://www.town.waki.lg.jp/",
-   "note": "2024年8月、24年ぶりの投票選挙で新人として初当選。"
+   "note": "2024年8月、24年ぶりの投票選挙で新人として初当選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-09-18"
   },
   "35341": {
    "name": "西哲夫",
    "office": "町長",
-   "termEnd": "2026-10-22",
-   "sourceUrl": "https://go2senkyo.com/local/senkyo/26326",
-   "note": "2022年就任。任期満了2026-10-22、現職（2026-07-13時点）。"
+   "termEnd": "2030-10-22",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "35343": {
    "name": "東浩二",
@@ -8839,13 +9186,15 @@
    "name": "浅本邦裕",
    "office": "町長",
    "sourceUrl": "https://www.town.hirao.lg.jp/gyosei/choucho/index.html",
-   "note": "2018年就任、現職（2期）。任期満了2026年11月頃。"
+   "note": "2018年就任、現職（2期）。任期満了2026年11月頃。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2026-12-10"
   },
   "35502": {
    "name": "花田憲彦",
    "office": "町長",
    "sourceUrl": "https://www.town.abu.lg.jp/15154/",
-   "note": "2025-04-20市長選で3選。"
+   "note": "2025-04-20市長選で3選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-30"
   },
   "36201": {
    "name": "遠藤彰良",
@@ -8892,9 +9241,9 @@
   "36207": {
    "name": "加美一成",
    "office": "市長",
-   "termEnd": "2026-10-01",
-   "sourceUrl": "https://www.pref.tokushima.lg.jp/FAQ/docs/7240511/",
-   "note": "美馬市長。任期満了日は徳島県公式PDFによる。"
+   "termEnd": "2030-10-01",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（2期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "36208": {
    "name": "高井美穂",
@@ -9018,9 +9367,9 @@
   "37201": {
    "name": "大西秀人",
    "office": "市長",
-   "termEnd": "2027-04-23",
+   "termEnd": "2027-05-01",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E7%A7%80%E4%BA%BA",
-   "note": "高松市長。5期目、2023.4.23投開票で当選。任期満了は概算(就任翌日から4年)。"
+   "note": "高松市長。5期目、2023.4.23投開票で当選。任期満了は概算(就任翌日から4年)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "37202": {
    "name": "松永恭二",
@@ -9053,9 +9402,9 @@
   "37206": {
    "name": "大山茂樹",
    "office": "市長",
-   "termEnd": "2030-04",
+   "termEnd": "2030-05-11",
    "sourceUrl": "https://go2senkyo.com/local/senkyo/23662",
-   "note": "さぬき市長。2026.4.26投開票で6選。任期満了は概算。"
+   "note": "さぬき市長。2026.4.26投開票で6選。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "37207": {
    "name": "上村一郎",
@@ -9102,9 +9451,9 @@
   "37386": {
    "name": "谷川俊博",
    "office": "町長",
-   "termEnd": "2026-10-19",
-   "sourceUrl": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%B7%9D%E4%BF%8A%E5%8D%9A",
-   "note": "宇多津町長。4期目、任期満了2026.10.19、2026.9に選挙予定(現時点で現職)。"
+   "termEnd": "2030-10-19",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（5期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "37387": {
    "name": "前田武俊",
@@ -9145,85 +9494,100 @@
    "name": "徳永繁樹",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC092VW0Z00C25A2000000/",
-   "note": "今治市長。2025-02の市長選で再選。"
+   "note": "今治市長。2025-02の市長選で再選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-02-19"
   },
   "38203": {
    "name": "岡原文彰",
    "office": "市長",
    "sourceUrl": "https://www.city.uwajima.ehime.jp/soshiki/40/20250831senkyo-sokuhou-shityou.html",
-   "note": "宇和島市長。2025-08-31選で3選。"
+   "note": "宇和島市長。2025-08-31選で3選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-09-10"
   },
   "38204": {
    "name": "大城一郎",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9F%8E%E4%B8%80%E9%83%8E",
-   "note": "八幡浜市長。2025年無投票で5選。"
+   "note": "八幡浜市長。2025年無投票で5選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-23"
   },
   "38205": {
    "name": "古川拓哉",
    "office": "市長",
    "sourceUrl": "https://go2senkyo.com/local/senkyo/23659",
-   "note": "新居浜市長。2024-11-10選で初当選。"
+   "note": "新居浜市長。2024-11-10選で初当選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-17"
   },
   "38206": {
    "name": "越智三義",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC172RO0X10C26A5000000/",
-   "note": "西条市長。2026-05-17出直し選で初当選（前副市長）。"
+   "note": "西条市長。2026-05-17出直し選で初当選（前副市長）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-05-16"
   },
   "38207": {
    "name": "二宮隆久",
    "office": "市長",
-   "sourceUrl": "https://www.ehime-np.co.jp/online/election/ozu_mayor2026/flash/",
-   "note": "大洲市長。2026-04-26選で3選。"
+   "sourceUrl": "https://www.city.ozu.ehime.jp/site/shicho/1143.html",
+   "kana": "にのみや たかひさ",
+   "termEnd": "2030-05-19",
+   "note": "氏名の表記は自治体公式に合わせた。"
   },
   "38210": {
    "name": "武智邦典",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC202I80Q5A420C2000000/",
-   "note": "伊予市長。2025-04-20選で4選。"
+   "note": "伊予市長。2025-04-20選で4選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-23"
   },
   "38213": {
    "name": "大西賢治",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC202EZ0Q5A420C2000000/",
-   "note": "四国中央市長。2025-04-20選で初当選。"
+   "note": "四国中央市長。2025-04-20選で初当選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-27"
   },
   "38214": {
    "name": "管家一夫",
    "office": "市長",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC2124I0R20C24A4000000/",
-   "note": "西予市長。2024年無投票で3選（2024-05就任）。かんけ かずお。"
+   "note": "西予市長。2024年無投票で3選（2024-05就任）。かんけ かずお。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-05-15"
   },
   "38215": {
    "name": "加藤章",
    "office": "市長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E7%AB%A0_(%E6%9D%B1%E6%B8%A9%E5%B8%82%E9%95%B7)",
-   "note": "東温市長。2024-10-27選で3選。かとう あきら。"
+   "note": "東温市長。2024-10-27選で3選。かとう あきら。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-06"
   },
   "38386": {
    "name": "河野忠康",
    "office": "町長",
    "sourceUrl": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E9%87%8E%E5%BF%A0%E5%BA%B7",
-   "note": "久万高原町長。2024-08無投票で3選、2024-09-12就任。こうの ただやす。"
+   "note": "久万高原町長。2024-08無投票で3選、2024-09-12就任。こうの ただやす。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-09-11"
   },
   "38401": {
    "name": "田中浩介",
    "office": "町長",
    "sourceUrl": "https://www.ehime-np.co.jp/article/news202311260064",
-   "note": "松前町長。2023-11-26選で初当選。たなか こうすけ。"
+   "note": "松前町長。2023-11-26選で初当選。たなか こうすけ。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-12-10"
   },
   "38402": {
    "name": "古谷崇洋",
    "office": "町長",
    "sourceUrl": "https://www.ehime-np.co.jp/article/news202501260226",
-   "note": "砥部町長。2025-01-26選で初当選（元南海放送アナウンサー）。ふるや たかひろ。"
+   "note": "砥部町長。2025-01-26選で初当選（元南海放送アナウンサー）。ふるや たかひろ。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-02-05"
   },
   "38422": {
    "name": "小野植正久",
    "office": "町長",
    "sourceUrl": "https://www.ehime-np.co.jp/online/election/uchiko_mayor2025/list/",
-   "note": "内子町長。2025-01-26選で再選。おのうえ まさひさ。"
+   "note": "内子町長。2025-01-26選で再選。おのうえ まさひさ。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-02-05"
   },
   "38442": {
    "name": "高門清彦",
@@ -9236,492 +9600,532 @@
    "name": "坂本浩",
    "office": "町長",
    "sourceUrl": "https://www.town.matsuno.ehime.jp/site/chocho/4885.html",
-   "note": "松野町長。2024-11無投票で3選。さかもと ひろし。"
+   "note": "松野町長。2024-11無投票で3選。さかもと ひろし。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-27"
   },
   "38488": {
    "name": "兵頭誠亀",
    "office": "町長",
    "sourceUrl": "https://www.ehime-np.co.jp/article/news202504140012",
-   "note": "鬼北町長。2025-04-13選で3選。ひょうどう せいき。"
+   "note": "鬼北町長。2025-04-13選で3選。ひょうどう せいき。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-15"
   },
   "38506": {
    "name": "中村維伯",
    "office": "町長",
    "sourceUrl": "https://www.town.ainan.ehime.jp/kurashi/chosei/senkyo/senkyokekka/R6-chochosen-kaihyokekka.html",
-   "note": "愛南町長。2024年選で当選、2024-10-31就任。"
+   "note": "愛南町長。2024年選で当選、2024-10-31就任。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-30"
   },
   "39201": {
    "name": "桑名龍吾",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "高知市長。高知県【R8.5.1時点】市町村長等名簿より。2023年11月就任。"
+   "note": "高知市長。高知県【R8.5.1時点】市町村長等名簿より。2023年11月就任。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-11-29"
   },
   "39202": {
    "name": "植田壯一郎",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "室戸市長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "室戸市長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2026-12-03"
   },
   "39203": {
    "name": "西内直彦",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "安芸市長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "安芸市長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-09-02"
   },
   "39204": {
    "name": "平山耕三",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "南国市長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "南国市長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-08-05"
   },
   "39205": {
    "name": "板原啓文",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "土佐市長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "土佐市長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-10-28"
   },
   "39206": {
    "name": "楠瀬耕作",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "須崎市長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "須崎市長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-01-31"
   },
   "39208": {
    "name": "中平富宏",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "宿毛市長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "宿毛市長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-12-25"
   },
   "39209": {
    "name": "橋本敏男",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "土佐清水市長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "土佐清水市長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-01-17"
   },
   "39210": {
    "name": "山下元一郎",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "四万十市長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "四万十市長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-05-14"
   },
   "39211": {
    "name": "濱田豪太",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "香南市長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "香南市長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-01-29"
   },
   "39212": {
    "name": "依光晃一郎",
    "office": "市長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "香美市長。2026年4月8日市長選を経た名簿(R8.5.1時点)に反映。"
+   "note": "香美市長。2026年4月8日市長選を経た名簿(R8.5.1時点)に反映。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-04-08"
   },
   "39301": {
    "name": "長﨑正仁",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "東洋町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "東洋町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "39302": {
    "name": "竹﨑和伸",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "奈半利町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "奈半利町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-06-28"
   },
   "39303": {
    "name": "坂本正徳",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "田野町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "田野町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-05-18"
   },
   "39304": {
    "name": "黒岩之浩",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "安田町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "安田町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-05-25"
   },
   "39305": {
    "name": "上村誠",
    "office": "村長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "北川村長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "北川村長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "39306": {
    "name": "山﨑出",
    "office": "村長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "馬路村長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "馬路村長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-04-21"
   },
   "39307": {
    "name": "松本巧",
    "office": "村長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "芸西村長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "芸西村長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-11-09"
   },
   "39341": {
    "name": "澤田和廣",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "本山町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "本山町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-12-15"
   },
   "39344": {
    "name": "下村賢彦",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "大豊町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "大豊町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-12-18"
   },
   "39363": {
    "name": "和田守也",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "土佐町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "土佐町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-29"
   },
   "39364": {
    "name": "和田知士",
    "office": "村長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "大川村長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "大川村長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-12-10"
   },
   "39386": {
    "name": "池田牧子",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "いの町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "いの町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-30"
   },
   "39387": {
    "name": "片岡信博",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "仁淀川町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "仁淀川町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-08-27"
   },
   "39401": {
    "name": "池田洋光",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "中土佐町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "中土佐町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-02-04"
   },
   "39402": {
    "name": "片岡雄司",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "佐川町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "佐川町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-27"
   },
   "39403": {
    "name": "小田保行",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "越知町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "越知町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-04-25"
   },
   "39405": {
    "name": "高橋基文",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "梼原町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "梼原町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-12-20"
   },
   "39410": {
    "name": "松岡一宏",
    "office": "村長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "日高村長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "日高村長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-06-01"
   },
   "39411": {
    "name": "池田三男",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "津野町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "津野町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-02-26"
   },
   "39412": {
    "name": "山脇光章",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "四万十町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "四万十町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-04-22"
   },
   "39424": {
    "name": "岡田順一",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "大月町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "大月町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-03-23"
   },
   "39427": {
    "name": "武内則男",
    "office": "村長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "三原村長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "三原村長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-12-24"
   },
   "39428": {
    "name": "大西勝也",
    "office": "町長",
    "sourceUrl": "https://www.pref.kochi.lg.jp/doc/meibo/",
-   "note": "黒潮町長。高知県公式市町村長名簿(R8.5.1時点)。"
+   "note": "黒潮町長。高知県公式市町村長名簿(R8.5.1時点)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-10-03"
   },
   "40202": {
-   "name": "関 好孝",
+   "name": "関好孝",
    "office": "市長",
    "termEnd": "2027-12-02",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40203": {
-   "name": "原口 新五",
+   "name": "原口新五",
    "office": "市長",
    "termEnd": "2030-01-30",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40204": {
-   "name": "大塚 進弘",
+   "name": "大塚進弘",
    "office": "市長",
    "termEnd": "2027-04-25",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40205": {
-   "name": "武井 政一",
+   "name": "武井政一",
    "office": "市長",
    "termEnd": "2027-11-11",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40206": {
-   "name": "浦野 仁",
+   "name": "浦野仁",
    "office": "市長",
    "termEnd": "2030-07-11",
    "sourceUrl": "https://www.nishinippon.co.jp/item/1514584/",
    "note": "Elected 2026-07-12 by-election (九州史上最年少31歳) after predecessor resigned 2026-05-31; confirmed via uub.jp and Nishinippon."
   },
   "40207": {
-   "name": "松永 久",
+   "name": "松永久",
    "office": "市長",
    "termEnd": "2029-04-23",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40210": {
-   "name": "簑原 悠太朗",
+   "name": "簑原悠太朗",
    "office": "市長",
    "termEnd": "2028-11-15",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40211": {
-   "name": "西田 正治",
+   "name": "西田正治",
    "office": "市長",
    "termEnd": "2029-12-02",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40212": {
-   "name": "江藤 義行",
+   "name": "江藤義行",
    "office": "市長",
    "termEnd": "2028-10-22",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40213": {
-   "name": "工藤 政宏",
+   "name": "工藤政宏",
    "office": "市長",
    "termEnd": "2030-03-17",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40214": {
-   "name": "西元 健",
+   "name": "西元健",
    "office": "市長",
    "termEnd": "2029-04-19",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40215": {
-   "name": "福田 健次",
+   "name": "福田健次",
    "office": "市長",
    "termEnd": "2029-06-17",
    "sourceUrl": "https://uub.jp/lce/lce.html",
    "note": "本名：福田 浩 (ふくだ ひろし)。"
   },
   "40216": {
-   "name": "加地 良光",
+   "name": "加地良光",
    "office": "市長",
    "termEnd": "2029-05-14",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40217": {
-   "name": "平井 一三",
+   "name": "平井一三",
    "office": "市長",
    "termEnd": "2027-01-31",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40218": {
-   "name": "井上 澄和",
+   "name": "井上澄和",
    "office": "市長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40219": {
-   "name": "堤 要",
+   "name": "堤要",
    "office": "市長",
    "termEnd": "2029-09-11",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40220": {
-   "name": "伊豆 美沙子",
+   "name": "伊豆美沙子",
    "office": "市長",
    "termEnd": "2030-05-20",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40221": {
-   "name": "高原 清",
+   "name": "高原清",
    "office": "市長",
    "termEnd": "2030-01-27",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40223": {
-   "name": "田辺 一城",
+   "name": "田辺一城",
    "office": "市長",
    "termEnd": "2026-12-22",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40224": {
-   "name": "福井 崇郎",
+   "name": "福井崇郎",
    "office": "市長",
    "termEnd": "2029-03-05",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40225": {
-   "name": "権藤 英樹",
+   "name": "権藤英樹",
    "office": "市長",
    "termEnd": "2028-07-14",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40226": {
-   "name": "柴田 裕美子",
+   "name": "柴田裕美子",
    "office": "市長",
    "termEnd": "2030-03-18",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40227": {
-   "name": "佐伯 憲子",
+   "name": "佐伯憲子",
    "office": "市長",
    "termEnd": "2030-04-22",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40228": {
-   "name": "中島 秀樹",
+   "name": "中島秀樹",
    "office": "市長",
    "termEnd": "2030-04-22",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40229": {
-   "name": "松嶋 盛人",
+   "name": "松嶋盛人",
    "office": "市長",
    "termEnd": "2026-10-27",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40230": {
-   "name": "月形 祐二",
+   "name": "月形祐二",
    "office": "市長",
    "termEnd": "2030-02-13",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40231": {
-   "name": "武末 茂喜",
+   "name": "武末茂喜",
    "office": "市長",
    "termEnd": "2028-08-30",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40341": {
-   "name": "安川 茂伸",
+   "name": "安川茂伸",
    "office": "町長",
    "termEnd": "2030-03-05",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40342": {
-   "name": "三浦 正",
+   "name": "三浦正",
    "office": "町長",
    "termEnd": "2028-11-29",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40343": {
-   "name": "世利 良末",
+   "name": "世利良末",
    "office": "町長",
    "termEnd": "2027-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40344": {
-   "name": "平松 秀一",
+   "name": "平松秀一",
    "office": "町長",
    "termEnd": "2030-04-30",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40345": {
-   "name": "桐島 光昭",
+   "name": "桐島光昭",
    "office": "町長",
    "termEnd": "2027-04-26",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40348": {
-   "name": "西村 勝",
+   "name": "西村勝",
    "office": "町長",
    "termEnd": "2028-10-27",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40349": {
-   "name": "箱田 彰",
+   "name": "箱田彰",
    "office": "町長",
-   "termEnd": "2026-09-08",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "termEnd": "2030-09-08",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（3期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "40381": {
-   "name": "貝掛 俊之",
+   "name": "貝掛俊之",
    "office": "町長",
    "termEnd": "2029-09-20",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40382": {
-   "name": "美浦 喜明",
+   "name": "美浦喜明",
    "office": "町長",
    "termEnd": "2029-11-13",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40383": {
-   "name": "門司 晋",
+   "name": "門司晋",
    "office": "町長",
    "termEnd": "2029-01-20",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40384": {
-   "name": "古野 修",
+   "name": "古野修",
    "office": "町長",
    "termEnd": "2026-12-11",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40401": {
-   "name": "井上 頼子",
+   "name": "井上頼子",
    "office": "町長",
    "termEnd": "2027-01-28",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40402": {
-   "name": "岡崎 邦博",
+   "name": "柴田隆臣",
+   "kana": "しばた たかおみ",
    "office": "町長",
-   "termEnd": "2026-09-08",
-   "sourceUrl": "https://uub.jp/lce/lce.html"
+   "sourceUrl": "https://www.town.kurate.lg.jp/syoukai/choucho/profile.html",
+   "termEnd": "2030-09-08",
+   "note": "2026-08-30 の町長選（任期満了に伴う）で当選。2026-09-09 就任。"
   },
   "40421": {
-   "name": "井上 利一",
+   "name": "井上利一",
    "office": "町長",
    "termEnd": "2026-11-18",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40447": {
-   "name": "田頭 喜久己",
+   "name": "田頭喜久己",
    "office": "町長",
    "termEnd": "2029-04-23",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40448": {
-   "name": "眞田 秀樹",
+   "name": "眞田秀樹",
    "office": "村長",
    "termEnd": "2029-10-19",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40503": {
-   "name": "中山 哲志",
+   "name": "中山哲志",
    "office": "町長",
    "termEnd": "2028-01-29",
    "sourceUrl": "https://uub.jp/lce/lce.html"
   },
   "40522": {
-   "name": "広松 栄治",
+   "name": "広松栄治",
    "office": "町長",
    "termEnd": "2027-02-05",
    "sourceUrl": "https://uub.jp/lce/lce.html"
@@ -9729,9 +10133,9 @@
   "40544": {
    "name": "氷室健太郎",
    "office": "町長",
-   "termEnd": "2030-04-21",
+   "termEnd": "2027-05-21",
    "sourceUrl": "https://www.town.hirokawa.fukuoka.jp/soshiki/kikaku/1/619.html",
-   "note": "広川町長。2026-04-23投開票の町長選で初当選、22日初登庁。任期4年。西日本新聞でも初当選確認。"
+   "note": "広川町長。2026-04-23投開票の町長選で初当選、22日初登庁。任期4年。西日本新聞でも初当選確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "40601": {
    "name": "鶴我繁和",
@@ -9743,15 +10147,16 @@
   "40602": {
    "name": "久保田実生",
    "office": "町長",
-   "termEnd": "2030-07",
+   "termEnd": "2030-08-21",
    "sourceUrl": "https://www.nishinippon.co.jp/item/1514586/",
-   "note": "添田町長。2026-07-12投開票の町長選で初当選（元町議、無所属新人）。前任者から交代。termEndは任期4年からの推定。"
+   "note": "添田町長。2026-07-12投開票の町長選で初当選（元町議、無所属新人）。前任者から交代。termEndは任期4年からの推定。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "40604": {
    "name": "森下博輝",
    "office": "町長",
    "sourceUrl": "https://www.town.itoda.lg.jp/administration/mayor/mayors_room.html",
-   "note": "糸田町長。公式『町長の部屋』で確認。任期満了日は当該ページに記載なし。"
+   "note": "糸田町長。公式『町長の部屋』で確認。任期満了日は当該ページに記載なし。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "40605": {
    "name": "原口正弘",
@@ -9777,16 +10182,16 @@
   "40610": {
    "name": "黒土孝司",
    "office": "町長",
-   "termEnd": "2027-04",
+   "termEnd": "2027-06-15",
    "sourceUrl": "https://www.town.fukuchi.lg.jp/soshiki/soumu/syomu/194.html",
-   "note": "福智町長。2023-04-30の町長選で2期目当選。公式町長プロフィールで確認。termEndは任期4年からの推定。"
+   "note": "福智町長。2023-04-30の町長選で2期目当選。公式町長プロフィールで確認。termEndは任期4年からの推定。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "40621": {
    "name": "遠田孝一",
    "office": "町長",
-   "termEnd": "2029-10",
+   "termEnd": "2029-11-12",
    "sourceUrl": "https://www.town.kanda.lg.jp/page/15174.html",
-   "note": "苅田町長。2025-10-26執行の町長選で当選（6,393票、対抗たねお純子4,576票）。公式選管ページで確認。termEndは任期4年からの推定。"
+   "note": "苅田町長。2025-10-26執行の町長選で当選（6,393票、対抗たねお純子4,576票）。公式選管ページで確認。termEndは任期4年からの推定。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "40625": {
    "name": "内田直志",
@@ -9820,14 +10225,15 @@
    "name": "坂井英隆",
    "office": "市長",
    "sourceUrl": "https://saga-mayors.com/introduction/",
-   "note": "さかい ひでたか。佐賀市長会・佐賀市公式で現職確認。2026.10.19告示の市長選は無投票で続投。uub合算ページは旧市長『秀島敏行』を誤表示。"
+   "note": "さかい ひでたか。佐賀市長会・佐賀市公式で現職確認。2026.10.19告示の市長選は無投票で続投。uub合算ページは旧市長『秀島敏行』を誤表示。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-10-22"
   },
   "41202": {
    "name": "峰達郎",
    "office": "市長",
-   "termEnd": "2029-01-25",
+   "termEnd": "2029-02-05",
    "sourceUrl": "https://saga-mayors.com/introduction/",
-   "note": "みね たつろう。2025.1.26投開票で3選(佐賀新聞)。任期満了は概算。表記は佐賀県市長会に従い『峰』。"
+   "note": "みね たつろう。2025.1.26投開票で3選(佐賀新聞)。任期満了は概算。表記は佐賀県市長会に従い『峰』。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "41203": {
    "name": "向門慶人",
@@ -9839,58 +10245,65 @@
   "41204": {
    "name": "香月正則",
    "office": "市長",
-   "termEnd": "2029-09-06",
+   "termEnd": "2029-09-16",
    "sourceUrl": "https://saga-mayors.com/introduction/",
-   "note": "かつき まさのり。2025.9.7当選(新人)。uub合算ページは前市長『横尾俊彦』を誤表示。任期満了は概算。"
+   "note": "かつき まさのり。2025.9.7当選(新人)。uub合算ページは前市長『横尾俊彦』を誤表示。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "41205": {
    "name": "深浦弘信",
    "office": "市長",
    "sourceUrl": "https://saga-mayors.com/introduction/",
-   "note": "ふかうら ひろのぶ。佐賀県市長会で現職確認。"
+   "note": "ふかうら ひろのぶ。佐賀県市長会で現職確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-04-26"
   },
   "41206": {
    "name": "小松政",
    "office": "市長",
    "sourceUrl": "https://saga-mayors.com/introduction/",
-   "note": "こまつ ただし。武雄市長、佐賀県市長会で現職確認。uub合算は『小松浩文』を誤表示。"
+   "note": "こまつ ただし。武雄市長、佐賀県市長会で現職確認。uub合算は『小松浩文』を誤表示。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-01-10"
   },
   "41207": {
    "name": "松尾勝利",
    "office": "市長",
    "sourceUrl": "https://saga-mayors.com/introduction/",
-   "note": "まつお かつとし。鹿島市長、佐賀県市長会で現職確認。uub合算は『籾井雅人』を誤表示。"
+   "note": "まつお かつとし。鹿島市長、佐賀県市長会で現職確認。uub合算は『籾井雅人』を誤表示。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-05-11"
   },
   "41208": {
    "name": "南里隆",
    "office": "市長",
    "sourceUrl": "https://saga-mayors.com/introduction/",
-   "note": "なんり たかし。小城市長、佐賀県市長会で現職確認。uub合算は『水ノ江…』を誤表示。"
+   "note": "なんり たかし。小城市長、佐賀県市長会で現職確認。uub合算は『水ノ江…』を誤表示。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-09"
   },
   "41209": {
    "name": "山口卓也",
    "office": "市長",
    "sourceUrl": "https://saga-mayors.com/introduction/",
-   "note": "やまぐち たくや。嬉野市長、佐賀県市長会で現職確認。"
+   "note": "やまぐち たくや。嬉野市長、佐賀県市長会で現職確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-02-04"
   },
   "41210": {
    "name": "實松尊徳",
    "office": "市長",
    "sourceUrl": "https://saga-mayors.com/introduction/",
-   "note": "さねまつ たかのり。神埼市長、佐賀県市長会で現職確認。uub合算は『田中副市長代行』を誤表示。"
+   "note": "さねまつ たかのり。神埼市長、佐賀県市長会で現職確認。uub合算は『田中副市長代行』を誤表示。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-04-27"
   },
   "41327": {
    "name": "伊東健吾",
    "office": "町長",
-   "termEnd": "2030-04-14",
+   "termEnd": "2030-04-15",
    "sourceUrl": "https://www.town.yoshinogari.lg.jp/lifeinfo/soshiki/senkyo/1/1/5388.html",
-   "note": "いとう けんご。2026.4.12投開票で3選(佐賀新聞)。任期満了は概算。"
+   "note": "いとう けんご。2026.4.12投開票で3選(佐賀新聞)。任期満了は概算。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "41341": {
    "name": "松田一也",
    "office": "町長",
    "sourceUrl": "https://www.town.kiyama.lg.jp/tyoutyou/kiji003864/index.html",
-   "note": "まつだ かずや。基山町長、無投票で3選。町公式で確認。"
+   "note": "まつだ かずや。基山町長、無投票で3選。町公式で確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-02-19"
   },
   "41345": {
    "name": "武広勇平",
@@ -9903,14 +10316,16 @@
    "name": "岡毅",
    "office": "町長",
    "sourceUrl": "https://www.town.miyaki.lg.jp/chocho/report_copy_copy_2.html",
-   "note": "おか つよし。みやき町長、町公式プロフィールで確認。uub合算は『中島光利』を誤表示。"
+   "note": "おか つよし。みやき町長、町公式プロフィールで確認。uub合算は『中島光利』を誤表示。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-09"
   },
   "41387": {
-   "name": "脇山伸太郎",
+   "name": "日高大助",
+   "kana": "ひだか だいすけ",
    "office": "町長",
-   "termEnd": "2026-08-08",
    "sourceUrl": "https://www.town.genkai.lg.jp/soshiki/2/10049.html",
-   "note": "わきやま しんたろう。玄海町長、任期満了2026.8.8(佐賀新聞2026.3報道)。2026-07-13時点で現職。"
+   "termEnd": "2030-08-08",
+   "note": "2026-07-26 の町長選（任期満了に伴う）で当選。2026-08-09 就任。"
   },
   "41401": {
    "name": "鷲尾佳英",
@@ -9923,13 +10338,15 @@
    "name": "水川一哉",
    "office": "町長",
    "sourceUrl": "http://town.omachi.saga.jp/hp/admission/01_aisatsu_1/chocho.html",
-   "note": "みずかわ かずや。大町町長、町公式で現職確認。uub合算は『吉田年克』を誤表示。"
+   "note": "みずかわ かずや。大町町長、町公式で現職確認。uub合算は『吉田年克』を誤表示。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "41424": {
    "name": "山田恭輔",
    "office": "町長",
    "sourceUrl": "https://www.town.kouhoku.saga.jp/kiji0031715/index.html",
-   "note": "やまだ きょうすけ。江北町長、無投票で3選(任期3.1から4年)。町公式・佐賀新聞で確認。"
+   "note": "やまだ きょうすけ。江北町長、無投票で3選(任期3.1から4年)。町公式・佐賀新聞で確認。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-02-29"
   },
   "41425": {
    "name": "田島健一",
@@ -9942,7 +10359,8 @@
    "name": "永淵孝幸",
    "office": "町長",
    "sourceUrl": "https://www.town.tara.lg.jp/chosei/_1722/_3381.html",
-   "note": "ながふち たかゆき。太良町長、町公式プロフィールで現職確認(2019.2就任)。"
+   "note": "ながふち たかゆき。太良町長、町公式プロフィールで現職確認(2019.2就任)。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-02-17"
   },
   "42201": {
    "name": "鈴木史朗",
@@ -9962,115 +10380,134 @@
    "name": "古川隆三郎",
    "office": "市長",
    "sourceUrl": "https://www.city.shimabara.lg.jp/page122.html",
-   "note": "Shimabara mayor, 4th term (re-elected 2025). Chair of Nagasaki mayors' assoc."
+   "note": "Shimabara mayor, 4th term (re-elected 2025). Chair of Nagasaki mayors' assoc.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-12-17"
   },
   "42204": {
    "name": "大久保潔重",
    "office": "市長",
    "sourceUrl": "https://www.city.isahaya.nagasaki.jp/soshiki/105/34245.html",
-   "note": "Isahaya mayor (大久保ゆきしげ); re-elected 2025-03-23."
+   "note": "Isahaya mayor (大久保ゆきしげ); re-elected 2025-03-23.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-09"
   },
   "42205": {
    "name": "園田裕史",
    "office": "市長",
    "sourceUrl": "https://www.city.omura.nagasaki.jp/hisyo/shise/shichoshitsu/profile.html",
-   "note": "Omura mayor, 3rd term, elected 2023-10."
+   "note": "Omura mayor, 3rd term, elected 2023-10.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-11-07"
   },
   "42207": {
    "name": "松尾有嗣",
    "office": "市長",
    "sourceUrl": "https://www.city.hirado.nagasaki.jp/kurashi/news/2025/2025-1015-1116-84.html",
-   "note": "New Hirado mayor, elected 2025-10-19 (1st term); succeeded 黒田成彦 who did not seek 5th term."
+   "note": "New Hirado mayor, elected 2025-10-19 (1st term); succeeded 黒田成彦 who did not seek 5th term.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-11-05"
   },
   "42208": {
    "name": "友田吉泰",
    "office": "市長",
    "sourceUrl": "https://www.city-matsuura.jp/top/soshikikarasagasu/seisakukikakuka/hishogakari/3/1318.html",
-   "note": "Matsuura mayor (友田吉泰, ともだ よしやす); won 3rd term 2026-01-25."
+   "note": "Matsuura mayor (友田吉泰, ともだ よしやす); won 3rd term 2026-01-25.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-02-04"
   },
   "42209": {
    "name": "比田勝尚喜",
    "office": "市長",
    "sourceUrl": "https://www.city.tsushima.nagasaki.jp/gyousei/soshiki/soumu/somuka/mayor/627.html",
-   "note": "Tsushima mayor, 3rd term, took office 2024-03-28."
+   "note": "Tsushima mayor, 3rd term, took office 2024-03-28.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-03-27"
   },
   "42210": {
    "name": "篠原一生",
    "office": "市長",
    "sourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/somuka/soumuhan/shichoshitsu_/profile.html",
-   "note": "Iki mayor (しのはら いっせい), elected 2024-04-14 (1st term)."
+   "note": "Iki mayor (しのはら いっせい), elected 2024-04-14 (1st term).。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-04-17"
   },
   "42211": {
    "name": "出口太",
    "office": "市長",
    "sourceUrl": "https://www.nagasaki-np.co.jp/kijis/?kijiid=0553afcbd8b746e9927e16c50635ef95",
-   "note": "Goto mayor (でぐち ふとし), elected 2024-09-01 (1st term); succeeded 野口市太郎."
+   "note": "Goto mayor (でぐち ふとし), elected 2024-09-01 (1st term); succeeded 野口市太郎.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-09-04"
   },
   "42212": {
    "name": "瀬川光之",
    "office": "市長",
    "sourceUrl": "https://www.ncctv.co.jp/news/article/15719299",
-   "note": "Saikai mayor, in office from 2025-05-01; succeeded 杉澤泰彦."
+   "note": "Saikai mayor, in office from 2025-05-01; succeeded 杉澤泰彦.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-04-30"
   },
   "42213": {
    "name": "金澤秀三郎",
    "office": "市長",
    "sourceUrl": "https://www.city.unzen.nagasaki.jp/dynamic/hpkiji/pub/Detail.aspx?c_id=3&id=357",
-   "note": "Unzen mayor, 4th term, elected 2024-12-22."
+   "note": "Unzen mayor, 4th term, elected 2024-12-22.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-01-12"
   },
   "42214": {
    "name": "相川武利",
    "office": "市長",
    "sourceUrl": "https://www.ktn.co.jp/news/detail.php?id=20260614004",
-   "note": "New Minami-Shimabara mayor, elected 2026-06-14 (1st term); defeated incumbent 松本政博."
+   "note": "New Minami-Shimabara mayor, elected 2026-06-14 (1st term); defeated incumbent 松本政博.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-07-19"
   },
   "42307": {
    "name": "吉田愼一",
    "office": "町長",
    "sourceUrl": "https://webtown.nagayo.jp/kiji003821/index.html",
-   "note": "Nagayo town head, 4th term, elected 2024-04-21."
+   "note": "Nagayo town head, 4th term, elected 2024-04-21.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-05-04"
   },
   "42308": {
    "name": "山上広信",
    "office": "町長",
    "sourceUrl": "https://www.town.togitsu.nagasaki.jp/soshikikarasagasu/somuka/gyoseijoho/tyoutyouroom/1473.html",
-   "note": "Togitsu town head (やまかみ ひろのぶ), took office 2023-11-15 (1st term)."
+   "note": "Togitsu town head (やまかみ ひろのぶ), took office 2023-11-15 (1st term).。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-11-14"
   },
   "42321": {
    "name": "岡田伊一郎",
    "office": "町長",
    "sourceUrl": "https://www.ncctv.co.jp/news/article/15109979",
-   "note": "Higashisonogi town head, re-elected unopposed 2024."
+   "note": "Higashisonogi town head, re-elected unopposed 2024.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-05-21"
   },
   "42322": {
    "name": "波戸勇則",
    "office": "町長",
    "sourceUrl": "https://portal.jamp.jiji.com/portal/news/detail/20240719100175J",
-   "note": "Kawatana town head, elected 2022-09-11 (1st term)."
+   "note": "Kawatana town head, elected 2022-09-11 (1st term).。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-09-18"
   },
   "42323": {
    "name": "前川芳徳",
    "office": "町長",
    "sourceUrl": "https://seijiyama.jp/lgov/42/423238/",
-   "note": "Hasami town head, elected 2022-09-11 (1st term); predecessor 一瀬政太 died June 2026."
+   "note": "Hasami town head, elected 2022-09-11 (1st term); predecessor 一瀬政太 died June 2026.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2030-09-21"
   },
   "42383": {
    "name": "西村久之",
    "office": "町長",
    "sourceUrl": "https://www.ncctv.co.jp/news/article/15109979",
-   "note": "Ojika town head, re-elected unopposed 2023-04."
+   "note": "Ojika town head, re-elected unopposed 2023-04.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-29"
   },
   "42391": {
    "name": "浜野亘",
    "office": "町長",
    "sourceUrl": "https://www.ktn.co.jp/news/detail.php?id=20250615009",
-   "note": "New Sasa town head, elected 2025-06-15 (1st term); succeeded 古庄剛 who resigned amid bid-rigging case."
+   "note": "New Sasa town head, elected 2025-06-15 (1st term); succeeded 古庄剛 who resigned amid bid-rigging case.。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-06-14"
   },
   "42411": {
    "name": "石田信明",
    "office": "町長",
    "sourceUrl": "https://www.nagasaki-np.co.jp/kijis/?kijiid=a3ebd70dee1a48a3987a308dda96c4a8",
-   "note": "Shin-Kamigoto town head, re-elected unopposed 2024-08 (2nd term)."
+   "note": "Shin-Kamigoto town head, re-elected unopposed 2024-08 (2nd term).。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2028-08-28"
   },
   "43202": {
    "name": "小野泰輔",
@@ -10082,15 +10519,16 @@
   "43203": {
    "name": "松岡隼人",
    "office": "市長",
-   "termEnd": "2027-05",
+   "termEnd": "2027-04-30",
    "sourceUrl": "https://www.city.hitoyoshi.lg.jp/shisei/yokoso_hitoyoshi/shichoshitsu/21154",
-   "note": "3期目、2023年統一地方選で3選"
+   "note": "3期目、2023年統一地方選で3選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43204": {
    "name": "浅田敏彦",
    "office": "市長",
    "sourceUrl": "https://www.city.arao.lg.jp/shisei/shicho/",
-   "note": "3期目（初当選2017-02）"
+   "note": "3期目（初当選2017-02）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-02-04"
   },
   "43205": {
    "name": "髙岡利治",
@@ -10103,7 +10541,8 @@
    "name": "藏原隆浩",
    "office": "市長",
    "sourceUrl": "https://www.city.tamana.lg.jp/q/aview/431/9699.html",
-   "note": "3期目（くらはら たかひろ）"
+   "note": "3期目（くらはら たかひろ）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2029-11-12"
   },
   "43208": {
    "name": "早田順一",
@@ -10115,16 +10554,16 @@
   "43210": {
    "name": "江頭実",
    "office": "市長",
-   "termEnd": "2029-05",
+   "termEnd": "2029-04-23",
    "sourceUrl": "https://www.city.kikuchi.lg.jp/article/view/1408/1875.html",
-   "note": "4期目、2025-04-13に4選"
+   "note": "4期目、2025-04-13に4選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43211": {
    "name": "光井正吾",
    "office": "市長",
-   "termEnd": "2030-04-29",
+   "termEnd": "2030-04-28",
    "sourceUrl": "https://www.city.uto.lg.jp/article/view/1293/15516.html",
-   "note": "2026-03無投票初当選、就任2026-04-30。16年ぶり交代"
+   "note": "2026-03無投票初当選、就任2026-04-30。16年ぶり交代。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43212": {
    "name": "堀江隆臣",
@@ -10143,23 +10582,23 @@
   "43214": {
    "name": "松嶋和子",
    "office": "市長",
-   "termEnd": "2029-02",
+   "termEnd": "2029-03-05",
    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC162UU0W5A210C2000000/",
-   "note": "2025-02-16初当選、熊本県内初の女性市長。現職佐藤義興を破る"
+   "note": "2025-02-16初当選、熊本県内初の女性市長。現職佐藤義興を破る。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43215": {
    "name": "馬場昭治",
    "office": "市長",
-   "termEnd": "2030-02",
+   "termEnd": "2029-02-20",
    "sourceUrl": "https://www.city.amakusa.kumamoto.jp/kiji0037930/index.html",
-   "note": "2026-02-02無投票で再選、2期目"
+   "note": "2026-02-02無投票で再選、2期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43216": {
    "name": "荒木義行",
    "office": "市長",
-   "termEnd": "2030-03",
+   "termEnd": "2030-04-01",
    "sourceUrl": "https://www.city.koshi.lg.jp/shicho/kiji00313279/index.html",
-   "note": "2026-03-08無投票で5選"
+   "note": "2026-03-08無投票で5選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43348": {
    "name": "上田泰弘",
@@ -10185,16 +10624,16 @@
   "43368": {
    "name": "田成修一",
    "office": "町長",
-   "termEnd": "2029-04",
+   "termEnd": "2029-05-08",
    "sourceUrl": "https://www.town.nagasu.lg.jp/gyosei/mayor/profile/",
-   "note": "2025-04-27当選（たなり しゅういち）"
+   "note": "2025-04-27当選（たなり しゅういち）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43369": {
    "name": "石原佳幸",
    "office": "町長",
-   "termEnd": "2030-03",
+   "termEnd": "2030-04-15",
    "sourceUrl": "https://www.town.nagomi.lg.jp/soshiki/soumu/room/3_10/",
-   "note": "2026-03-22再選、2期目"
+   "note": "2026-03-22再選、2期目。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43403": {
    "name": "金田英樹",
@@ -10204,17 +10643,19 @@
    "note": "2期目、令和7年(2025)-02-02当選（かなだ ひでき）"
   },
   "43404": {
-   "name": "吉本孝寿",
+   "name": "𠮷本孝寿",
    "office": "町長",
-   "termEnd": "2026-10-13",
-   "sourceUrl": "https://www.town.kikuyo.lg.jp/kiji0033562/index.html",
-   "note": "2022-10初当選（よしもと たかとし）"
+   "sourceUrl": "https://www.town.kikuyo.lg.jp/kiji0035354/index.html",
+   "kana": "よしもと たかとし",
+   "termEnd": "2030-10-13",
+   "note": "氏名の表記は自治体公式に合わせた。2026-09-29 の町長選（任期満了に伴う）で無投票再選。"
   },
   "43423": {
    "name": "髙橋周二",
    "office": "町長",
    "sourceUrl": "https://www.town.minamioguni.lg.jp/mayor/message.html",
-   "note": "3期目、無投票再選（たかはし しゅうじ）"
+   "note": "3期目、無投票再選（たかはし しゅうじ）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-25"
   },
   "43424": {
    "name": "渡邉誠次",
@@ -10254,9 +10695,9 @@
   "43441": {
    "name": "藤木正幸",
    "office": "町長",
-   "termEnd": "2028-04",
+   "termEnd": "2027-04-26",
    "sourceUrl": "https://ja.wikipedia.org/wiki/藤木正幸",
-   "note": "3期目、2024無投票"
+   "note": "3期目、2024無投票。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43442": {
    "name": "鍋田平",
@@ -10268,9 +10709,9 @@
   "43443": {
    "name": "西村博則",
    "office": "町長",
-   "termEnd": "2030-04",
+   "termEnd": "2030-05-04",
    "sourceUrl": "https://www.town.mashiki.lg.jp/list00642.html",
-   "note": "2026-04-26に4選"
+   "note": "2026-04-26に4選。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43444": {
    "name": "甲斐高士",
@@ -10289,9 +10730,9 @@
   "43468": {
    "name": "藤本一臣",
    "office": "町長",
-   "termEnd": "2029-10",
+   "termEnd": "2029-11-05",
    "sourceUrl": "https://www.town.hikawa.kumamoto.jp/list00126.html",
-   "note": "2025-10-19に5選（ふじもと かずおみ）"
+   "note": "2025-10-19に5選（ふじもと かずおみ）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43482": {
    "name": "竹﨑一成",
@@ -10303,23 +10744,23 @@
   "43484": {
    "name": "山田豊隆",
    "office": "町長",
-   "termEnd": "2029-06",
+   "termEnd": "2029-07-24",
    "sourceUrl": "https://www.kumanichi.com/articles/1811469",
-   "note": "2025-06-29当選（やまだ とよたか）"
+   "note": "2025-06-29当選（やまだ とよたか）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43501": {
    "name": "森本完一",
    "office": "町長",
-   "termEnd": "2028-06",
+   "termEnd": "2027-04-26",
    "sourceUrl": "https://www.town.kumamoto-nishiki.lg.jp/list00237.html",
-   "note": "5期目、2024-06-23に5選（もりもと かんいち）"
+   "note": "5期目、2024-06-23に5選（もりもと かんいち）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43505": {
    "name": "石井淳一",
    "office": "町長",
-   "termEnd": "2030-02",
+   "termEnd": "2029-02-18",
    "sourceUrl": "https://www.town.taragi.lg.jp/gyousei/soshiki/soumu/chouchou/898.html",
-   "note": "2026-02-02初当選（いしい じゅんいち）"
+   "note": "2026-02-02初当選（いしい じゅんいち）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43506": {
    "name": "長谷和人",
@@ -10332,7 +10773,8 @@
    "name": "中嶽弘継",
    "office": "村長",
    "sourceUrl": "https://www.vill.mizukami.lg.jp/kiji003364/index.html",
-   "note": "3期目（なかだけ ひろつぐ）。就任あいさつ令和5年5月"
+   "note": "3期目（なかだけ ひろつぐ）。就任あいさつ令和5年5月。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-04-30"
   },
   "43510": {
    "name": "吉松啓一",
@@ -10351,9 +10793,9 @@
   "43512": {
    "name": "内山慶治",
    "office": "村長",
-   "termEnd": "2026-08",
-   "sourceUrl": "https://www.vill.yamae.lg.jp/list00203.html",
-   "note": "5期目、2022-07無投票（うちやま けいじ）。任期満了2026-08"
+   "termEnd": "2030-08-01",
+   "sourceUrl": "https://uub.jp/lce/",
+   "note": "再選（6期目）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "43513": {
    "name": "大岩禎一",
@@ -10373,7 +10815,8 @@
    "name": "山﨑秀典",
    "office": "町長",
    "sourceUrl": "https://reihoku-kumamoto.jp/kiji003947/index.html",
-   "note": "新町長就任（やまさき ひでのり）"
+   "note": "新町長就任（やまさき ひでのり）。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。",
+   "termEnd": "2027-01-29"
   },
   "44201": {
    "name": "足立信也",
@@ -10558,11 +11001,12 @@
    "note": "えびの市長 なかやま よしひこ 就任2025.10.12"
   },
   "45341": {
-   "name": "木佐貫辰生",
+   "name": "荒武みるき",
+   "kana": "あらたけ みるき",
    "office": "町長",
-   "termEnd": "2026-09-22",
-   "sourceUrl": "https://uub.jp/lce/lce.html",
-   "note": "三股町長 きさぬき たつお"
+   "sourceUrl": "https://www.town.mimata.lg.jp/contents/1546.html",
+   "termEnd": "2030-09-22",
+   "note": "2026-08-30 の町長選（任期満了に伴う）で当選。2026-09-23 就任。"
   },
   "45361": {
    "name": "丸山裕次郎",
@@ -11001,9 +11445,9 @@
   "47208": {
    "name": "松本哲治",
    "office": "市長",
-   "termEnd": "2028-02-11",
+   "termEnd": "2029-02-11",
    "sourceUrl": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/005/019/20260324ninkimanryo.pdf",
-   "note": "浦添市長。県公式名簿。"
+   "note": "浦添市長。県公式名簿。任期満了日は uub.jp 現役首長一覧（2026-10-04 時点）による。"
   },
   "47209": {
    "name": "渡具知武豊",
@@ -11062,11 +11506,12 @@
    "note": "国頭村長。県公式名簿(令和8年3月24日現在)。"
   },
   "47302": {
-   "name": "友寄景善",
+   "name": "大城佐一",
+   "kana": "おおしろ さいち",
    "office": "村長",
-   "termEnd": "2026-10-06",
-   "sourceUrl": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/005/019/20260324ninkimanryo.pdf",
-   "note": "大宜味村長。県公式名簿。"
+   "sourceUrl": "https://ryukyushimpo.jp/region/entry-5512044.html",
+   "termEnd": "2030-10-06",
+   "note": "2026-09-13 の村長選（任期満了に伴う）で当選。2026-10-07 就任。"
   },
   "47303": {
    "name": "當山全伸",
@@ -11083,11 +11528,12 @@
    "note": "今帰仁村長。県公式名簿。"
   },
   "47308": {
-   "name": "平良武康",
+   "name": "仲宗根章",
+   "kana": "なかそね あきら",
    "office": "町長",
-   "termEnd": "2026-09-20",
-   "sourceUrl": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/005/019/20260324ninkimanryo.pdf",
-   "note": "本部町長。県公式名簿。"
+   "sourceUrl": "https://ryukyushimpo.jp/region/entry-5512042.html",
+   "termEnd": "2030-09-20",
+   "note": "2026-09-13 の町長選（任期満了に伴う）で当選。2026-09-21 就任。"
   },
   "47311": {
    "name": "長浜善巳",
@@ -11202,11 +11648,12 @@
    "note": "伊平屋村長。県公式名簿。"
   },
   "47360": {
-   "name": "奥間守",
+   "name": "高良和彦",
+   "kana": "たから かずひこ",
    "office": "村長",
-   "termEnd": "2026-09-20",
-   "sourceUrl": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/005/019/20260324ninkimanryo.pdf",
-   "note": "伊是名村長。県公式名簿。"
+   "sourceUrl": "https://www.vill.izena.okinawa.jp/topics/1788858329/",
+   "termEnd": "2030-09-20",
+   "note": "2026-09-13 の村長選（任期満了に伴う）で当選。2026-09-21 就任。"
   },
   "47361": {
    "name": "桃原秀雄",
@@ -11684,166 +12131,148 @@
    "note": "千葉市長（政令市の行政区長は任命職のため市長を表示）"
   },
   "14101": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14102": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14103": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14104": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14105": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14106": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14107": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14108": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14109": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14110": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14111": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14112": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14113": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14114": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14115": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14116": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14117": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14118": {
-   "name": "山中竹春",
    "office": "市長",
+   "vacant": true,
    "inherited": true,
    "parentCity": "横浜市",
-   "termEnd": "2029-08",
-   "sourceUrl": "https://www.siteitosi.jp/message/yokohama.html",
-   "note": "横浜市長（政令市の行政区長は任命職のため市長を表示）"
+   "sourceUrl": "https://www.city.yokohama.lg.jp/city-info/senkyo/data/mayor/20261018_shicho.html",
+   "note": "横浜市長が 2026-09-07 に辞職し欠員（副市長が職務代理）。市長選は 2026-10-18 投開票予定。"
   },
   "14131": {
    "name": "福田紀彦",

@@ -159,10 +159,19 @@ def check_muni(doc, app_data=APP_DATA):
             errors.append(f"[{code}] inherited だが parentCity なし")
         if r.get("noHead"):
             continue                              # 無首長（北方領土6村など）は出典・任期の欠落を許容
-        if not r.get("name"):
+        if r.get("vacant"):
+            # 欠員（辞職・死去などで在任者なし）。氏名は持たず、欠員を確認した出典は必須
+            if r.get("name"):
+                errors.append(f"[{code}] vacant なのに氏名あり: {r['name']!r}")
+            if not r.get("sourceUrl"):
+                errors.append(f"[{code}] 欠員の出典URLなし")
+        elif not r.get("name"):
             errors.append(f"[{code}] 氏名なし")
-        if not r.get("sourceUrl"):
+        elif not r.get("sourceUrl"):
             warnings.append(f"[{code}] 出典URLなし")
+        nxt = r.get("next")                       # 当選済み・就任前の次期首長
+        if nxt is not None and not (isinstance(nxt, dict) and nxt.get("name") and nxt.get("takesOffice")):
+            errors.append(f"[{code}] next には name と takesOffice が必要: {nxt!r}")
     return errors, warnings
 
 

@@ -1,7 +1,7 @@
 {
  "level": "pref",
  "office": "知事",
- "asOf": "2026-07-13",
+ "asOf": "2026-10-09",
  "records": {
   "10": {
    "name": "山本一太",
@@ -418,7 +418,7 @@
    "note": "各県組織・業界団体が推薦。2022/11/20投開票で4選。"
   },
   "39": {
-   "name": "浜田省司",
+   "name": "濵田省司",
    "kana": "はまだ せいじ",
    "affiliation": "無所属",
    "endorsers": [
@@ -535,21 +535,22 @@
    "note": "2024/7/7投開票で再選。"
   },
   "47": {
-   "name": "玉城デニー",
-   "kana": "たまき でにー",
+   "name": "古謝玄太",
+   "kana": "こじゃ げんた",
    "affiliation": "無所属",
    "endorsers": [
-    "立憲民主党",
-    "日本共産党",
-    "社会民主党",
-    "れいわ新選組",
-    "沖縄社会大衆党"
+    "自由民主党",
+    "日本維新の会",
+    "国民民主党",
+    "参政党",
+    "日本保守党",
+    "公明党沖縄県本部"
    ],
-   "winCount": "2",
-   "currentTermStart": "2022-10-04",
-   "firstTookOffice": "2018-10-04",
-   "sourceUrl": "https://ryukyushimpo.jp/news/entry-1582233.html",
-   "note": "「オール沖縄」が支援。2022/9/11投開票で自民・公明推薦の候補を破り再選。"
+   "winCount": "1",
+   "currentTermStart": "2026-09-30",
+   "firstTookOffice": "2026-09-30",
+   "sourceUrl": "https://www.pref.okinawa.lg.jp/kensei/kencho/1001519/1001520.html",
+   "note": "2026-09-13 投開票の沖縄県知事選で初当選、2026-09-30 就任。推薦政党は琉球新報の報道による（公明は県本部の推薦）。"
   },
   "01": {
    "name": "鈴木直道",

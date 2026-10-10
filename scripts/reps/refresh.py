@@ -82,7 +82,9 @@ def refresh_level(level, code=None, apply=False):
 
     # asOf は「変化があったときだけ」更新する（無変化で差分を出さないため）
     as_of = C.today_iso() if changes else committed.get("asOf")
-    out_doc = {"level": level, "office": committed.get("office", TIER_OFFICE[level]),
+    # 既存の上位キー（reps_hr.json の "election" 等）を保ったまま asOf と records だけ差し替える。
+    # 以前は4キーで作り直しており、2026-10-01 の定期実行で "election" が消えた。
+    out_doc = {**committed, "level": level, "office": committed.get("office", TIER_OFFICE[level]),
                "asOf": as_of, "records": merged}
 
     # 検証は「実際に書き出したファイル」を対象にする（--apply 時は本番ファイル、
