@@ -10,6 +10,9 @@
 #   - （任意）首長を CI で回すなら Secrets に ANTHROPIC_API_KEY を追加。無ければ知事/衆院/参院のみ更新。
 #   - Settings → Actions → General → Workflow permissions で
 #     「Allow GitHub Actions to create and approve pull requests」を有効化。
+#   - 公開リポジトリでは、60日間リポジトリに動き（コミット等）が無いと GitHub が schedule を自動停止する
+#     （2026-09 に両ワークフローが停止）。自動PRをマージすれば動きになる。止まったら Actions 画面か
+#     `gh workflow enable <ファイル名>` で再開する（停止を回避する偽のコミット等は使わない）。
 name: 議員データ 定期更新（レビュー用PR）
 
 on:
@@ -38,10 +41,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: リポジトリを取得
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Python を用意
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
         # 依存パッケージ不要（標準ライブラリのみ）
@@ -76,7 +79,7 @@ jobs:
           python3 scripts/reps/refresh.py $ARGS
 
       - name: 差分があればレビュー用PRを作成
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: auto/refresh-reps
           delete-branch: true

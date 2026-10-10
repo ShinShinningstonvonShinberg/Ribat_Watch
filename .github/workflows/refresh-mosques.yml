@@ -7,6 +7,9 @@
 #     未設定なら、生の個人情報を一般化なしで公開する事故を防ぐため意図的に失敗する。
 #   - Settings → Actions → General → Workflow permissions で
 #     「Allow GitHub Actions to create and approve pull requests」を有効化。
+#   - 公開リポジトリでは、60日間リポジトリに動き（コミット等）が無いと GitHub が schedule を自動停止する
+#     （2026-09 に両ワークフローが停止）。自動PRをマージすれば動きになる。止まったら Actions 画面か
+#     `gh workflow enable <ファイル名>` で再開する（停止を回避する偽のコミット等は使わない）。
 name: モスクデータ 定期更新（レビュー用PR）
 
 on:
@@ -27,13 +30,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: リポジトリを取得
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Python を用意
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
         # 依存パッケージ不要（標準ライブラリと同梱の data/recount/*.gz のみで完結）
+
+      - name: 日本のモスク情報の補足データを取り直す
+        # 同サイトの構造が変わって取り込めなくても、前回の data/yumaki/places.json のまま続行する
+        run: python3 scripts/fetch_yumaki.py || echo "::warning::日本のモスク情報を取り込めませんでした（前回の補足データのまま続行）。"
 
       - name: 再取得・スクラブ・再集計
         env:
@@ -46,7 +53,7 @@ jobs:
           python3 scripts/refresh_mosques.py --report refresh_report.md
 
       - name: 差分があればレビュー用PRを作成
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: auto/refresh-mosques
           delete-branch: true
@@ -66,3 +73,4 @@ jobs:
             app/data/districts_pref.geojson
             app/data/districts_hc.geojson
             app/data/districts_hr.geojson
+            data/yumaki/places.json

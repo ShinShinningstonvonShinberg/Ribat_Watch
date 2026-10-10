@@ -118,6 +118,13 @@ python3 scripts/reps/mayors/run.py --dry-run --pref 47  # 首長プロンプト�
 
 ---
 
+## GitHub Actions が止まったとき
+- 公開リポジトリでは、**60日間リポジトリに動きが無いと schedule が自動停止**する（2026-09 に両ワークフローが
+  `disabled_inactivity` になった）。自動PRをマージすれば動きになる。止まったら Actions 画面の「Enable workflow」か
+  `gh workflow enable refresh-mosques.yml` / `gh workflow enable refresh-reps.yml` で再開する。
+- 失敗の典型: `SCRUB_RULES_JSON` 未設定（モスク・意図的に中断）／「Allow GitHub Actions to create and approve
+  pull requests」が無効（ブランチは push されるが PR 作成で失敗）。
+
 ## 人間の承認フロー（両系統共通）
 1. Action（定期 or 手動）が差分だけのブランチ `auto/refresh-*` を作り、PR を開く。
 2. PR 本文に差分サマリ（追加/削除・件数増減、在任者の交代など）が載る。
