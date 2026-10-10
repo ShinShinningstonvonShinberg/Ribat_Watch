@@ -45,8 +45,11 @@ DEFAULT_RULES_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "s
 # モスク名義SNSの明示的な許可リスト（任意・公開可。人間が新規SNSを承認する際の追記先）
 DEFAULT_SOCIAL_ALLOWLIST = os.path.join(os.path.dirname(os.path.abspath(__file__)), "mosque_social_allowlist.json")
 
-# 説明文中のURL抽出（<, >, ", ), 空白の手前まで）
-URL_RE = re.compile(r'https?://[^\s<>"\')]+')
+# 説明文中のURL抽出（<, >, ", ), 空白の手前まで）。URLの直後に空白なしで地の文が続く
+# 出典（例:「…/nenpo23-3.pdfより」）があるため、かな・漢字・全角記号でも打ち切る。
+# 出典URLの日本語パスはパーセントエンコード済みで、生の日本語を含む正当なURLは無い
+# （アラビア文字等のスラッグは対象外なので壊さない）。
+URL_RE = re.compile(r'https?://[^\s<>"\')　-〿぀-ヿ一-鿿＀-￯]+')
 # URL末尾に紛れ込みやすい句読点・閉じ括弧を落とす
 _URL_TRAILING = "。、，．,.）)」』】＞>…"
 

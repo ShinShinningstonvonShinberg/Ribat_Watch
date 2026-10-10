@@ -32,19 +32,23 @@ NS = {"k": "http://www.opengis.net/kml/2.2"}   # KML の名前空間
 # 一般化スクラブで「モスク名義として承認済み」とみなすSNSの基準にする、既に公開中のデータ
 PRIOR_PUBLIC = os.path.join(ROOT, "app", "data", "mosques.geojson")
 
-# KML フォルダ名 → 内部種別 への対応表
+# KML フォルダ名 → 内部種別 への対応表。ここに無いフォルダは取り込まない（許可リスト）。
+# 出典は 2026-09 に「市街化調整区域表示（9.26テスト）」という派生フォルダ（モスク268地点の
+# 複製に区域区分を付けたもの）を追加した。未知名をそのまま種別にすると同じモスクが二重に
+# 公開されるため、未知フォルダは飛ばして SKIPPED_FOLDERS に記録し、差分サマリで知らせる。
 LAYER_MAP = {
     "モスク": "mosque",
     "祈祷室": "prayer_room",
     "情報アリ（建築予定地）": "planned",
 }
+SKIPPED_FOLDERS = Counter()   # 直近の parse_kml() で飛ばした {フォルダ名: 地点数}
 
 # 地点名の先頭に付く ID コードを抜き出す正規表現。
 # 例: 「北海01 003 室蘭モスク」→ コード=北海01（漢字2〜3字＋数字2桁）, 連番=003
 CODE_RE = re.compile(r"^\s*([一-鿿]{2,3}\d{2})\s+(\d{1,3})\b", re.S)
 
 # GeoJSON / CSV の列順（両出力で共有）
-CSV_COLS = ["layer", "code", "seq", "name", "removed_from_gmaps", "lat", "lon", "source_url", "description"]
+CSV_COLS = ["layer", "code", "seq", "name", "removed_from_gmaps", "lat", "lon", "source_url", "description", "origin"]
 
 first_url = scrub.first_url                 # 説明文の先頭URL（一般化後のURLから source_url を取る）
 
@@ -85,10 +89,14 @@ def parse_kml(src=SRC, scrubber=None, grandfather=None):
         root = ET.parse(src).getroot()
 
     rows, features = [], []
+    SKIPPED_FOLDERS.clear()
     for folder in root.iter("{http://www.opengis.net/kml/2.2}Folder"):
         fname_el = folder.find("k:name", NS)
         fname = fname_el.text.strip() if fname_el is not None and fname_el.text else ""
-        layer = LAYER_MAP.get(fname, fname)          # 種別に変換（未知名はそのまま）
+        layer = LAYER_MAP.get(fname)                 # 種別に変換
+        if layer is None:                            # 未知フォルダは取り込まない（上の LAYER_MAP 参照）
+            SKIPPED_FOLDERS[fname] += len(folder.findall("k:Placemark", NS))
+            continue
         for pm in folder.findall("k:Placemark", NS):
             name_el = pm.find("k:name", NS)
             raw_name = name_el.text if name_el is not None and name_el.text else ""

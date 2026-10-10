@@ -45,6 +45,7 @@ sys.path.insert(0, os.path.join(ROOT, "scripts"))
 import parse_kml                               # noqa: E402
 import scrub                                   # noqa: E402
 import geo                                     # noqa: E402
+import enrich_mosques                          # noqa: E402
 
 APP_DATA = os.path.join(ROOT, "app", "data")
 RAW = os.path.join(ROOT, "data", "raw")               # 生の境界（.gitignore・再DL可）
@@ -98,9 +99,14 @@ def fetch_kml(mid=None, timeout=60):
 # ---------------------------------------------------------------------------
 # 再集計（点在判定）
 # ---------------------------------------------------------------------------
+# 件数に数える種別と、[mosque, prayer, planned] の添字。ここに無い種別は数えない
+# （以前は未知の種別を .get(layer, 0) でモスクとして数えていた）。
+LAYER_BUCKET = {"mosque": 0, "prayer_room": 1, "planned": 2}
+
+
 def _load_points(features):
-    return [(f["geometry"]["coordinates"][0], f["geometry"]["coordinates"][1],
-             f["properties"].get("layer", "mosque")) for f in features]
+    return [(f["geometry"]["coordinates"][0], f["geometry"]["coordinates"][1], f["properties"]["layer"])
+            for f in features if f["properties"].get("layer") in LAYER_BUCKET]
 
 
 def _load_geojson(path):
@@ -132,7 +138,7 @@ def _count_against(path, code_field, points):
         if f is None:
             unassigned += 1
             continue
-        f["properties"]["_m"][{"mosque": 0, "prayer_room": 1, "planned": 2}.get(layer, 0)] += 1
+        f["properties"]["_m"][LAYER_BUCKET[layer]] += 1
     counts = defaultdict(lambda: [0, 0, 0])
     for f in feats:
         c = f["properties"]["_c"]; m = f["properties"]["_m"]
@@ -229,6 +235,11 @@ def build_diff_report(old_feats, new_feats, old_counts, new_counts):
     moved = added_names & removed_names
     lines.append(f"- 地点数: {len(old_feats)} → {len(new_feats)}")
     lines.append(f"- 追加: {len(added)} / 削除: {len(removed)}（うち移動の可能性: {len(moved)}）")
+    if parse_kml.SKIPPED_FOLDERS:
+        # 出典に未知のフォルダが増えた＝レイヤー構成の変更。取り込むべきかを人間が判断する
+        lines.append("- ⚠ 取り込まなかった出典フォルダ（parse_kml.LAYER_MAP に無い）:")
+        for fname, n in parse_kml.SKIPPED_FOLDERS.items():
+            lines.append(f"    - {fname}（{n} 地点）")
     if added:
         lines.append("  - 追加された地点:")
         for k in added[:25]:
@@ -301,6 +312,11 @@ def main():
     if not features:
         sys.exit("ERROR: 地点が0件でした。出典が空か取得失敗の可能性。既存スナップショットを保持して中断します。")
     print(f"解釈: {len(features)} 地点（スクラブ＋一般化済み）")
+    # 「日本のモスク情報」の補足属性を結合する（data/yumaki/places.json があれば）
+    features, enriched = enrich_mosques.enrich(features)
+    if enriched.get("enabled"):
+        rows = enrich_mosques.csv_rows(features)
+        print(f"補足: 照合 {enriched['matched']} 地点 / 補足地点 {len(enriched['added'])} 件を追加")
 
     # 差分の基準として現在の公開データを控える
     old_feats = json.load(open(os.path.join(APP_DATA, "mosques.geojson"), encoding="utf-8"))["features"]
@@ -327,6 +343,12 @@ def main():
 
     # --- 5. 差分サマリ ---
     report = build_diff_report(old_feats, features, old_counts, new_counts)
+    if enriched.get("enabled"):
+        lines = [f"- 補足（日本のモスク情報）: 照合 {enriched['matched']} 地点 / 補足地点 {len(enriched['added'])} 件"]
+        lines += [f"    - 補足地点: {x}" for x in enriched["added"]]
+        if enriched["not_added"]:
+            lines.append("    - 足さなかった同サイトの地点: " + "、".join(enriched["not_added"]))
+        report += "\n" + "\n".join(lines)
     print("\n=== 差分サマリ ===\n" + report)
     if args.report:
         with open(args.report, "w", encoding="utf-8") as f:
