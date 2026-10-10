@@ -22,10 +22,18 @@ Pull Request を自動で開く** 仕組みを持つ。**自動マージはし�
 ### 何をするか
 1. 公開 mid（README/`scripts/mosque_source.json` に記載）から KML を取得。
 2. `parse_kml.py` で解釈し、`scripts/scrub.py` で **スクラブ＋一般化**（下記）。
-3. `mosques.geojson` / `mosques.csv` / `app/data/mosques.geojson` を書き出し。
+3. `scripts/enrich_mosques.py` が `data/yumaki/places.json`（日本のモスク情報の事実の抜粋）を結合する。
+   `mosques.geojson` / `mosques.csv` / `app/data/mosques.geojson` を書き出し。
 4. `data/recount/*.geojson.gz`（フル解像度境界・同梱）で件数を再集計し、
    `app/data/districts_*.geojson` に件数だけ書き戻す（形状は不変）。
 5. 追加・削除・件数の差分を PR にする。
+
+### 補足データ（日本のモスク情報）の更新
+`python3 scripts/fetch_yumaki.py` で同サイトから取り直し（`data/yumaki/places.json` を更新）、続けて
+`refresh_mosques.py` を回すと地点に結合される。取り込むのはマイマップ由来の地点の許可リストの事実だけ
+（区域区分・法人の種類・系統・形態・公式HP・遺体の洗浄施設）。寄付・資金、国籍・宗派、文章・写真・住所・SNS・
+個人名は取り込まない。照合の半径（80m）より離れた同一施設は `data/yumaki/match_overrides.json` の `same` に
+人間が登録する。
 
 ### スクラブ＋一般化（個人情報対策）
 公開版はモスクの説明文から **URLだけ** を残し、それ以外の自由記述（住所・メモ・氏名・

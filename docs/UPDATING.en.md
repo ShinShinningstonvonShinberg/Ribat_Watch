@@ -122,7 +122,7 @@ secret, permissions, and runner all work.
 2. **Parse + scrub + generalize** via `parse_kml.parse_kml()` → `scripts/scrub.py`:
    * **Scrub** removes known denylist terms/URL‑fragments (`scrub_rules.json`).
    * **Generalize** keeps only URLs and drops all other free text (see §3.5).
-3. **Write** `mosques.geojson`, `mosques.csv`, and `app/data/mosques.geojson` (311 points today).
+3. **Write** `mosques.geojson`, `mosques.csv`, and `app/data/mosques.geojson` (as of 2026-10-09: 317 points). Before writing, `scripts/enrich_mosques.py` joins the supplemental attributes (zoning, operator, etc.) from 日本のモスク情報.
 4. **Recount** the points against the committed full‑resolution boundaries
    (`data/recount/{muni,hr}.geojson.gz`) and write the counts back onto
    `app/data/districts_*.geojson` (geometry untouched). Prefecture/HC counts are derived from the

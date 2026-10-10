@@ -58,6 +58,10 @@ section.footer{font-size:11px;color:var(--muted)}
 .leaflet-popup-content .removed{color:var(--mosque);font-weight:600}   /* ★削除済みの強調 */
 .leaflet-popup-content a{color:#1d4ed8}
 .pcounts{margin-top:4px;color:#374151}
+/* 地点ポップアップの補足属性（区域区分・運営など。日本のモスク情報より） */
+.pdetail{margin:6px 0 4px;padding-top:5px;border-top:1px solid var(--line);font-size:11.5px;color:#374151}
+.pdetail .plinks{margin-top:4px}
+.zone-chip{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:4px;vertical-align:baseline;border:1px solid rgba(0,0,0,.2)}
 
 /* 議員（政治的代表）ブロック（ポップアップ内） */
 .reps{margin-top:6px;padding-top:6px;border-top:1px solid var(--line);max-height:220px;overflow:auto}
@@ -115,3 +119,4 @@ input[type=range]{width:100%;accent-color:var(--accent);cursor:pointer;margin:0}
   .rank-panel{width:210px}
   .rank-table td.rk-name{max-width:78px}
 }
+.legend .row em{font-style:normal;color:var(--muted);margin-left:auto}   /* 区域区分の凡例の件数 */

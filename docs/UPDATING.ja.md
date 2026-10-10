@@ -117,7 +117,7 @@ Ribat Watch のデータは**2系統**あり、どちらも同じ形をとりま
 2. `parse_kml.parse_kml()` → `scripts/scrub.py` で **解釈＋スクラブ＋一般化**:
    * **スクラブ**: 除去語・除去URL片（`scrub_rules.json`）を消す。
    * **一般化**: URL だけを残し、それ以外の自由記述を全破棄（§3.5）。
-3. `mosques.geojson`・`mosques.csv`・`app/data/mosques.geojson`（現在311地点）を**書き出し**。
+3. `mosques.geojson`・`mosques.csv`・`app/data/mosques.geojson`（2026-10-09 時点で317地点）を**書き出し**。書き出し前に `scripts/enrich_mosques.py` が「日本のモスク情報」の補足属性（区域区分・運営など）を結合する。
 4. 同梱のフル解像度境界（`data/recount/{muni,hr}.geojson.gz`）で点在判定し、**件数を再集計**して
    `app/data/districts_*.geojson` に書き戻す（形状は不変）。都道府県・参院の件数は市区町村コード
    （先頭2桁＋合区規則）から導出し、`build_districts.py` と完全に一致する。

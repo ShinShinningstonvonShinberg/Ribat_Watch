@@ -1,7 +1,8 @@
 /* Ribat Watch — 日本のモスク × 政治的区割り の地図アプリ本体。
 
    build_districts.py が生成した正規化済み GeoJSON を読み込んで描画する:
-   - data/mosques.geojson … 地点の属性: {layer, name, code, removed_from_gmaps, source_url}
+   - data/mosques.geojson … 地点の属性: {layer, name, code, removed_from_gmaps, source_url, origin?}
+       ＋ 日本のモスク情報から結合した属性 {yid, zone, org_type, facility, network, homepage, wash}
    - data/districts_<muni|pref|hr|hc>.geojson … 区の属性: {level, code, name, mosque, prayer, planned, total}
 
    主な機能: 地点表示・点ヒートマップ・区ごとのコロプレス（塗り分け）・
@@ -24,6 +25,16 @@ const POINT_STYLE = {
   prayer_room: { color:'#2166ac', r:4 },   // 祈祷室（青）
   planned:     { color:'#238b45', r:5 },   // 建設予定地（緑）
 };
+// 区域区分（都市計画の区域。日本のモスク情報が判定した値）ごとの色。「点の色: 区域区分」で使い、
+// 区域区分の分からない地点（祈祷室など同サイトに無い地点）は ZONE_UNKNOWN で描く
+const ZONE_STYLE = {
+  urban:   { color:'#d7301f', label:'市街化区域' },
+  control: { color:'#1a9850', label:'市街化調整区域' },
+  nosen:   { color:'#2c7fb8', label:'非線引き都市計画区域' },
+  outside: { color:'#737373', label:'都市計画区域外／データ未整備' },
+};
+const ZONE_UNKNOWN = '#d4d4d4';
+const YUMAKI_BASE = 'https://yumaki5555.github.io/mosque-map/';   // 地点の詳しい情報へのリンク先
 // コロプレスの連続配色アンカー（薄黄→濃赤 / YlOrRd 系）。任意の段階数に補間して使う
 const RAMP_ANCHORS = ['#ffffb2','#fed976','#feb24c','#fd8d3c','#f03b20','#bd0026'];
 // 点ヒートマップの配色アンカー（冷→熱）。階調（段階数）に応じて段状に再構成して使う
@@ -36,6 +47,7 @@ const state = {
   metric:'mosque_prayer',                                // 塗り分けに使う集計指標
   buckets:6, classify:'equal',                           // コロプレスの段階数と分類法（既定は等間隔＝最大値を最濃色に線形配色）
   points:{ mosque:true, prayer_room:true, planned:true }, heat:false,  // 地点・ヒートの表示
+  pointColor:'type',                                     // 点の色: 'type'（種別）|'zone'（区域区分）
   heatOpts:{ radius:22, blur:18, intensity:0.8, steps:6 },  // 点ヒートの半径・ぼかし・強度・階調
   rank:{ col:'total', dir:'desc' },                      // ランキングの並び替え（列・方向）
 };
@@ -132,8 +144,10 @@ function makeScale(values, n, method){
 }
 
 // ---------- 地点（点）レイヤー ----------
-// モスク地点を種別ごとの円マーカー群にまとめ、ポップアップを付ける
+// モスク地点を種別ごとの円マーカー群にまとめ、ポップアップを付ける。
+// 点の色（種別／区域区分）を切り替えたときも、これで作り直す
 function buildPoints(){
+  for(const c of Object.keys(pointGroups)) if(map.hasLayer(pointGroups[c])) map.removeLayer(pointGroups[c]);
   const cats = { mosque:[], prayer_room:[], planned:[] };
   mosquesGeo.features.forEach(f=>{
     const p=f.properties, [lon,lat]=f.geometry.coordinates;
@@ -141,16 +155,13 @@ function buildPoints(){
     const st = POINT_STYLE[cat];
     // ★ 付き（Google マップ登録削除済み）は半透明で表示
     const removed = p.removed_from_gmaps===true || p.removed_from_gmaps==='True';
+    const fill = state.pointColor==='zone' ? ((ZONE_STYLE[p.zone]||{}).color || ZONE_UNKNOWN) : st.color;
     const m = L.circleMarker([lat,lon], {
       renderer:canvasRenderer, radius:st.r, weight:1,
-      color:'#fff', fillColor:st.color, fillOpacity:removed?0.35:0.9, opacity:removed?0.5:1,
+      color:'#fff', fillColor:fill, fillOpacity:removed?0.35:0.9, opacity:removed?0.5:1,
     });
-    // ポップアップ HTML（名称・種別・コード・出典リンク）。データ由来はすべて esc/safeUrl 経由。
-    let html = `<span class="pname">${removed?'<span class="removed">★ </span>':''}${esc(p.name||'（名称不明）')}</span>`;
-    html += `<div class="pcounts">${LEVEL_LABEL_POINT(cat)}${p.code?` · ${esc(p.code)}`:''}</div>`;
-    const psrc = safeUrl(p.source_url);
-    if(psrc) html += `<a href="${esc(psrc)}" target="_blank" rel="noopener">出典 ↗</a>`;
-    m.bindPopup(html);
+    // ポップアップは開いた時に組み立てる（数百件分の HTML を先に作らない）
+    m.bindPopup(()=>pointPopup(p, cat, removed), { maxWidth:320 });
     cats[cat].push(m);
   });
   for(const c of Object.keys(cats)) pointGroups[c] = L.layerGroup(cats[c]);
@@ -161,6 +172,49 @@ function buildPoints(){
 }
 // 地点ポップアップ用の種別ラベル
 function LEVEL_LABEL_POINT(c){ return c==='mosque'?'モスク':c==='prayer_room'?'祈祷室':'予定地'; }
+
+// 地点ポップアップ HTML（名称・種別・コード・補足属性・出典リンク）。データ由来はすべて esc/safeUrl 経由。
+function pointPopup(p, cat, removed){
+  let html = `<span class="pname">${removed?'<span class="removed">★ </span>':''}${esc(p.name||'（名称不明）')}</span>`;
+  html += `<div class="pcounts">${LEVEL_LABEL_POINT(cat)}${p.code?` · ${esc(p.code)}`:''}`+
+          `${p.origin==='yumaki'?' · 補足地点（マイマップ未掲載）':''}</div>`;
+  html += pointDetails(p);
+  const psrc = safeUrl(p.source_url);
+  if(psrc) html += `<a href="${esc(psrc)}" target="_blank" rel="noopener">出典 ↗</a>`;
+  return html;
+}
+// 日本のモスク情報から結合した属性（区域区分・運営・系統・葬儀）。結合の無い地点は空
+function pointDetails(p){
+  if(!p.yid) return '';
+  const rows=[];
+  const z = ZONE_STYLE[p.zone];
+  if(z) rows.push(`区域区分: <span class="zone-chip" style="background:${z.color}"></span>${esc(z.label)}`);
+  if(p.org_type || p.facility) rows.push(`運営: ${esc(p.org_type||'不明')}${p.facility?` · ${esc(p.facility)}`:''}`);
+  if(p.network && p.network.length) rows.push(`系統: ${p.network.map(esc).join('・')}`);
+  if(p.wash) rows.push(`遺体の洗浄施設: ${p.wash==='now'?'あり':'計画あり'}`);
+  const links=[];
+  const hp = safeUrl(p.homepage);
+  if(hp) links.push(`<a href="${esc(hp)}" target="_blank" rel="noopener">公式サイト ↗</a>`);
+  links.push(`<a href="${esc(yumakiUrl(p))}" target="_blank" rel="noopener">詳しい情報（日本のモスク情報）↗</a>`);
+  return `<div class="pdetail">${rows.map(r=>`<div>${r}</div>`).join('')}`+
+         `<div class="plinks">${links.join(' · ')}</div></div>`;
+}
+// 同サイトの該当地点の詳細ページ
+function yumakiUrl(p){
+  return /^m-[0-9a-f]+$/.test(p.yid||'') ? `${YUMAKI_BASE}mosque.html#${p.yid}` : YUMAKI_BASE;
+}
+// 区域区分モードの凡例（区域ごとの地点数と注意書き）
+function updateZoneLegend(){
+  const el=document.getElementById('zone-legend'); if(!el) return;
+  el.hidden = state.pointColor!=='zone';
+  if(el.hidden) return;
+  const n={}; let unk=0;
+  mosquesGeo.features.forEach(f=>{ const z=f.properties.zone; if(ZONE_STYLE[z]) n[z]=(n[z]||0)+1; else unk++; });
+  el.innerHTML = Object.entries(ZONE_STYLE).map(([k,z])=>
+      `<div class="row"><span class="swatch" style="background:${z.color}"></span>${esc(z.label)} <em>${n[k]||0}</em></div>`).join('')+
+    `<div class="row"><span class="swatch" style="background:${ZONE_UNKNOWN}"></span>区域区分の情報なし <em>${unk}</em></div>`+
+    `<div class="legend-note">区域区分は「日本のモスク情報」の判定。市街化調整区域にあることは違法を意味しない（区域区分の決定前からの建物や許可を受けた建物もある）。</div>`;
+}
 
 // 強度（1点あたりの重み）を反映した点配列を作る
 function heatPoints(){
@@ -266,8 +320,14 @@ function repsBlock(p){
     const term = r.termEnd ? `<span class="rep-cls">任期満了 ${esc(r.termEnd)}</span>` : '';
     // 政令市の行政区は親市の市長を表示し、任命職である旨を注記
     const inh = r.inherited ? `<div class="rep-endorse">${esc(r.parentCity)}長（行政区長は任命職）</div>` : '';
+    // 欠員（辞職・死去などで在任者なし）は参院の欠員と同じ表記にし、注記（次の選挙日など）を添える
+    const who = r.vacant
+      ? `<span class="rep-vacant">（欠員）</span>${r.note?`<span class="rep-note"> ${esc(r.note)}</span>`:''}`
+      : `${esc(r.name)} ${term}`;
+    // 当選済み・就任前の次期首長
+    const next = r.next ? `<div class="rep-endorse">次期: ${esc(r.next.name)}（${esc(r.next.takesOffice)} 就任予定）</div>` : '';
     return `<div class="reps"><div class="rep-office">${esc(r.office||'首長')}</div>`+
-           `<div class="rep-name">${esc(r.name)} ${term}</div>${inh}`+
+           `<div class="rep-name">${who}</div>${inh}${next}`+
            `<div class="rep-src">${esc(REPS.muni.asOf||'')}現在${srcLink(r.sourceUrl,'出典↗')}</div></div>`;
   }
   return '';
@@ -328,6 +388,9 @@ function renderDistricts(){
     attachDistrictHandlers(outlineLayer, false);
     outlineLayer.addTo(map);
   }
+  // 区を描き直すと同じ Canvas 上で地点より後に描かれ、半透明の塗りで地点が霞むため、
+  // 地点を最前面に戻す（別ペインの Canvas に分けると下の区のホバー・クリックを塞ぐので描画順で解決）
+  for(const g of Object.values(pointGroups)) g.eachLayer(l=>l.bringToFront());
   updateLegend();
   renderRanking();
 }
@@ -496,6 +559,9 @@ function wireUI(){
   document.getElementById('pt-mosque').addEventListener('change',e=>{state.points.mosque=e.target.checked;renderPoints();});
   document.getElementById('pt-prayer').addEventListener('change',e=>{state.points.prayer_room=e.target.checked;renderPoints();});
   document.getElementById('pt-planned').addEventListener('change',e=>{state.points.planned=e.target.checked;renderPoints();});
+  document.getElementById('pt-color').addEventListener('change',e=>{
+    state.pointColor=e.target.value; buildPoints(); renderPoints(); updateZoneLegend();
+  });
   document.getElementById('pt-heat').addEventListener('change',e=>{state.heat=e.target.checked;syncHeatSection();renderPoints();});
   // 点ヒート設定（半径・ぼかし・強度・階調）。共通ハンドラで state と現在値ラベルを更新
   const wireHeat=(id,key,which,fmt)=>{
@@ -562,6 +628,7 @@ function readStateFromDOM(){
   state.points.mosque=document.getElementById('pt-mosque').checked;
   state.points.prayer_room=document.getElementById('pt-prayer').checked;
   state.points.planned=document.getElementById('pt-planned').checked;
+  state.pointColor=document.getElementById('pt-color').value;
   state.heat=document.getElementById('pt-heat').checked;
   state.heatOpts.radius=+document.getElementById('heat-radius').value;
   state.heatOpts.blur=+document.getElementById('heat-blur').value;
@@ -574,9 +641,12 @@ async function init(){
   // 地図を生成（日本中心・多数ポリゴン対策で Canvas レンダラを既定に）
   map = L.map('map', { preferCanvas:true, zoomControl:true }).setView([37.6,137.5], 5);
   canvasRenderer = L.canvas({ padding:0.5 });
-  // 背景タイル（CARTO Positron。表示にはネット接続が必要）
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    attribution:'© OpenStreetMap contributors © CARTO', subdomains:'abcd', maxZoom:19,
+  // 背景タイル（地理院タイル 淡色地図。表示にはネット接続が必要）。以前の CARTO Positron は
+  // 2026年に APIキー必須となり、キー無しでは全タイルが「API KEY REQUIRED」表示になったため置き換えた。
+  // 塗り分けを見やすくするため半透明で敷く
+  L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
+    attribution:'<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">地理院タイル</a>',
+    minZoom:2, maxZoom:18, opacity:0.6,
   }).addTo(map);
 
   // モスク地点を読み込む（無ければ空で続行し、注意書きを出す）
@@ -606,6 +676,7 @@ async function init(){
 
   // UI 配線 → 初期状態を DOM から取得 → 現在値ラベルとヒートを同期 → 各レイヤーを初回描画
   wireUI(); readStateFromDOM(); refreshControlLabels(); syncSections(); syncHeatSection();
-  updateHeat('all'); renderPoints(); renderDistricts();
+  if(state.pointColor!=='type') buildPoints();   // ブラウザが前回の「点の色」を復元した場合
+  updateHeat('all'); renderPoints(); renderDistricts(); updateZoneLegend();
 }
 init();

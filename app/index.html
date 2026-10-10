@@ -84,6 +84,15 @@
         <label class="chk"><input type="checkbox" autocomplete="off" id="pt-mosque" checked> <span class="dot dot-mosque"></span> モスク <em id="n-mosque"></em></label>
         <label class="chk"><input type="checkbox" autocomplete="off" id="pt-prayer" checked> <span class="dot dot-prayer"></span> 祈祷室 <em id="n-prayer"></em></label>
         <label class="chk"><input type="checkbox" autocomplete="off" id="pt-planned" checked> <span class="dot dot-planned"></span> 予定地 <em id="n-planned"></em></label>
+        <!-- 点の色: 種別（既定）か、区域区分（都市計画の区域。日本のモスク情報より） -->
+        <div class="ctl-row">
+          <label class="ctl-label" for="pt-color">点の色</label>
+          <select id="pt-color" autocomplete="off">
+            <option value="type" selected>種別</option>
+            <option value="zone">区域区分（都市計画）</option>
+          </select>
+        </div>
+        <div id="zone-legend" class="legend" hidden></div>  <!-- 区域区分モードの凡例（app.js が描く） -->
         <label class="chk"><input type="checkbox" autocomplete="off" id="pt-heat"> 🔥 点ヒートマップ</label>
         <!-- 点ヒートの詳細設定（🔥 ON のときだけ表示。既定は非表示、JS が syncHeatSection で切替） -->
         <div id="sec-heat" class="heat-settings" style="display:none">
@@ -111,11 +120,12 @@
       <section class="footer">
         <div id="readout" class="readout">区にカーソルを合わせると詳細が出ます…</div>
         <div class="src">
-          <b>モスク:</b> 全国モスクリスト (Google マイマップ, 2026-06-23)<br>
+          <b>モスク:</b> 全国モスクリスト (Google マイマップ, 2026-10-09)<br>
+          <b>区域区分・運営団体・葬儀:</b> <a href="https://yumaki5555.github.io/mosque-map/" target="_blank" rel="noopener">日本のモスク情報</a>（事実のみ抜粋）<br>
           <b>市区町村/都道府県/参院:</b> 国土数値情報 行政区域 N03（国土交通省）<br>
           <b>衆院小選挙区 (289, 2022–):</b> 東大CSIS 西澤明 / gtfs-gis.jp (CC0)<br>
           <b>議員データ:</b> 国会・自治体公式 / 選管 / 報道等（公職者のみ） · <span id="src-reps">—</span><br>
-          <b>背景地図:</b> © OpenStreetMap contributors © CARTO · <span id="src-boundaries">—</span>
+          <b>背景地図:</b> 地理院タイル（淡色地図・国土地理院） · <span id="src-boundaries">—</span>
         </div>
       </section>
     </div>
