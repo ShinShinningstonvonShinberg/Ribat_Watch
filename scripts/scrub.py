@@ -62,6 +62,10 @@ SOCIAL_HOSTS = (
     "linktr.ee", "lit.link", "linkin.bio", "ameblo.jp", "note.com",
     "pinterest.com", "pinterest.jp", "snapchat.com", "mixi.jp",
 )
+# マイマップに投稿された写真（説明文の <img>）。出典ではなく、人が写りうる写真で、さらに KML を
+# 書き出すたびにURLのトークンが変わるため、残すと毎回の定期更新が中身の無い差分PRになる。
+# 一般化で常に落とす（2026-10 に追加）。
+_HOSTED_IMAGE_RE = re.compile(r"^https?://mymaps\.usercontent\.google\.com/hostedimage/", re.I)
 
 # URL除去後に残るSNSラベルだけの断片（保険。一般化では自由記述を全破棄するため通常不要）
 LABEL_ONLY_RE = re.compile(r"^\s*(tiktok|facebook|fb|instagram|インスタ|youtube|x|twitter)\s*[:：]?\s*$", re.I)
@@ -141,6 +145,8 @@ class Scrubber:
             key = norm_url(u)
             if _is_social(host) and key not in gf:
                 continue                               # 未承認のSNS（改ざん含む）は破棄
+            if _HOSTED_IMAGE_RE.match(u):
+                continue                               # マイマップの投稿写真は破棄（上の定義を参照）
             if key in seen:                            # 重複URLは1つに
                 continue
             seen.add(key)

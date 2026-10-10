@@ -28,7 +28,6 @@ import re
 import sys
 import json
 import argparse
-import datetime
 import urllib.request
 import urllib.error
 
@@ -144,7 +143,6 @@ def main():
             "source": "日本のモスク情報",
             "sourceUrl": BASE,
             "siteUpdated": site_updated(html["index.html"]),
-            "fetched": datetime.date.today().isoformat(),
             "note": "マイマップ由来の地点の事実（分類値・URL）のみを抜粋。",
             "zoneLabels": ZONE_LABEL,
             "places": out,
