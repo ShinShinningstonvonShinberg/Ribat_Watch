@@ -1,7 +1,7 @@
 {
  "source": "日本のモスク情報",
  "sourceUrl": "https://yumaki5555.github.io/mosque-map/",
- "siteUpdated": "2026-10-10T01:40+09:00",
+ "siteUpdated": "2026-10-11T20:41+09:00",
  "note": "マイマップ由来の地点の事実（分類値・URL）のみを抜粋。",
  "zoneLabels": {
   "urban": "市街化区域",
@@ -312,24 +312,6 @@
    "zone": "nosen",
    "orgType": "法人の登録は見当たらない",
    "facility": "小規模モスク",
-   "network": [],
-   "homepage": "",
-   "washNow": false,
-   "washPlan": false,
-   "lastChecked": "2026-10-09"
-  },
-  {
-   "yid": "m-83525f90",
-   "name": "Mosque",
-   "pref": "宮城県",
-   "city": "大郷町",
-   "lat": 38.387686,
-   "lon": 140.985167,
-   "gmaps": "https://www.google.com/maps/place/Mosque/@38.3876858,140.9851666,650m/data=!3m2!1e3!4b1!4m6!3m5!1s0x5f899d006f79e081:0x754216dbec5c0ff1!8m2!3d38.3876858!4d140.9851666!16s%2Fg%2F11ychgfj2x?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
-   "removedFromGmaps": false,
-   "zone": "nosen",
-   "orgType": "不明",
-   "facility": null,
    "network": [],
    "homepage": "",
    "washNow": false,
@@ -749,13 +731,13 @@
    "name": "Al Mustafa Masjid",
    "pref": "茨城県",
    "city": "坂東市",
-   "lat": 36.073437,
-   "lon": 139.858123,
+   "lat": 36.07351,
+   "lon": 139.858092,
    "gmaps": "https://www.google.com/maps?cid=6308728704085806933",
    "removedFromGmaps": false,
    "zone": "control",
    "orgType": "特定非営利活動法人（NPO法人）",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [
     {
      "code": "MINHAJ",
@@ -765,7 +747,7 @@
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-b2150eb5",
@@ -774,16 +756,21 @@
    "city": "坂東市",
    "lat": 36.042009,
    "lon": 139.891192,
-   "gmaps": "https://www.google.com/maps?cid=5434059926098836829",
+   "gmaps": "https://www.google.com/maps?cid=17750273442108516837",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
-   "network": [],
+   "orgType": "一般社団法人",
+   "facility": "小規模モスク",
+   "network": [
+    {
+     "code": "ICF",
+     "name": "一般社団法人ISLAMIC CULTURAL FOUNDATION JAPAN（ICF Japan）"
+    }
+   ],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-10-05"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-cd25ddf6",
@@ -795,13 +782,13 @@
    "gmaps": "https://www.google.com/maps?cid=4263717013579662854",
    "removedFromGmaps": false,
    "zone": "control",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-55eac4a8",
@@ -810,16 +797,16 @@
    "city": "坂東市",
    "lat": 36.118056,
    "lon": 139.852711,
-   "gmaps": "https://www.google.com/maps?cid=2441436420311645008",
-   "removedFromGmaps": false,
+   "gmaps": "https://www.google.com/maps/search/?api=1&query=36.1180563,139.8527109",
+   "removedFromGmaps": true,
    "zone": "control",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-037afa24",
@@ -831,13 +818,13 @@
    "gmaps": "https://www.google.com/maps?cid=13530365417682418542",
    "removedFromGmaps": false,
    "zone": "control",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "株式会社",
+   "facility": "簡易礼拝所",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-eb7aea23",
@@ -849,13 +836,13 @@
    "gmaps": "https://www.google.com/maps?cid=1047167602215760293",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "https://masjidbaitunnur.org/",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-86d6217c",
@@ -867,13 +854,13 @@
    "gmaps": "https://www.google.com/maps?cid=4813600810448894538",
    "removedFromGmaps": false,
    "zone": "nosen",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "http://www2.dokidoki.ne.jp/islam/benri/m_omitama2.htm",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-3b224933",
@@ -885,13 +872,13 @@
    "gmaps": "https://www.google.com/maps?cid=5653387251935309112",
    "removedFromGmaps": false,
    "zone": "nosen",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "株式会社",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-4f5015cc",
@@ -903,13 +890,13 @@
    "gmaps": "https://www.google.com/maps?cid=3828267016357394228",
    "removedFromGmaps": false,
    "zone": "control",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "合同会社",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-32f5912f",
@@ -922,17 +909,17 @@
    "removedFromGmaps": false,
    "zone": "control",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [
     {
      "code": "MINHAJ",
      "name": "ミンハージュ・ウル・クルアーン"
     }
    ],
-   "homepage": "http://www.minhaj.org/Japan",
+   "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-d8cfd472",
@@ -945,12 +932,12 @@
    "removedFromGmaps": false,
    "zone": "control",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "簡易礼拝所",
    "network": [],
    "homepage": "https://sakaimachijamemasjid.com/",
    "washNow": false,
    "washPlan": true,
-   "lastChecked": "2026-10-07"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-08b37648",
@@ -959,16 +946,16 @@
    "city": "境町",
    "lat": 36.073606,
    "lon": 139.835593,
-   "gmaps": "https://www.google.com/maps?cid=10204869034949930987",
-   "removedFromGmaps": false,
+   "gmaps": "https://www.google.com/maps/search/?api=1&query=36.0736057,139.8355927",
+   "removedFromGmaps": true,
    "zone": "control",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-85d94579",
@@ -981,12 +968,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [],
-   "homepage": "https://sites.google.com/site/utsunomiyamuslim/",
+   "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-6c67045b",
@@ -998,18 +985,18 @@
    "gmaps": "https://www.google.com/maps?cid=4416698157159290591",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "宗教法人（の支部）",
+   "facility": "小規模モスク",
    "network": [
     {
      "code": "JIT",
      "name": "日本イスラーム文化センター（JIT）"
     }
    ],
-   "homepage": "https://www.islam.or.jp/en/our-masajid/",
+   "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-1bb3724d",
@@ -1022,12 +1009,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-1ecfebef",
@@ -1039,36 +1026,41 @@
    "gmaps": "https://www.google.com/maps?cid=9245208229943371288",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
-   "network": [],
+   "orgType": "宗教法人（の支部）",
+   "facility": "大規模モスク",
+   "network": [
+    {
+     "code": "DARUS",
+     "name": "宗教法人ダル・ウッサラーム"
+    }
+   ],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-dc7a586a",
    "name": "Iqra Mosque (Kanuma Mosque)",
    "pref": "栃木県",
    "city": "鹿沼市",
-   "lat": 36.540226,
-   "lon": 139.811609,
+   "lat": 36.540268,
+   "lon": 139.811396,
    "gmaps": "https://www.google.com/maps?cid=14946840257998626670",
    "removedFromGmaps": false,
    "zone": "control",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "一般社団法人",
+   "facility": "小規模モスク",
    "network": [
     {
      "code": "ICOJ",
      "name": "イスラミック・サークル・オブ・ジャパン（ICOJ）"
     }
    ],
-   "homepage": "",
+   "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-iqra-kanuma-mosque/",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-cd2b45f6",
@@ -1080,13 +1072,13 @@
    "gmaps": "https://www.google.com/maps?cid=8737065992230197506",
    "removedFromGmaps": false,
    "zone": "control",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-e9ec0b2e",
@@ -1098,18 +1090,18 @@
    "gmaps": "https://www.google.com/maps?cid=10655276472800310605",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "一般社団法人",
+   "facility": "大規模モスク",
    "network": [
     {
      "code": "ICOJ",
      "name": "イスラミック・サークル・オブ・ジャパン（ICOJ）"
     }
    ],
-   "homepage": "",
-   "washNow": false,
+   "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-babul-islam/",
+   "washNow": true,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-1457b865",
@@ -1121,18 +1113,18 @@
    "gmaps": "https://www.google.com/maps?cid=17697791475767286755",
    "removedFromGmaps": false,
    "zone": "nosen",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "一般社団法人",
+   "facility": "小規模モスク",
    "network": [
     {
      "code": "ICOJ",
      "name": "イスラミック・サークル・オブ・ジャパン（ICOJ）"
     }
    ],
-   "homepage": "http://www.icoj.org/",
+   "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-riyazul-jannah/",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-19b4119b",
@@ -1145,48 +1137,30 @@
    "removedFromGmaps": false,
    "zone": "nosen",
    "orgType": "不明",
-   "facility": "コミュニティ",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
-  },
-  {
-   "yid": "m-dc5eea27",
-   "name": "Kaminokawa Mosque",
-   "pref": "栃木県",
-   "city": "上三川町",
-   "lat": 36.477116,
-   "lon": 139.90993,
-   "gmaps": "http://google.com/maps?cid=10288449002030732476",
-   "removedFromGmaps": false,
-   "zone": "control",
-   "orgType": "不明",
-   "facility": null,
-   "network": [],
-   "homepage": "",
-   "washNow": false,
-   "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-adb69943",
    "name": "SUFI ISLAMIC CENTER (Masjid Zain-ul-Abideen)NOGI, TOCHIGI.",
    "pref": "栃木県",
    "city": "野木町",
-   "lat": 36.225766,
-   "lon": 139.766337,
+   "lat": 36.225968,
+   "lon": 139.766426,
    "gmaps": "https://www.google.com/maps?cid=10127816217647074314",
    "removedFromGmaps": false,
    "zone": "control",
-   "orgType": "一般社団法人",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-c3cf42fa",
@@ -1199,7 +1173,7 @@
    "removedFromGmaps": false,
    "zone": "nosen",
    "orgType": "特定非営利活動法人（NPO法人）",
-   "facility": null,
+   "facility": "大規模モスク",
    "network": [
     {
      "code": "MINHAJ",
@@ -1209,43 +1183,25 @@
    "homepage": "http://www.minhaj.org/",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
-  },
-  {
-   "yid": "m-608d3542",
-   "name": "BERESTA MASJID",
-   "pref": "群馬県",
-   "city": "高崎市",
-   "lat": 36.333807,
-   "lon": 139.00895,
-   "gmaps": "https://www.google.com/maps?cid=18423057502825470533",
-   "removedFromGmaps": false,
-   "zone": "urban",
-   "orgType": "不明",
-   "facility": "簡易礼拝所",
-   "network": [],
-   "homepage": "",
-   "washNow": false,
-   "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-da71e26d",
    "name": "Darussalam Kuragano",
    "pref": "群馬県",
    "city": "高崎市",
-   "lat": 36.293148,
-   "lon": 139.069783,
+   "lat": 36.293196,
+   "lon": 139.069686,
    "gmaps": "https://www.google.com/maps?cid=935053269097279440",
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "不明",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-cf7ca85f",
@@ -1257,13 +1213,36 @@
    "gmaps": "http://google.com/maps?cid=7123825933561215142",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "宗教法人（の支部）",
+   "facility": "小規模モスク",
+   "network": [
+    {
+     "code": "DARUS",
+     "name": "宗教法人ダル・ウッサラーム"
+    }
+   ],
+   "homepage": "",
+   "washNow": false,
+   "washPlan": false,
+   "lastChecked": "2026-10-10"
+  },
+  {
+   "yid": "m-257c4087",
+   "name": "Gunma Imambargah Aza Khana Syed Zakir Hussain Mossavi",
+   "pref": "群馬県",
+   "city": "伊勢崎市",
+   "lat": 36.318366,
+   "lon": 139.253424,
+   "gmaps": "https://www.google.com/maps?cid=13254946821854156801",
+   "removedFromGmaps": false,
+   "zone": "nosen",
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-7ef324df",
@@ -1275,13 +1254,13 @@
    "gmaps": "https://www.google.com/maps?cid=537399464141445066",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-004b325e",
@@ -1294,7 +1273,7 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "宗教法人",
-   "facility": null,
+   "facility": "大規模モスク",
    "network": [
     {
      "code": "DARUS",
@@ -1302,9 +1281,9 @@
     }
    ],
    "homepage": "",
-   "washNow": false,
+   "washNow": true,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-9dee91b9",
@@ -1316,13 +1295,13 @@
    "gmaps": "https://www.google.com/maps?cid=15554714275668125383",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "大規模モスク",
    "network": [],
    "homepage": "https://www.isesakimasjid.com/",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-4b0620ce",
@@ -1335,12 +1314,12 @@
    "removedFromGmaps": false,
    "zone": "control",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-415304ba",
@@ -1353,12 +1332,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-052503e0",
@@ -1371,12 +1350,12 @@
    "removedFromGmaps": false,
    "zone": "control",
    "orgType": "特定非営利活動法人（NPO法人）",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-10-06"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-148faa1e",
@@ -1388,13 +1367,18 @@
    "gmaps": "https://www.google.com/maps?cid=14820868961294803345",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
-   "network": [],
+   "orgType": "宗教法人",
+   "facility": "小規模モスク",
+   "network": [
+    {
+     "code": "DARUS",
+     "name": "宗教法人ダル・ウッサラーム"
+    }
+   ],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-4b997d2f",
@@ -1406,18 +1390,18 @@
    "gmaps": "https://www.google.com/maps?cid=16085352200008921118",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "一般社団法人",
+   "facility": "大規模モスク",
    "network": [
     {
      "code": "ICOJ",
      "name": "イスラミック・サークル・オブ・ジャパン（ICOJ）"
     }
    ],
-   "homepage": "",
-   "washNow": false,
+   "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-quba/",
+   "washNow": true,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-6cac6d51",
@@ -1429,13 +1413,13 @@
    "gmaps": "https://www.google.com/maps?cid=2603043847295971587",
    "removedFromGmaps": false,
    "zone": "nosen",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-a299b3dc",
@@ -1683,7 +1667,12 @@
    "zone": "control",
    "orgType": "一般社団法人",
    "facility": null,
-   "network": [],
+   "network": [
+    {
+     "code": "ICF",
+     "name": "一般社団法人ISLAMIC CULTURAL FOUNDATION JAPAN（ICF Japan）"
+    }
+   ],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
@@ -1773,7 +1762,12 @@
    "zone": "control",
    "orgType": "一般社団法人",
    "facility": null,
-   "network": [],
+   "network": [
+    {
+     "code": "ICF",
+     "name": "一般社団法人ISLAMIC CULTURAL FOUNDATION JAPAN（ICF Japan）"
+    }
+   ],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
@@ -1867,7 +1861,7 @@
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-10-07"
+   "lastChecked": "2026-10-10"
   },
   {
    "yid": "m-931e0c75",
@@ -2416,10 +2410,10 @@
      "name": "一般社団法人NU日本特別支部"
     }
    ],
-   "homepage": "",
+   "homepage": "https://nuippanshadan.org/",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-a239bfae",
@@ -2431,13 +2425,13 @@
    "gmaps": "https://www.google.com/maps?cid=5882604294244177500",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
+   "orgType": "法人の登録は見当たらない",
    "facility": null,
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-10-07"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-4c261d2d",
@@ -2449,13 +2443,13 @@
    "gmaps": "https://www.google.com/maps?cid=7273888379838543013",
    "removedFromGmaps": false,
    "zone": "urban",
-   "orgType": "不明",
-   "facility": null,
+   "orgType": "法人の登録は見当たらない",
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-10-06"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-45d87679",
@@ -2468,12 +2462,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "宗教法人",
-   "facility": null,
+   "facility": "大規模モスク",
    "network": [],
-   "homepage": "http://www.assalaamfoundation.org/",
+   "homepage": "https://assalaamfoundation.jp/",
    "washNow": false,
    "washPlan": true,
-   "lastChecked": "2026-10-05"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-82778884",
@@ -2486,17 +2480,17 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [
     {
      "code": "ICOJ",
      "name": "イスラミック・サークル・オブ・ジャパン（ICOJ）"
     }
    ],
-   "homepage": "https://islaminjapan.org/",
-   "washNow": false,
+   "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-darul-arqam/",
+   "washNow": true,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-d7302314",
@@ -2509,12 +2503,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "簡易礼拝所",
    "network": [],
    "homepage": "https://kinshichomasjid.com/",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-10-06"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-ab313005",
@@ -2527,12 +2521,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "簡易礼拝所",
    "network": [],
    "homepage": "https://www.daraltaqwajapan.com/",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-10-06"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-0409549f",
@@ -2545,12 +2539,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "宗教法人",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "https://www.muslim.or.jp/",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-6ca54d05",
@@ -2563,12 +2557,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "大規模モスク",
    "network": [],
-   "homepage": "",
-   "washNow": false,
+   "homepage": "https://kmii.jp/ja/masjid",
+   "washNow": true,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-8ed6ea2d",
@@ -2581,12 +2575,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "一般社団法人",
-   "facility": null,
+   "facility": "小規模モスク",
    "network": [],
    "homepage": "",
    "washNow": false,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-0b1f2fd8",
@@ -2640,12 +2634,12 @@
    "removedFromGmaps": false,
    "zone": "urban",
    "orgType": "宗教法人",
-   "facility": null,
+   "facility": "大規模モスク",
    "network": [],
    "homepage": "https://tokyocamii.org/ja/",
    "washNow": true,
    "washPlan": false,
-   "lastChecked": "2026-06-23"
+   "lastChecked": "2026-10-11"
   },
   {
    "yid": "m-720d1e11",
@@ -4873,24 +4867,6 @@
    "facility": null,
    "network": [],
    "homepage": "https://www.fukuokamasjid.org/",
-   "washNow": false,
-   "washPlan": false,
-   "lastChecked": "2026-06-23"
-  },
-  {
-   "yid": "m-e61a292a",
-   "name": "Mushola tsuruta🕌",
-   "pref": "福岡県",
-   "city": "朝倉市",
-   "lat": 33.397289,
-   "lon": 130.627274,
-   "gmaps": "https://www.google.com/maps?cid=15782712390807781052",
-   "removedFromGmaps": false,
-   "zone": "nosen",
-   "orgType": "不明",
-   "facility": "簡易礼拝所",
-   "network": [],
-   "homepage": "",
    "washNow": false,
    "washPlan": false,
    "lastChecked": "2026-06-23"
