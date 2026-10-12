@@ -309,10 +309,7 @@
     "name": "Mosque",
     "removed_from_gmaps": false,
     "source_url": "",
-    "description": "",
-    "yid": "m-83525f90",
-    "zone": "nosen",
-    "org_type": "不明"
+    "description": ""
    }
   },
   {
@@ -648,7 +645,8 @@
     "description": "",
     "yid": "m-037afa24",
     "zone": "control",
-    "org_type": "不明"
+    "org_type": "株式会社",
+    "facility": "簡易礼拝所"
    }
   },
   {
@@ -717,7 +715,8 @@
     "description": "",
     "yid": "m-3b224933",
     "zone": "nosen",
-    "org_type": "不明"
+    "org_type": "株式会社",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -739,7 +738,8 @@
     "description": "",
     "yid": "m-86d6217c",
     "zone": "nosen",
-    "org_type": "不明",
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク",
     "homepage": "http://www2.dokidoki.ne.jp/islam/benri/m_omitama2.htm"
    }
   },
@@ -762,7 +762,8 @@
     "description": "",
     "yid": "m-cd25ddf6",
     "zone": "control",
-    "org_type": "不明"
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -808,6 +809,7 @@
     "yid": "m-cc214fe3",
     "zone": "control",
     "org_type": "特定非営利活動法人（NPO法人）",
+    "facility": "小規模モスク",
     "network": [
      "ミンハージュ・ウル・クルアーン"
     ]
@@ -928,10 +930,10 @@
     "yid": "m-32f5912f",
     "zone": "control",
     "org_type": "一般社団法人",
+    "facility": "小規模モスク",
     "network": [
      "ミンハージュ・ウル・クルアーン"
-    ],
-    "homepage": "http://www.minhaj.org/Japan"
+    ]
    }
   },
   {
@@ -953,7 +955,11 @@
     "description": "",
     "yid": "m-b2150eb5",
     "zone": "urban",
-    "org_type": "不明"
+    "org_type": "一般社団法人",
+    "facility": "小規模モスク",
+    "network": [
+     "一般社団法人ISLAMIC CULTURAL FOUNDATION JAPAN（ICF Japan）"
+    ]
    }
   },
   {
@@ -975,7 +981,8 @@
     "description": "",
     "yid": "m-4f5015cc",
     "zone": "control",
-    "org_type": "不明"
+    "org_type": "合同会社",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1020,7 +1027,8 @@
     "description": "",
     "yid": "m-eb7aea23",
     "zone": "urban",
-    "org_type": "不明",
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク",
     "homepage": "https://masjidbaitunnur.org/"
    }
   },
@@ -1095,7 +1103,8 @@
     "description": "https://www.facebook.com/p/مركز-و-حسينية-اهل-البيت-في-ايباراكي-اليابان-61573217585716/‎",
     "yid": "m-08b37648",
     "zone": "control",
-    "org_type": "不明"
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1117,7 +1126,8 @@
     "description": "https://www.instagram.com/musholla.bando.ibaraki/ https://www.youtube.com/watch?v=_RQwD13b9oA",
     "yid": "m-55eac4a8",
     "zone": "control",
-    "org_type": "不明"
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1162,7 +1172,8 @@
     "description": "",
     "yid": "m-adb69943",
     "zone": "control",
-    "org_type": "一般社団法人"
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1184,7 +1195,8 @@
     "description": "",
     "yid": "m-cd2b45f6",
     "zone": "control",
-    "org_type": "不明"
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1206,7 +1218,8 @@
     "description": "",
     "yid": "m-1bb3724d",
     "zone": "urban",
-    "org_type": "一般社団法人"
+    "org_type": "一般社団法人",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1229,7 +1242,7 @@
     "yid": "m-85d94579",
     "zone": "urban",
     "org_type": "一般社団法人",
-    "homepage": "https://sites.google.com/site/utsunomiyamuslim/"
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1248,10 +1261,7 @@
     "name": "Kaminokawa Mosque",
     "removed_from_gmaps": false,
     "source_url": "",
-    "description": "",
-    "yid": "m-dc5eea27",
-    "zone": "control",
-    "org_type": "不明"
+    "description": ""
    }
   },
   {
@@ -1273,11 +1283,12 @@
     "description": "",
     "yid": "m-1457b865",
     "zone": "nosen",
-    "org_type": "不明",
+    "org_type": "一般社団法人",
+    "facility": "小規模モスク",
     "network": [
      "イスラミック・サークル・オブ・ジャパン（ICOJ）"
     ],
-    "homepage": "http://www.icoj.org/"
+    "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-riyazul-jannah/"
    }
   },
   {
@@ -1299,10 +1310,12 @@
     "description": "",
     "yid": "m-dc7a586a",
     "zone": "control",
-    "org_type": "不明",
+    "org_type": "一般社団法人",
+    "facility": "小規模モスク",
     "network": [
      "イスラミック・サークル・オブ・ジャパン（ICOJ）"
-    ]
+    ],
+    "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-iqra-kanuma-mosque/"
    }
   },
   {
@@ -1324,7 +1337,11 @@
     "description": "",
     "yid": "m-1ecfebef",
     "zone": "urban",
-    "org_type": "不明"
+    "org_type": "宗教法人（の支部）",
+    "facility": "大規模モスク",
+    "network": [
+     "宗教法人ダル・ウッサラーム"
+    ]
    }
   },
   {
@@ -1346,11 +1363,11 @@
     "description": "",
     "yid": "m-6c67045b",
     "zone": "urban",
-    "org_type": "不明",
+    "org_type": "宗教法人（の支部）",
+    "facility": "小規模モスク",
     "network": [
      "日本イスラーム文化センター（JIT）"
-    ],
-    "homepage": "https://www.islam.or.jp/en/our-masajid/"
+    ]
    }
   },
   {
@@ -1372,10 +1389,13 @@
     "description": "",
     "yid": "m-e9ec0b2e",
     "zone": "urban",
-    "org_type": "不明",
+    "org_type": "一般社団法人",
+    "facility": "大規模モスク",
     "network": [
      "イスラミック・サークル・オブ・ジャパン（ICOJ）"
-    ]
+    ],
+    "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-babul-islam/",
+    "wash": "now"
    }
   },
   {
@@ -1398,7 +1418,7 @@
     "yid": "m-19b4119b",
     "zone": "nosen",
     "org_type": "不明",
-    "facility": "コミュニティ"
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1421,6 +1441,7 @@
     "yid": "m-c3cf42fa",
     "zone": "nosen",
     "org_type": "特定非営利活動法人（NPO法人）",
+    "facility": "大規模モスク",
     "network": [
      "ミンハージュ・ウル・クルアーン"
     ],
@@ -1446,7 +1467,8 @@
     "description": "",
     "yid": "m-6cac6d51",
     "zone": "nosen",
-    "org_type": "不明"
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1468,7 +1490,8 @@
     "description": "",
     "yid": "m-4b0620ce",
     "zone": "control",
-    "org_type": "一般社団法人"
+    "org_type": "一般社団法人",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1490,7 +1513,11 @@
     "description": "",
     "yid": "m-cf7ca85f",
     "zone": "urban",
-    "org_type": "不明"
+    "org_type": "宗教法人（の支部）",
+    "facility": "小規模モスク",
+    "network": [
+     "宗教法人ダル・ウッサラーム"
+    ]
    }
   },
   {
@@ -1512,7 +1539,8 @@
     "description": "",
     "yid": "m-415304ba",
     "zone": "urban",
-    "org_type": "一般社団法人"
+    "org_type": "一般社団法人",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1534,10 +1562,13 @@
     "description": "",
     "yid": "m-4b997d2f",
     "zone": "urban",
-    "org_type": "不明",
+    "org_type": "一般社団法人",
+    "facility": "大規模モスク",
     "network": [
      "イスラミック・サークル・オブ・ジャパン（ICOJ）"
-    ]
+    ],
+    "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-quba/",
+    "wash": "now"
    }
   },
   {
@@ -1559,7 +1590,11 @@
     "description": "",
     "yid": "m-148faa1e",
     "zone": "urban",
-    "org_type": "不明"
+    "org_type": "宗教法人",
+    "facility": "小規模モスク",
+    "network": [
+     "宗教法人ダル・ウッサラーム"
+    ]
    }
   },
   {
@@ -1581,7 +1616,8 @@
     "description": "",
     "yid": "m-da71e26d",
     "zone": "urban",
-    "org_type": "不明"
+    "org_type": "不明",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1603,7 +1639,8 @@
     "description": "",
     "yid": "m-7ef324df",
     "zone": "urban",
-    "org_type": "不明"
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -1626,9 +1663,11 @@
     "yid": "m-004b325e",
     "zone": "urban",
     "org_type": "宗教法人",
+    "facility": "大規模モスク",
     "network": [
      "宗教法人ダル・ウッサラーム"
-    ]
+    ],
+    "wash": "now"
    }
   },
   {
@@ -1650,7 +1689,8 @@
     "description": "",
     "yid": "m-9dee91b9",
     "zone": "urban",
-    "org_type": "不明",
+    "org_type": "法人の登録は見当たらない",
+    "facility": "大規模モスク",
     "homepage": "https://www.isesakimasjid.com/"
    }
   },
@@ -1670,11 +1710,7 @@
     "name": "BERESTA MASJID",
     "removed_from_gmaps": false,
     "source_url": "",
-    "description": "",
-    "yid": "m-608d3542",
-    "zone": "urban",
-    "org_type": "不明",
-    "facility": "簡易礼拝所"
+    "description": ""
    }
   },
   {
@@ -1696,7 +1732,8 @@
     "description": "",
     "yid": "m-052503e0",
     "zone": "control",
-    "org_type": "特定非営利活動法人（NPO法人）"
+    "org_type": "特定非営利活動法人（NPO法人）",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -2124,7 +2161,10 @@
     "description": "",
     "yid": "m-d312faee",
     "zone": "control",
-    "org_type": "一般社団法人"
+    "org_type": "一般社団法人",
+    "network": [
+     "一般社団法人ISLAMIC CULTURAL FOUNDATION JAPAN（ICF Japan）"
+    ]
    }
   },
   {
@@ -2256,7 +2296,10 @@
     "description": "",
     "yid": "m-d062b9e6",
     "zone": "control",
-    "org_type": "一般社団法人"
+    "org_type": "一般社団法人",
+    "network": [
+     "一般社団法人ISLAMIC CULTURAL FOUNDATION JAPAN（ICF Japan）"
+    ]
    }
   },
   {
@@ -2956,7 +2999,8 @@
     "description": "",
     "yid": "m-4c261d2d",
     "zone": "urban",
-    "org_type": "不明"
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -2978,7 +3022,10 @@
     "description": "",
     "yid": "m-6ca54d05",
     "zone": "urban",
-    "org_type": "一般社団法人"
+    "org_type": "一般社団法人",
+    "facility": "大規模モスク",
+    "homepage": "https://kmii.jp/ja/masjid",
+    "wash": "now"
    }
   },
   {
@@ -3001,6 +3048,7 @@
     "yid": "m-d7302314",
     "zone": "urban",
     "org_type": "一般社団法人",
+    "facility": "簡易礼拝所",
     "homepage": "https://kinshichomasjid.com/"
    }
   },
@@ -3120,10 +3168,12 @@
     "yid": "m-82778884",
     "zone": "urban",
     "org_type": "一般社団法人",
+    "facility": "小規模モスク",
     "network": [
      "イスラミック・サークル・オブ・ジャパン（ICOJ）"
     ],
-    "homepage": "https://islaminjapan.org/"
+    "homepage": "https://islaminjapan.org/masajid-under-management-of-islamic-circle-of-japan/masjid-darul-arqam/",
+    "wash": "now"
    }
   },
   {
@@ -3146,7 +3196,8 @@
     "yid": "m-45d87679",
     "zone": "urban",
     "org_type": "宗教法人",
-    "homepage": "http://www.assalaamfoundation.org/",
+    "facility": "大規模モスク",
+    "homepage": "https://assalaamfoundation.jp/",
     "wash": "plan"
    }
   },
@@ -3169,7 +3220,8 @@
     "description": "",
     "yid": "m-8ed6ea2d",
     "zone": "urban",
-    "org_type": "一般社団法人"
+    "org_type": "一般社団法人",
+    "facility": "小規模モスク"
    }
   },
   {
@@ -3215,6 +3267,7 @@
     "yid": "m-0409549f",
     "zone": "urban",
     "org_type": "宗教法人",
+    "facility": "小規模モスク",
     "homepage": "https://www.muslim.or.jp/"
    }
   },
@@ -3329,6 +3382,7 @@
     "yid": "m-87b0e480",
     "zone": "urban",
     "org_type": "宗教法人",
+    "facility": "大規模モスク",
     "homepage": "https://tokyocamii.org/ja/",
     "wash": "now"
    }
@@ -3379,7 +3433,8 @@
     "facility": "簡易礼拝所",
     "network": [
      "一般社団法人NU日本特別支部"
-    ]
+    ],
+    "homepage": "https://nuippanshadan.org/"
    }
   },
   {
@@ -3450,7 +3505,7 @@
     "description": "",
     "yid": "m-a239bfae",
     "zone": "urban",
-    "org_type": "不明"
+    "org_type": "法人の登録は見当たらない"
    }
   },
   {
@@ -3522,6 +3577,7 @@
     "yid": "m-ab313005",
     "zone": "urban",
     "org_type": "一般社団法人",
+    "facility": "簡易礼拝所",
     "homepage": "https://www.daraltaqwajapan.com/"
    }
   },
@@ -5996,11 +6052,7 @@
     "name": "Mushola tsuruta🕌",
     "removed_from_gmaps": false,
     "source_url": "",
-    "description": "",
-    "yid": "m-e61a292a",
-    "zone": "nosen",
-    "org_type": "不明",
-    "facility": "簡易礼拝所"
+    "description": ""
    }
   },
   {
@@ -6289,6 +6341,7 @@
     "yid": "m-d8cfd472",
     "zone": "control",
     "org_type": "一般社団法人",
+    "facility": "簡易礼拝所",
     "homepage": "https://sakaimachijamemasjid.com/",
     "wash": "plan"
    }
@@ -7131,6 +7184,30 @@
     "removed_from_gmaps": false,
     "source_url": "",
     "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.253424,
+     36.318366
+    ]
+   },
+   "properties": {
+    "layer": "mosque",
+    "code": "",
+    "seq": "",
+    "name": "Gunma Imambargah Aza Khana Syed Zakir Hussain Mossavi",
+    "removed_from_gmaps": false,
+    "source_url": "https://www.google.com/maps?cid=13254946821854156801",
+    "description": "https://www.google.com/maps?cid=13254946821854156801",
+    "origin": "yumaki",
+    "yid": "m-257c4087",
+    "zone": "nosen",
+    "org_type": "法人の登録は見当たらない",
+    "facility": "小規模モスク"
    }
   }
  ]
